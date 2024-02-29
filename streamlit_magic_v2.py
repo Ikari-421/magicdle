@@ -2,6 +2,9 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
+# Pour avoir le Layout en wide d'office
+st.set_page_config(layout="centered", page_width=950)
+
 # Mise en cache du dataframe
 if 'df_game' not in st.session_state:
     dataset = "df_game.csv"
@@ -19,7 +22,7 @@ if 'lengedary_index' not in st.session_state:
     st.session_state['lengedary_index'] = random.randint(0,1760)
 index = st.session_state['lengedary_index']
 todays_legend = df_game.iloc[index,0]
-
+df_todays_legend = df_game.iloc[index]
 #   ---------------------------------------
 #
 #          AFFICHAGE DE STREAMLIT
@@ -32,7 +35,7 @@ style_css = '''
 <style>
 [data-testid="stAppViewContainer"] {
 background-color:#000;
-background-image: url("https://media.wizards.com/images/magic/daily/wallpapers/Rakdos_Wallpaper_1920x1080.jpg?_gl=1*irug3u*_ga*MjA1NDMyNTExOS4xNzA5MTMyNzEw*_ga_X145Z177LS*MTcwOTEzMjcxMC4xLjEuMTcwOTEzMjcyMi40OC4wLjA.");
+background-image: url("https://github.com/Ikari-421/magicdle/blob/master/Rakdos_Wallpaper.jpg?raw=true");
 background-size: cover;
 background-repeat: no-repeat;
 margin: 0;
@@ -40,11 +43,15 @@ padding: 0;
 height: 100%;
 }
 .main{
+    width:950px
     margin-left: auto;
     margin-right: auto;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: bold;
     color: bisque;
+}
+.st-emotion-cache-1xw8zd0 e10yg2by1{
+    max-width:950px
 }
 .logo_entry{
     display: flex;
@@ -83,12 +90,13 @@ height: 100%;
 }
 .row_table .item{
     border: bisque solid 1px;
+    text-align:center;
 }
 .item{
     justify-content: center;
     display: flex;
     align-items: center;
-    width: 100px;
+    width: 150px;
     height: 100%;
 }
 .TRUE{
@@ -138,6 +146,28 @@ if 'df_zip_result' in st.session_state:
 else:
     df_zip_result = pd.DataFrame(columns = col_list)
 
+# ----------------------------------------------------
+#               AFFICHAGE DES INDICES
+# ----------------------------------------------------
+
+if len(df_zip_result) >= 1 :
+    st.write(df_todays_legend['name'])
+# Indice donné a partir d'un certain nombre d'essai
+if len(df_zip_result) >= 2 :
+    if st.button('Découvrir le coût Mana'):
+        st.warning(f'Le coût Mana est : {df_todays_legend['cmc']} ', icon="⚠️")
+
+if len(df_zip_result) >= 4 :
+    if st.button('Découvrir le Terrain'):
+        st.warning(f'Le Terrain est : {df_todays_legend['colors']} ', icon="⚠️")
+
+if len(df_zip_result) >= 6 :
+    if st.button('Découvrir le Sous Type'):
+        st.warning(f'Le Sous Type est : {df_todays_legend['subtype']} ', icon="⚠️")
+
+if len(df_zip_result) >= 8 :
+    if st.button('Découvrir le Légendaire'):
+        st.warning(f'Le legendaire est : {df_todays_legend['name']} ', icon="⚠️")
 
 # On verifie si un nom a été entré
 if submitted:
@@ -243,7 +273,14 @@ if submitted:
         # Boucle de récupération des infos
         for index in reversed(df_zip_result.index):
 
-            # index = len(df_zip_result) - index
+            # Liste de résultat pour affichage CSS
+            name_value = df_zip_result.iloc[index]['name_test']
+            cmc_value = df_zip_result.iloc[index]['cmc_test']
+            colors_value = df_zip_result.iloc[index]['colors_test']
+            subtypes_value = df_zip_result.iloc[index]['subtypes_test']
+            rarity_value = df_zip_result.iloc[index]['rarity_test']
+            power_value = df_zip_result.iloc[index]['power_test']
+            toughness_value = df_zip_result.iloc[index]['toughness_test']
             # Les infos du légendaire selectionné
             name = df_zip_result.iloc[index]['name']
             cmc = df_zip_result.iloc[index]['cmc']
@@ -252,25 +289,17 @@ if submitted:
             rarity = df_zip_result.iloc[index]['rarity']
             power = df_zip_result.iloc[index]['power']
             toughness = df_zip_result.iloc[index]['toughness']
-            # Liste de résultat
-            name_value = df_zip_result.iloc[index]['name_test']
-            cmc_value = df_zip_result.iloc[index]['cmc_test']
-            colors_value = df_zip_result.iloc[index]['colors_test']
-            subtypes_value = df_zip_result.iloc[index]['subtypes_test']
-            rarity_value = df_zip_result.iloc[index]['rarity_test']
-            power_value = df_zip_result.iloc[index]['power_test']
-            toughness_value = df_zip_result.iloc[index]['toughness_test']
 
             result_table_html = f'''
                 <div class="result_table">
                     <div class="row_table">
                         <div class="item">{name}</div>
-                        <div class="item {cmc_value}">{cmc, cmc_value}</div>
+                        <div class="item {cmc_value}">{cmc}<br>{cmc_value}</div>
                         <div class="item {colors_value}">{colors}</div>
                         <div class="item {subtypes_value}">{subtypes}</div>
                         <div class="item {rarity_value}">{rarity}</div>
-                        <div class="item {power_value}">{power, power_value}</div>
-                        <div class="item {toughness_value}">{toughness, toughness_value}</div>
+                        <div class="item {power_value}">{power}<br>{power_value}</div>
+                        <div class="item {toughness_value}">{toughness}<br>{toughness_value}</div>
                     </div>
                 </div>
             '''
@@ -279,23 +308,6 @@ if submitted:
 
     else:
         st.warning('ENTRER UN LEGENDAIRE', icon="⚠️")
-
-# Indice donné a partir d'un certain nombre d'essai
-if len(df_zip_result) >= 2 :
-    if st.button('Découvrir le coût Mana'):
-        st.warning(f'Le legendaire est : {df_comparaison[0,1]} ', icon="⚠️")
-
-if len(df_zip_result) >= 4 :
-    if st.button('Découvrir le Terrain'):
-        st.warning(f'Le legendaire est : {df_comparaison[0,2]} ', icon="⚠️")
-
-if len(df_zip_result) >= 6 :
-    if st.button('Découvrir le Sous Type'):
-        st.warning(f'Le legendaire est : {df_comparaison[0,3]} ', icon="⚠️")
-
-if len(df_zip_result) >= 8 :
-    if st.button('Découvrir le Légendaire'):
-        st.warning(f'Le legendaire est : {df_comparaison[0,3]} ', icon="⚠️")
 
 footer_html = '''
 </div> <!-- close main -->
