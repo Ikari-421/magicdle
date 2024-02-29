@@ -1,0 +1,1761 @@
+,name,cmc,colors,subtypes,rarity,power,toughness
+0,Cho-Manno Revolutionary,4.0,['W'],"['Human', 'Rebel']",Rare,2,2
+1,Reya Dawnbringer,9.0,['W'],['Angel'],Rare,4,6
+3,Ambassador Laquatus,3.0,['U'],"['Merfolk', 'Wizard']",Rare,1,3
+4,Arcanis the Omnipotent,6.0,['U'],['Wizard'],Rare,3,4
+5,Ascendant Evincar,6.0,['B'],"['Phyrexian', 'Vampire', 'Noble']",Rare,3,3
+7,Phage the Untouchable,7.0,['B'],"['Avatar', 'Minion']",Rare,4,4
+8,Kamahl Pit Fighter,6.0,['R'],"['Human', 'Barbarian']",Rare,6,1
+10,Squee Goblin Nabob,3.0,['R'],['Goblin'],Rare,1,1
+11,Mirri Cat Warrior,3.0,['G'],"['Cat', 'Warrior']",Rare,2,3
+13,Molimo Maro-Sorcerer,7.0,['G'],['Elemental'],Rare,*,*
+15,Emrakul the Aeons Torn,15.0,['UC'],['Eldrazi'],Mythic,15,15
+16,Kozilek Butcher of Truth,10.0,['UC'],['Eldrazi'],Mythic,12,12
+17,Ulamog the Infinite Gyre,11.0,['UC'],['Eldrazi'],Mythic,10,10
+18,Emiel the Blessed,4.0,['W'],['Unicorn'],Mythic,4,4
+19,Mikaeus the Lunarch,1.0,['W'],"['Human', 'Cleric']",Rare,0,0
+20,Talrand Sky Summoner,4.0,['U'],"['Merfolk', 'Wizard']",Rare,2,2
+21,Venser Shaper Savant,4.0,['U'],"['Human', 'Wizard']",Rare,2,2
+22,Ob Nixilis Unshackled,6.0,['B'],['Demon'],Rare,4,4
+23,Yahenni Undying Partisan,3.0,['B'],"['Aetherborn', 'Vampire']",Rare,2,2
+24,Alesha Who Smiles at Death,3.0,['R'],"['Human', 'Warrior']",Rare,3,2
+25,Rishkar Peema Renegade,3.0,['G'],"['Elf', 'Druid']",Rare,2,2
+26,Animar Soul of Elements,3.0,"['G', 'R', 'U']",['Elemental'],Mythic,1,1
+27,Arjun the Shifting Flame,6.0,"['R', 'U']","['Sphinx', 'Wizard']",Rare,5,5
+28,Atla Palani Nest Tender,4.0,"['G', 'R', 'W']","['Human', 'Shaman']",Rare,2,3
+29,Aurelia the Warleader,6.0,"['R', 'W']",['Angel'],Mythic,3,4
+30,Child of Alara,5.0,"['B', 'G', 'R', 'U', 'W']",['Avatar'],Rare,6,6
+31,Doran the Siege Tower,3.0,"['B', 'G', 'W']","['Treefolk', 'Shaman']",Rare,0,5
+32,Dragonlord Dromoka,6.0,"['G', 'W']","['Elder', 'Dragon']",Mythic,5,7
+33,Dragonlord Silumgar,6.0,"['B', 'U']","['Elder', 'Dragon']",Mythic,3,5
+34,Elenda the Dusk Rose,4.0,"['B', 'W']","['Vampire', 'Knight']",Mythic,1,1
+35,Elsha of the Infinite,5.0,"['R', 'U', 'W']","['Djinn', 'Monk']",Rare,3,3
+36,Ezuri Claw of Progress,4.0,"['G', 'U']","['Phyrexian', 'Elf', 'Warrior']",Mythic,3,3
+37,Firesong and Sunspeaker,6.0,"['R', 'W']","['Minotaur', 'Cleric']",Rare,4,6
+38,Ghave Guru of Spores,5.0,"['B', 'G', 'W']","['Fungus', 'Shaman']",Mythic,0,0
+39,Grand Arbiter Augustin IV,4.0,"['U', 'W']","['Human', 'Advisor']",Rare,2,3
+40,Intet the Dreamer,6.0,"['G', 'R', 'U']",['Dragon'],Rare,6,6
+41,Jodah Archmage Eternal,4.0,"['R', 'U', 'W']","['Human', 'Wizard']",Rare,4,3
+42,Judith the Scourge Diva,3.0,"['B', 'R']","['Human', 'Shaman']",Rare,2,2
+43,Kaalia of the Vast,4.0,"['B', 'R', 'W']","['Human', 'Cleric']",Mythic,2,2
+44,Kaervek the Merciless,7.0,"['B', 'R']","['Human', 'Shaman']",Rare,5,4
+45,Kambal Consul of Allocation,3.0,"['B', 'W']","['Human', 'Advisor']",Rare,2,3
+46,Karador Ghost Chieftain,8.0,"['B', 'G', 'W']","['Centaur', 'Spirit']",Mythic,3,4
+47,Marchesa the Black Rose,4.0,"['B', 'R', 'U']","['Human', 'Wizard']",Rare,3,3
+48,Mathas Fiend Seeker,3.0,"['B', 'R', 'W']",['Vampire'],Rare,3,3
+49,The Mimeoplasm,5.0,"['B', 'G', 'U']",['Ooze'],Rare,0,0
+50,Mizzix of the Izmagnus,4.0,"['R', 'U']","['Goblin', 'Wizard']",Mythic,2,2
+51,Muldrotha the Gravetide,6.0,"['B', 'G', 'U']","['Elemental', 'Avatar']",Mythic,6,6
+52,Rafiq of the Many,4.0,"['G', 'U', 'W']","['Human', 'Knight']",Rare,3,3
+53,Roon of the Hidden Realm,5.0,"['G', 'U', 'W']","['Rhino', 'Soldier']",Rare,4,4
+54,Ruric Thar the Unbowed,6.0,"['G', 'R']","['Ogre', 'Warrior']",Rare,6,6
+55,Sedris the Traitor King,6.0,"['B', 'R', 'U']","['Zombie', 'Warrior']",Mythic,5,5
+56,Shattergang Brothers,4.0,"['B', 'G', 'R']","['Goblin', 'Artificer']",Rare,3,3
+57,Sidisi Brood Tyrant,4.0,"['B', 'G', 'U']","['Naga', 'Shaman']",Rare,3,3
+58,Skullbriar the Walking Grave,2.0,"['B', 'G']","['Zombie', 'Elemental']",Rare,1,1
+59,Tariel Reckoner of Souls,7.0,"['B', 'R', 'W']",['Angel'],Rare,4,7
+60,Teneb the Harvester,6.0,"['B', 'G', 'W']",['Dragon'],Rare,6,6
+61,Thraximundar,7.0,"['B', 'R', 'U']","['Zombie', 'Assassin']",Rare,6,6
+62,Ulasht the Hate Seed,4.0,"['G', 'R']","['Hellion', 'Hydra']",Rare,0,0
+63,Uril the Miststalker,5.0,"['G', 'R', 'W']",['Beast'],Mythic,5,5
+64,Varina Lich Queen,4.0,"['B', 'U', 'W']","['Zombie', 'Wizard']",Rare,4,4
+65,Wasitora Nekoru Queen,5.0,"['B', 'G', 'R']","['Cat', 'Dragon']",Rare,5,4
+66,Zur the Enchanter,4.0,"['B', 'U', 'W']","['Human', 'Wizard']",Rare,1,4
+133,Avacyn Angel of Hope,8.0,['W'],['Angel'],Mythic,8,8
+134,Kemba Kha Regent,3.0,['W'],"['Cat', 'Cleric']",Rare,2,4
+135,Arcum Dagsson,4.0,['U'],"['Human', 'Artificer']",Mythic,2,2
+136,Braids Conjurer Adept,4.0,['U'],"['Human', 'Wizard']",Rare,2,2
+137,Geth Lord of the Vault,6.0,['B'],"['Phyrexian', 'Zombie']",Mythic,5,5
+138,Skithiryx the Blight Dragon,5.0,['B'],"['Phyrexian', 'Dragon', 'Skeleton']",Mythic,4,4
+139,Godo Bandit Warlord,6.0,['R'],"['Human', 'Barbarian']",Rare,3,3
+140,Tuktuk the Explorer,3.0,['R'],['Goblin'],Rare,1,1
+141,Arixmethes Slumbering Isle,4.0,"['G', 'U']",['Kraken'],Rare,12,12
+142,Atraxa Praetors' Voice,4.0,"['B', 'G', 'U', 'W']","['Phyrexian', 'Angel', 'Horror']",Mythic,4,4
+143,Breya Etherium Shaper,4.0,"['B', 'R', 'U', 'W']",['Human'],Mythic,4,4
+144,Brudiclad Telchor Engineer,6.0,"['R', 'U']","['Phyrexian', 'Artificer']",Rare,4,4
+145,Geist of Saint Traft,3.0,"['U', 'W']","['Spirit', 'Cleric']",Mythic,2,2
+146,Hanna Ship's Navigator,3.0,"['U', 'W']","['Human', 'Artificer']",Rare,1,2
+147,Jhoira Weatherlight Captain,4.0,"['R', 'U']","['Human', 'Artificer']",Rare,3,3
+149,Karrthus Tyrant of Jund,7.0,"['B', 'G', 'R']",['Dragon'],Mythic,7,7
+150,Mazirek Kraul Death Priest,5.0,"['B', 'G']","['Insect', 'Shaman']",Rare,2,2
+151,Rhys the Redeemed,1.0,"['G', 'W']","['Elf', 'Warrior']",Rare,1,1
+152,Riku of Two Reflections,5.0,"['G', 'R', 'U']","['Human', 'Wizard']",Mythic,2,2
+153,The Scarab God,5.0,"['B', 'U']",['God'],Mythic,5,5
+154,Sen Triplets,5.0,"['B', 'U', 'W']","['Human', 'Wizard']",Mythic,3,3
+155,Sharuum the Hegemon,6.0,"['B', 'U', 'W']",['Sphinx'],Rare,5,5
+156,Vish Kal Blood Arbiter,7.0,"['B', 'W']",['Vampire'],Rare,5,5
+157,Bosh Iron Golem,8.0,['UC'],['Golem'],Rare,6,7
+161,Szarekh the Silent King,4.0,['B'],['Necron'],Mythic,3,4
+162,Abaddon the Despoiler,5.0,"['B', 'R', 'U']","['Astartes', 'Warrior']",Mythic,5,5
+163,Inquisitor Greyfax,4.0,"['B', 'U', 'W']","['Human', 'Inquisitor']",Mythic,3,3
+164,The Swarmlord,6.0,"['G', 'R', 'U']",['Tyranid'],Mythic,5,5
+165,Imotekh the Stormlord,4.0,['B'],['Necron'],Mythic,3,3
+166,Be'lakor the Dark Master,6.0,"['B', 'R', 'U']","['Demon', 'Noble']",Mythic,6,5
+167,Magus Lucea Kane,4.0,"['G', 'R', 'U']","['Human', 'Tyranid', 'Wizard']",Mythic,1,1
+168,Marneus Calgar,5.0,"['B', 'U', 'W']","['Astartes', 'Warrior']",Mythic,3,5
+169,Celestine the Living Saint,5.0,['W'],"['Human', 'Warrior']",Rare,3,4
+171,Anrakyr the Traveller,5.0,['B'],['Necron'],Rare,4,4
+173,Illuminor Szeras,3.0,['B'],['Necron'],Rare,3,3
+175,Mortarion Daemon Primarch,6.0,['B'],"['Demon', 'Primarch']",Rare,5,6
+177,Trazyn the Infinite,6.0,['B'],['Necron'],Rare,4,6
+179,Khârn the Betrayer,4.0,['R'],"['Astartes', 'Berserker']",Rare,5,1
+181,The Red Terror,4.0,['R'],['Tyranid'],Rare,4,3
+183,Old One Eye,6.0,['G'],['Tyranid'],Rare,6,6
+185,Belisarius Cawl,4.0,"['U', 'W']",['Human'],Rare,2,4
+187,Commissar Severina Raine,3.0,"['B', 'W']","['Human', 'Soldier']",Rare,2,2
+189,Deathleaper Terror Weapon,4.0,"['G', 'R']",['Tyranid'],Rare,3,3
+191,Ghyrson Starn Kelermorph,3.0,"['R', 'U']","['Tyranid', 'Human']",Rare,3,2
+193,Inquisitor Eisenhorn,4.0,"['B', 'U']","['Human', 'Inquisitor']",Rare,2,3
+195,Lucius the Eternal,5.0,"['B', 'R']","['Astartes', 'Warrior']",Rare,5,3
+197,Magnus the Red,5.0,"['R', 'U']","['Demon', 'Primarch']",Rare,4,5
+199,Neyam Shai Murad,4.0,"['B', 'W']","['Human', 'Rogue']",Rare,3,3
+217,Raksha Golden Cub,7.0,['W'],"['Cat', 'Soldier']",Rare,3,4
+218,Akroma Angel of Wrath,8.0,['W'],['Angel'],Mythic,6,6
+219,Darien King of Kjeldor,6.0,['W'],"['Human', 'Soldier']",Rare,3,3
+220,"Kongming ""Sleeping Dragon""",4.0,['W'],"['Human', 'Advisor']",Uncommon,2,2
+221,Thalia Guardian of Thraben,2.0,['W'],"['Human', 'Soldier']",Rare,2,1
+222,Jalira Master Polymorphist,4.0,['U'],"['Human', 'Wizard']",Uncommon,2,2
+223,Vendilion Clique,3.0,['U'],"['Faerie', 'Wizard']",Mythic,3,1
+224,Ihsan's Shade,6.0,['B'],"['Shade', 'Knight']",Uncommon,5,5
+225,Akroma Angel of Fury,8.0,['R'],['Angel'],Mythic,6,6
+226,Zada Hedron Grinder,4.0,['R'],"['Goblin', 'Ally']",Uncommon,3,3
+227,Azusa Lost but Seeking,3.0,['G'],"['Human', 'Monk']",Rare,1,2
+228,Iwamori of the Open Fist,4.0,['G'],"['Human', 'Monk']",Uncommon,5,5
+230,Brion Stoutarm,4.0,"['R', 'W']","['Giant', 'Warrior']",Rare,4,4
+231,Gisela Blade of Goldnight,7.0,"['R', 'W']",['Angel'],Mythic,5,5
+232,Grenzo Dungeon Warden,2.0,"['B', 'R']","['Goblin', 'Rogue']",Rare,2,2
+234,Nicol Bolas,8.0,"['B', 'R', 'U']","['Elder', 'Dragon']",Rare,7,7
+235,Niv-Mizzet the Firemind,6.0,"['R', 'U']","['Dragon', 'Wizard']",Rare,4,4
+236,Prossh Skyraider of Kher,6.0,"['B', 'G', 'R']",['Dragon'],Mythic,5,5
+238,Stangg,6.0,"['G', 'R']","['Human', 'Warrior']",Uncommon,3,4
+239,Sram Senior Edificer,2.0,['W'],"['Dwarf', 'Advisor']",Rare,2,2
+240,Baral Chief of Compliance,2.0,['U'],"['Human', 'Wizard']",Rare,1,3
+242,Kari Zev Skyship Raider,2.0,['R'],"['Human', 'Pirate']",Rare,1,3
+244,Hope of Ghirapur,1.0,['UC'],['Thopter'],Rare,1,1
+245,Galea Kindler of Hope,4.0,"['G', 'U', 'W']","['Elf', 'Knight']",Mythic,4,4
+246,Prosper Tome-Bound,4.0,"['B', 'R']","['Tiefling', 'Warlock']",Mythic,1,4
+247,Sefris of the Hidden Ways,3.0,"['B', 'U', 'W']","['Human', 'Wizard']",Mythic,2,3
+248,Vrondiss Rage of Ancients,5.0,"['G', 'R']","['Dragon', 'Barbarian']",Mythic,5,4
+249,Minn Wily Illusionist,3.0,['U'],"['Gnome', 'Wizard']",Rare,1,3
+250,Lorcan Warlock Collector,7.0,['B'],['Devil'],Rare,6,6
+251,Catti-brie of Mithral Hall,2.0,"['G', 'W']","['Human', 'Archer']",Rare,2,2
+252,Karazikar the Eye Tyrant,5.0,"['B', 'R']",['Beholder'],Mythic,5,5
+253,Klauth Unrivaled Ancient,7.0,"['G', 'R']",['Dragon'],Mythic,4,4
+254,Nihiloor,5.0,"['B', 'U', 'W']",['Horror'],Mythic,3,5
+255,Storvald Frost Giant Jarl,7.0,"['G', 'U', 'W']",['Giant'],Mythic,7,7
+256,Wulfgar of Icewind Dale,5.0,"['G', 'R']","['Human', 'Barbarian']",Rare,4,4
+258,Gonti Lord of Luxury,4.0,['B'],"['Aetherborn', 'Rogue']",Rare,2,3
+259,Etali Primal Storm,6.0,['R'],"['Elder', 'Dinosaur']",Rare,6,6
+260,Atarka World Render,7.0,"['G', 'R']",['Dragon'],Rare,6,4
+273,Icingdeath Frost Tyrant,4.0,['W'],['Dragon'],Mythic,4,3
+274,Nadaar Selfless Paladin,3.0,['W'],"['Dragon', 'Knight']",Rare,3,3
+275,Oswald Fiddlebender,2.0,['W'],"['Gnome', 'Artificer']",Rare,2,2
+276,Grazilaxx Illithid Scholar,3.0,['U'],['Horror'],Rare,3,2
+277,Iymrith Desert Doom,5.0,['U'],['Dragon'],Mythic,5,5
+278,Acererak the Archlich,3.0,['B'],"['Zombie', 'Wizard']",Mythic,5,5
+279,A-Acererak the Archlich,3.0,['B'],"['Zombie', 'Wizard']",Mythic,5,5
+280,Asmodeus the Archfiend,6.0,['B'],"['Devil', 'God']",Rare,6,6
+281,Ebondeath Dracolich,4.0,['B'],"['Zombie', 'Dragon']",Mythic,5,2
+282,Delina Wild Mage,4.0,['R'],"['Elf', 'Shaman']",Rare,3,2
+283,Inferno of the Star Mounts,6.0,['R'],['Dragon'],Mythic,6,6
+284,Zalto Fire Giant Duke,5.0,['R'],"['Giant', 'Barbarian']",Rare,7,3
+285,Old Gnawbone,7.0,['G'],['Dragon'],Mythic,7,7
+286,The Tarrasque,9.0,['G'],['Dinosaur'],Mythic,10,10
+287,Varis Silverymoon Ranger,3.0,['G'],"['Human', 'Elf', 'Ranger']",Rare,3,3
+288,Barrowin of Clan Undurr,4.0,"['B', 'W']","['Dwarf', 'Cleric']",Uncommon,3,3
+289,Bruenor Battlehammer,4.0,"['R', 'W']","['Dwarf', 'Warrior']",Uncommon,5,3
+290,A-Bruenor Battlehammer,4.0,"['R', 'W']","['Dwarf', 'Warrior']",Uncommon,5,4
+291,Drizzt Do'Urden,5.0,"['G', 'W']","['Elf', 'Ranger']",Rare,3,3
+292,Farideh Devil's Chosen,4.0,"['R', 'U']","['Tiefling', 'Warlock']",Uncommon,3,3
+293,Gretchen Titchwillow,2.0,"['G', 'U']","['Halfling', 'Druid']",Uncommon,0,4
+294,Hama Pashar Ruin Seeker,3.0,"['U', 'W']","['Human', 'Wizard']",Uncommon,2,3
+295,Kalain Reclusive Painter,2.0,"['B', 'R']","['Human', 'Elf', 'Bard']",Uncommon,1,2
+296,Krydle of Baldur's Gate,2.0,"['B', 'U']","['Human', 'Elf', 'Rogue']",Uncommon,1,3
+297,Minsc Beloved Ranger,3.0,"['G', 'R', 'W']","['Human', 'Ranger']",Mythic,3,3
+298,Orcus Prince of Undeath,4.0,"['B', 'R']",['Demon'],Rare,5,3
+299,Shessra Death's Whisper,4.0,"['B', 'G']","['Human', 'Elf', 'Warlock']",Uncommon,1,3
+300,A-Shessra Death's Whisper,3.0,"['B', 'G']","['Human', 'Elf', 'Warlock']",Uncommon,1,4
+301,Targ Nar Demon-Fang Gnoll,2.0,"['G', 'R']",['Gnoll'],Uncommon,2,2
+302,Tiamat,7.0,"['B', 'G', 'R', 'U', 'W']","['Dragon', 'God']",Mythic,7,7
+303,Trelasarra Moon Dancer,2.0,"['G', 'W']","['Elf', 'Cleric']",Uncommon,2,2
+304,Volo Guide to Monsters,4.0,"['G', 'U']","['Human', 'Wizard']",Rare,3,2
+305,Xanathar Guild Kingpin,6.0,"['B', 'U']",['Beholder'],Mythic,5,6
+335,Gadwick the Wizened,3.0,['U'],"['Human', 'Wizard']",Rare,3,3
+336,Oketra the True,4.0,['W'],['God'],Mythic,3,6
+337,Kefnet the Mindful,3.0,['U'],['God'],Mythic,5,5
+338,Bontu the Glorified,3.0,['B'],['God'],Mythic,4,6
+339,Hazoret the Fervent,4.0,['R'],['God'],Mythic,5,4
+340,Rhonas the Indomitable,3.0,['G'],['God'],Mythic,5,5
+341,Hapatra Vizier of Poisons,2.0,"['B', 'G']","['Human', 'Cleric']",Rare,2,2
+342,Neheb the Worthy,3.0,"['B', 'R']","['Minotaur', 'Warrior']",Rare,2,2
+343,Samut Voice of Dissent,5.0,"['G', 'R']","['Human', 'Warrior']",Mythic,3,4
+344,Temmet Vizier of Naktamun,2.0,"['U', 'W']","['Human', 'Cleric']",Rare,2,2
+347,Unesh Criosphinx Sovereign,6.0,['U'],['Sphinx'],Mythic,4,4
+349,Razaketh the Foulblooded,8.0,['B'],['Demon'],Mythic,8,8
+351,Neheb the Eternal,5.0,['R'],"['Zombie', 'Minotaur', 'Warrior']",Mythic,4,6
+354,The Locust God,6.0,"['R', 'U']",['God'],Mythic,4,4
+358,The Scorpion God,5.0,"['B', 'R']",['God'],Mythic,6,5
+360,Kresh the Bloodbraided,5.0,"['B', 'G', 'R']","['Human', 'Warrior']",Mythic,3,3
+361,Mayael the Anima,3.0,"['G', 'R', 'W']","['Elf', 'Shaman']",Mythic,2,3
+366,Kaysa,5.0,['G'],"['Elf', 'Druid']",Rare,2,3
+367,Lord of Tresserhorn,4.0,"['B', 'R', 'U']",['Zombie'],Rare,10,4
+368,Phelddagrif,4.0,"['G', 'U', 'W']",['Phelddagrif'],Rare,4,4
+369,Gerrard Capashen,5.0,['W'],"['Human', 'Soldier']",Rare,3,4
+370,Cromat,5.0,"['B', 'G', 'R', 'U', 'W']",['Illusion'],Rare,5,5
+375,Jenara Asura of War,3.0,"['G', 'U', 'W']",['Angel'],Mythic,3,3
+376,Ryusei the Falling Star,6.0,['R'],"['Dragon', 'Spirit']",Rare,5,5
+377,Kamahl Fist of Krosa,6.0,['G'],"['Human', 'Druid']",Rare,4,3
+379,Verdeloth the Ancient,6.0,['G'],['Treefolk'],Rare,4,7
+381,Memnarch,7.0,['UC'],['Wizard'],Rare,4,5
+384,Lady Orca,7.0,"['B', 'R']",['Demon'],Uncommon,7,4
+386,Griselbrand,8.0,['B'],['Demon'],Mythic,7,7
+387,Bruna Light of Alabaster,6.0,"['U', 'W']",['Angel'],Mythic,5,5
+389,Sigarda Host of Herons,5.0,"['G', 'W']",['Angel'],Mythic,5,5
+390,Regna the Redeemer,6.0,['W'],['Angel'],Rare,4,4
+391,Krav the Unredeemed,5.0,['B'],['Demon'],Rare,3,3
+392,Zndrsplt Eye of Wisdom,5.0,['U'],['Homunculus'],Rare,1,4
+393,Okaun Eye of Chaos,5.0,['R'],"['Cyclops', 'Berserker']",Rare,3,3
+394,Virtus the Veiled,3.0,['B'],"['Azra', 'Assassin']",Rare,1,1
+395,Gorm the Great,4.0,['G'],"['Giant', 'Warrior']",Rare,2,7
+396,Khorvath Brightflame,6.0,['R'],['Dragon'],Rare,3,4
+397,Sylvia Brightspear,3.0,['W'],"['Human', 'Knight']",Rare,2,2
+398,Pir Imaginative Rascal,3.0,['G'],['Human'],Rare,1,1
+399,Toothy Imaginary Friend,4.0,['U'],['Illusion'],Rare,1,1
+400,Najeela the Blade-Blossom,3.0,['R'],"['Human', 'Warrior']",Mythic,3,2
+401,Grothama All-Devouring,5.0,['G'],['Wurm'],Mythic,10,8
+402,Mangara of Corondor,3.0,['W'],"['Human', 'Wizard']",Rare,1,1
+403,Gwafa Hazid Profiteer,3.0,"['U', 'W']","['Human', 'Rogue']",Rare,2,2
+404,Ulamog the Ceaseless Hunger,10.0,['UC'],['Eldrazi'],Mythic,10,10
+405,Drana Liberator of Malakir,3.0,['B'],"['Vampire', 'Ally']",Mythic,2,3
+407,Munda Ambush Leader,4.0,"['R', 'W']","['Kor', 'Ally']",Rare,3,4
+408,Noyan Dar Roil Shaper,5.0,"['U', 'W']","['Merfolk', 'Ally']",Rare,4,4
+409,Omnath Locus of Rage,7.0,"['G', 'R']",['Elemental'],Mythic,5,5
+410,Brimaz King of Oreskos,3.0,['W'],"['Cat', 'Soldier']",Mythic,3,4
+411,Tromokratis,7.0,['U'],['Kraken'],Rare,8,8
+412,Faithful Squire // Kaiso Memory of Loyalty,3.0,['W'],['Spirit'],Uncommon,3,4
+413,Hokori Dust Drinker,4.0,['W'],['Spirit'],Rare,2,2
+414,Kentaro the Smiling Cat,2.0,['W'],"['Human', 'Samurai']",Rare,2,1
+415,Opal-Eye Konda's Yojimbo,3.0,['W'],"['Fox', 'Samurai']",Rare,1,4
+416,Oyobi Who Split the Heavens,7.0,['W'],['Spirit'],Rare,3,6
+417,Patron of the Kitsune,6.0,['W'],['Spirit'],Rare,5,6
+418,Yomiji Who Bars the Way,7.0,['W'],['Spirit'],Rare,4,4
+419,Callow Jushi // Jaraku the Interloper,3.0,['U'],['Spirit'],Uncommon,3,4
+420,Chisei Heart of Oceans,4.0,['U'],['Spirit'],Rare,4,4
+421,Higure the Still Wind,5.0,['U'],"['Human', 'Ninja']",Rare,3,4
+422,Kira Great Glass-Spinner,3.0,['U'],['Spirit'],Rare,2,2
+423,Patron of the Moon,7.0,['U'],['Spirit'],Rare,5,4
+424,Tomorrow Azami's Familiar,6.0,['U'],['Spirit'],Rare,1,5
+425,Hired Muscle // Scarmaker,3.0,['B'],['Spirit'],Uncommon,4,4
+426,Ink-Eyes Servant of Oni,6.0,['B'],"['Rat', 'Ninja']",Rare,5,4
+427,Kyoki Sanity's Eclipse,6.0,['B'],"['Demon', 'Spirit']",Rare,6,4
+428,Patron of the Nezumi,7.0,['B'],['Spirit'],Rare,6,6
+429,Shirei Shizo's Caretaker,5.0,['B'],['Spirit'],Rare,2,2
+430,Toshiro Umezawa,3.0,['B'],"['Human', 'Samurai']",Rare,2,2
+431,Yukora the Prisoner,4.0,['B'],"['Demon', 'Spirit']",Rare,5,5
+432,Cunning Bandit // Azamuki Treachery Incarnate,3.0,['R'],['Spirit'],Uncommon,5,2
+433,Fumiko the Lowblood,4.0,['R'],"['Human', 'Samurai']",Rare,3,2
+434,Heartless Hidetsugu,5.0,['R'],"['Ogre', 'Shaman']",Rare,4,3
+435,Ishi-Ishi Akki Crackshot,2.0,['R'],"['Goblin', 'Warrior']",Rare,1,1
+436,Mannichi the Fevered Dream,3.0,['R'],['Spirit'],Rare,1,2
+437,Patron of the Akki,6.0,['R'],['Spirit'],Rare,5,5
+438,Budoka Pupil // Ichiga Who Topples Oaks,3.0,['G'],['Spirit'],Uncommon,4,3
+439,Isao Enlightened Bushi,3.0,['G'],"['Human', 'Samurai']",Rare,2,1
+441,Kodama of the Center Tree,5.0,['G'],['Spirit'],Rare,*,*
+442,Patron of the Orochi,8.0,['G'],['Spirit'],Rare,7,7
+443,Sakiko Mother of Summer,6.0,['G'],"['Snake', 'Shaman']",Rare,3,3
+444,Shizuko Caller of Autumn,3.0,['G'],"['Snake', 'Shaman']",Rare,2,3
+445,Prowl Stoic Strategist // Prowl Pursuit Vehicle,4.0,['W'],['Robot'],Mythic,3,3
+446,Ratchet Field Medic // Ratchet Rescue Racer,3.0,['W'],['Robot'],Mythic,2,4
+447,Jetfire Ingenious Scientist // Jetfire Air Guardian,5.0,['U'],['Robot'],Mythic,3,4
+448,Blitzwing Cruel Tormentor // Blitzwing Adaptive Assailant,6.0,['B'],['Robot'],Mythic,6,5
+449,Starscream Power Hungry // Starscream Seeker Leader,4.0,['B'],['Robot'],Mythic,2,3
+450,Slicer Hired Muscle // Slicer High-Speed Antagonist,5.0,['R'],['Robot'],Mythic,3,4
+451,Arcee Sharpshooter // Arcee Acrobatic Coupe,3.0,"['R', 'W']",['Robot'],Mythic,2,2
+452,Blaster Combat DJ // Blaster Morale Booster,5.0,"['G', 'R']",['Robot'],Mythic,3,3
+453,Cyclonus the Saboteur // Cyclonus Cybertronian Fighter,4.0,"['B', 'U']",['Robot'],Mythic,2,5
+454,Flamewar Brash Veteran // Flamewar Streetwise Operative,3.0,"['B', 'R']",['Robot'],Mythic,3,2
+455,Goldbug Humanity's Ally // Goldbug Scrappy Scout,3.0,"['U', 'W']",['Robot'],Mythic,3,3
+456,Megatron Tyrant // Megatron Destructive Force,6.0,"['B', 'R', 'W']",['Robot'],Mythic,7,5
+457,Optimus Prime Hero // Optimus Prime Autobot Leader,6.0,"['R', 'U', 'W']",['Robot'],Mythic,4,8
+458,Soundwave Sonic Spy // Soundwave Superior Captain,4.0,"['B', 'U', 'W']",['Robot'],Mythic,5,4
+459,Ultra Magnus Tactician // Ultra Magnus Armored Carrier,7.0,"['G', 'R', 'W']",['Robot'],Mythic,7,7
+474,Mishra Eminent One,5.0,"['B', 'R', 'U']","['Human', 'Artificer']",Mythic,5,4
+475,Urza Chief Artificer,6.0,"['B', 'U', 'W']","['Human', 'Artificer']",Mythic,4,5
+476,Tawnos Solemn Survivor,2.0,['U'],"['Human', 'Artificer']",Mythic,1,3
+477,Ashnod the Uncaring,5.0,"['B', 'R', 'U']","['Human', 'Artificer']",Mythic,1,4
+478,Sanwell Avenger Ace,2.0,['W'],"['Human', 'Pilot']",Rare,3,1
+479,Farid Enterprising Salvager,3.0,['R'],"['Human', 'Soldier']",Rare,3,3
+480,Titania Nature's Force,6.0,['G'],['Elemental'],Mythic,6,6
+481,The Archimandrite,5.0,"['R', 'U', 'W']","['Human', 'Advisor']",Rare,0,5
+492,Losheel Clockwork Scholar,3.0,['W'],"['Elephant', 'Artificer']",Rare,2,4
+493,Teshar Ancestor's Apostle,4.0,['W'],"['Bird', 'Cleric']",Rare,2,2
+494,Emry Lurker of the Loch,3.0,['U'],"['Merfolk', 'Wizard']",Rare,1,2
+495,Muzzio Visionary Architect,3.0,['U'],"['Human', 'Artificer']",Mythic,1,3
+496,Padeem Consul of Innovation,4.0,['U'],"['Vedalken', 'Artificer']",Rare,1,4
+497,Sai Master Thopterist,3.0,['U'],"['Human', 'Artificer']",Rare,1,4
+498,Armix Filigree Thrasher,3.0,['B'],['Golem'],Uncommon,3,2
+499,Fain the Broker,3.0,['B'],"['Human', 'Warlock']",Rare,3,3
+501,Slobad Goblin Tinkerer,2.0,['R'],"['Goblin', 'Artificer']",Rare,1,2
+502,Alela Artful Provocateur,4.0,"['B', 'U', 'W']","['Faerie', 'Warlock']",Mythic,2,3
+506,Silas Renn Seeker Adept,3.0,"['B', 'U']",['Human'],Mythic,2,2
+507,Traxos Scourge of Kroog,4.0,['UC'],['Construct'],Rare,7,7
+508,Loran of the Third Path,3.0,['W'],"['Human', 'Artificer']",Rare,2,1
+509,Loran Disciple of History,4.0,['W'],"['Human', 'Artificer']",Uncommon,3,3
+510,Myrel Shield of Argive,4.0,['W'],"['Human', 'Soldier']",Mythic,3,4
+511,Drafna Founder of Lat-Nam,2.0,['U'],"['Human', 'Artificer', 'Advisor']",Rare,2,1
+512,Hurkyl Master Wizard,3.0,['U'],"['Human', 'Wizard', 'Advisor']",Rare,2,4
+513,Urza Powerstone Prodigy,3.0,['U'],"['Human', 'Artificer']",Uncommon,1,3
+514,Ashnod Flesh Mechanist,1.0,['B'],"['Human', 'Artificer']",Rare,1,1
+515,Gix Yawgmoth Praetor,3.0,['B'],"['Phyrexian', 'Praetor']",Mythic,3,3
+516,Feldon Ronom Excavator,2.0,['R'],"['Human', 'Artificer']",Rare,2,2
+517,Mishra Excavation Prodigy,3.0,['R'],"['Human', 'Artificer']",Uncommon,2,1
+518,Mishra Lost to Phyrexia,7.0,"['B', 'R']","['Phyrexian', 'Artificer']",Mythic,9,9
+519,Gwenna Eyes of Gaea,3.0,['G'],"['Elf', 'Druid', 'Scout']",Rare,2,3
+520,Titania Voice of Gaea // Titania Gaea Incarnate,3.0,['G'],['Elemental'],Mythic,3,4
+521,Hajar Loyal Bodyguard,2.0,"['G', 'R']","['Human', 'Soldier']",Rare,3,3
+522,Harbin Vanguard Aviator,2.0,"['U', 'W']","['Human', 'Soldier']",Rare,3,2
+523,Mishra Claimed by Gix // Mishra Lost to Phyrexia,4.0,"['B', 'R']","['Phyrexian', 'Human', 'Artificer']",Mythic,3,5
+524,Mishra Tamer of Mak Fawa,5.0,"['B', 'R']","['Human', 'Artificer']",Rare,4,4
+525,Queen Kayla bin-Kroog,3.0,"['R', 'W']","['Human', 'Noble']",Rare,2,3
+526,Tawnos the Toymaker,5.0,"['G', 'U']","['Human', 'Artificer']",Rare,3,5
+527,Tocasia Dig Site Mentor,4.0,"['G', 'U', 'W']","['Human', 'Artificer']",Rare,4,3
+528,Urza Lord Protector // Urza Planeswalker,3.0,"['U', 'W']","['Human', 'Artificer']",Mythic,2,4
+529,Urza Prince of Kroog,4.0,"['U', 'W']","['Human', 'Artificer']",Rare,2,3
+530,Liberator Urza's Battlethopter,3.0,['UC'],['Thopter'],Rare,1,2
+531,Titania Gaea Incarnate,3.0,['G'],"['Elemental', 'Avatar']",Mythic,*,*
+549,Ramos Dragon Engine,6.0,['UC'],['Dragon'],Mythic,4,4
+552,Azami Lady of Scrolls,5.0,['U'],"['Human', 'Wizard']",Rare,0,2
+553,Lu Xun Scholar General,4.0,['U'],"['Human', 'Soldier']",Rare,1,3
+554,Uyo Silent Prophet,6.0,['U'],"['Moonfolk', 'Wizard']",Rare,4,4
+555,Endrek Sahr Master Breeder,5.0,['B'],"['Human', 'Wizard']",Rare,2,2
+556,Hua Tuo Honored Physician,3.0,['G'],['Human'],Rare,1,2
+557,Derevi Empyrial Tactician,3.0,"['G', 'U', 'W']","['Bird', 'Wizard']",Mythic,2,3
+558,Gahiji Honored One,5.0,"['G', 'R', 'W']",['Beast'],Mythic,4,4
+559,Jeleva Nephalia's Scourge,4.0,"['B', 'R', 'U']","['Vampire', 'Wizard']",Mythic,1,3
+560,Marath Will of the Wild,3.0,"['G', 'R', 'W']","['Elemental', 'Beast']",Mythic,0,0
+562,Nekusar the Mindrazer,5.0,"['B', 'R', 'U']","['Zombie', 'Wizard']",Mythic,2,4
+563,Oloro Ageless Ascetic,6.0,"['B', 'U', 'W']","['Giant', 'Soldier']",Mythic,4,5
+566,Rubinia Soulsinger,5.0,"['G', 'U', 'W']",['Faerie'],Rare,2,3
+567,Sek'Kuar Deathkeeper,5.0,"['B', 'G', 'R']","['Orc', 'Shaman']",Rare,4,3
+570,Sydri Galvanic Genius,3.0,"['B', 'U', 'W']","['Human', 'Artificer']",Mythic,2,2
+572,Jazal Goldmane,4.0,['W'],"['Cat', 'Warrior']",Mythic,4,4
+573,Stitcher Geralf,5.0,['U'],"['Human', 'Wizard']",Mythic,3,4
+574,Ghoulcaller Gisa,5.0,['B'],"['Human', 'Wizard']",Mythic,3,4
+575,Feldon of the Third Path,3.0,['R'],"['Human', 'Artificer']",Mythic,2,3
+576,Titania Protector of Argoth,5.0,['G'],['Elemental'],Mythic,5,3
+578,Lorthos the Tidemaker,8.0,['U'],['Octopus'],Mythic,8,8
+579,Drana Kalastria Bloodchief,5.0,['B'],"['Vampire', 'Shaman']",Rare,4,4
+581,Ezuri Renegade Leader,3.0,['G'],"['Elf', 'Warrior']",Rare,2,2
+583,Anya Merciless Angel,5.0,"['R', 'W']",['Angel'],Mythic,4,4
+585,Daxos the Returned,3.0,"['B', 'W']","['Zombie', 'Soldier']",Mythic,2,2
+587,Kalemne Disciple of Iroas,4.0,"['R', 'W']","['Giant', 'Soldier']",Mythic,3,3
+588,Karlov of the Ghost Council,2.0,"['B', 'W']","['Spirit', 'Advisor']",Mythic,2,2
+589,Kaseto Orochi Archmage,3.0,"['G', 'U']","['Snake', 'Wizard']",Mythic,2,2
+591,Meren of Clan Nel Toth,4.0,"['B', 'G']","['Human', 'Shaman']",Mythic,3,4
+593,Jareth Leonine Titan,6.0,['W'],"['Cat', 'Giant']",Rare,4,7
+597,Jarad Golgari Lich Lord,4.0,"['B', 'G']","['Zombie', 'Elf']",Mythic,2,2
+598,Melek Izzet Paragon,6.0,"['R', 'U']","['Weird', 'Wizard']",Rare,2,4
+599,Prime Speaker Zegana,6.0,"['G', 'U']","['Merfolk', 'Wizard']",Mythic,1,1
+600,Teysa Envoy of Ghosts,7.0,"['B', 'W']","['Human', 'Advisor']",Rare,4,4
+601,Akiri Line-Slinger,2.0,"['R', 'W']","['Kor', 'Soldier', 'Ally']",Rare,0,3
+604,Bruse Tarl Boorish Herder,4.0,"['R', 'W']","['Human', 'Ally']",Mythic,3,3
+605,Ikra Shidiqi the Usurper,5.0,"['B', 'G']","['Naga', 'Wizard']",Mythic,3,7
+606,Ishai Ojutai Dragonspeaker,4.0,"['U', 'W']","['Bird', 'Monk']",Mythic,1,1
+607,Kraum Ludevic's Opus,5.0,"['R', 'U']","['Zombie', 'Horror']",Rare,4,4
+608,Kydele Chosen of Kruphix,4.0,"['G', 'U']","['Human', 'Wizard']",Mythic,2,3
+609,Kynaios and Tiro of Meletis,4.0,"['G', 'R', 'U', 'W']","['Human', 'Soldier']",Mythic,2,8
+610,Ludevic Necro-Alchemist,3.0,"['R', 'U']","['Human', 'Wizard']",Mythic,1,4
+611,Ravos Soultender,5.0,"['B', 'W']","['Human', 'Cleric']",Mythic,2,2
+612,Reyhan Last of the Abzan,3.0,"['B', 'G']","['Human', 'Warrior']",Rare,0,0
+613,Saskia the Unyielding,4.0,"['B', 'G', 'R', 'W']","['Human', 'Soldier']",Mythic,3,4
+614,Sidar Kondo of Jamuraa,4.0,"['G', 'W']","['Human', 'Knight']",Mythic,2,5
+616,Tana the Bloodsower,4.0,"['G', 'R']","['Elf', 'Druid']",Mythic,2,2
+617,Thrasios Triton Hero,2.0,"['G', 'U']","['Merfolk', 'Wizard']",Rare,1,3
+618,Tymna the Weaver,3.0,"['B', 'W']","['Human', 'Cleric']",Rare,2,2
+619,Vial Smasher the Fierce,3.0,"['B', 'R']","['Goblin', 'Berserker']",Mythic,2,3
+620,Yidris Maelstrom Wielder,4.0,"['B', 'G', 'R', 'U']","['Ogre', 'Wizard']",Mythic,5,4
+623,Kazuul Tyrant of the Cliffs,5.0,['R'],"['Ogre', 'Warrior']",Rare,5,4
+625,Edric Spymaster of Trest,3.0,"['G', 'U']","['Elf', 'Rogue']",Rare,2,2
+629,Jor Kadeen the Prevailer,5.0,"['R', 'W']","['Human', 'Warrior']",Rare,5,4
+630,Nath of the Gilt-Leaf,5.0,"['B', 'G']","['Elf', 'Warrior']",Rare,4,4
+631,Selvala Explorer Returned,3.0,"['G', 'W']","['Elf', 'Scout']",Rare,2,4
+634,Vorel of the Hull Clade,3.0,"['G', 'U']","['Human', 'Merfolk']",Rare,1,4
+635,Zedruu the Greathearted,4.0,"['R', 'U', 'W']","['Minotaur', 'Monk']",Mythic,2,4
+636,Balan Wandering Knight,4.0,['W'],"['Cat', 'Knight']",Rare,3,3
+637,Arahbo Roar of the World,5.0,"['G', 'W']","['Cat', 'Avatar']",Mythic,5,5
+638,Edgar Markov,6.0,"['B', 'R', 'W']","['Vampire', 'Knight']",Mythic,4,4
+639,Inalla Archmage Ritualist,5.0,"['B', 'R', 'U']","['Human', 'Wizard']",Mythic,4,5
+640,Kess Dissident Mage,4.0,"['B', 'R', 'U']","['Human', 'Wizard']",Mythic,3,4
+641,Licia Sanguine Tribune,8.0,"['B', 'R', 'W']","['Vampire', 'Soldier']",Mythic,4,4
+642,Mairsil the Pretender,4.0,"['B', 'R', 'U']","['Human', 'Wizard']",Mythic,4,4
+644,Mirri Weatherlight Duelist,3.0,"['G', 'W']","['Cat', 'Warrior']",Mythic,3,2
+645,Nazahn Revered Bladesmith,6.0,"['G', 'W']","['Cat', 'Artificer']",Mythic,5,4
+646,O-Kagachi Vengeful Kami,6.0,"['B', 'G', 'R', 'U', 'W']","['Dragon', 'Spirit']",Mythic,6,6
+647,Taigam Ojutai Master,4.0,"['U', 'W']","['Human', 'Monk']",Rare,3,4
+648,Taigam Sidisi's Hand,5.0,"['B', 'U']","['Human', 'Wizard']",Rare,3,4
+649,The Ur-Dragon,9.0,"['B', 'G', 'R', 'U', 'W']","['Dragon', 'Avatar']",Mythic,10,10
+658,Anowon the Ruin Sage,5.0,['B'],"['Vampire', 'Shaman']",Rare,4,3
+661,Jedit Ojanen of Efrava,6.0,['G'],"['Cat', 'Warrior']",Rare,5,5
+663,Bladewing the Risen,7.0,"['B', 'R']","['Zombie', 'Dragon']",Rare,4,4
+664,Crosis the Purger,6.0,"['B', 'R', 'U']",['Dragon'],Rare,6,6
+665,Dromoka the Eternal,5.0,"['G', 'W']",['Dragon'],Rare,5,5
+667,Kolaghan the Storm's Fury,5.0,"['B', 'R']",['Dragon'],Rare,4,5
+669,Nin the Pain Artist,2.0,"['R', 'U']","['Vedalken', 'Wizard']",Rare,1,1
+670,Niv-Mizzet Dracogenius,6.0,"['R', 'U']","['Dragon', 'Wizard']",Rare,5,5
+672,Ojutai Soul of Winter,7.0,"['U', 'W']",['Dragon'],Rare,5,6
+673,Scion of the Ur-Dragon,5.0,"['B', 'G', 'R', 'U', 'W']","['Dragon', 'Avatar']",Rare,4,4
+674,Silumgar the Drifting Death,6.0,"['B', 'U']",['Dragon'],Rare,3,7
+676,Vela the Night-Clad,6.0,"['B', 'U']","['Human', 'Wizard']",Mythic,4,4
+677,Varchild Betrayer of Kjeldor,3.0,['R'],"['Human', 'Knight']",Rare,3,3
+680,Gyrus Waker of Corpses,3.0,"['B', 'G', 'R']",['Hydra'],Mythic,0,0
+681,Tawnos Urza's Apprentice,2.0,"['R', 'U']","['Human', 'Artificer']",Mythic,1,3
+682,Thantis the Warweaver,6.0,"['B', 'G', 'R']",['Spider'],Mythic,5,5
+683,Tuvasa the Sunlit,3.0,"['G', 'U', 'W']","['Merfolk', 'Shaman']",Mythic,1,1
+685,Xantcha Sleeper Agent,3.0,"['B', 'R']","['Phyrexian', 'Minion']",Rare,5,5
+686,Yennett Cryptic Sovereign,5.0,"['B', 'U', 'W']",['Sphinx'],Mythic,3,5
+687,Yuriko the Tiger's Shadow,3.0,"['B', 'U']","['Human', 'Ninja']",Rare,1,3
+688,Budoka Gardener // Dokai Weaver of Life,2.0,['G'],"['Human', 'Monk']",Rare,3,3
+690,Daxos of Meletis,3.0,"['U', 'W']","['Human', 'Soldier']",Rare,2,2
+692,K'rrik Son of Yawgmoth,7.0,['B'],"['Phyrexian', 'Horror', 'Minion']",Rare,2,2
+693,Anje Falkenrath,3.0,"['B', 'R']",['Vampire'],Mythic,1,3
+695,Chainer Nightmare Adept,4.0,"['B', 'R']","['Human', 'Minion']",Mythic,3,2
+697,Gerrard Weatherlight Hero,4.0,"['R', 'W']","['Human', 'Soldier']",Rare,3,3
+698,Ghired Conclave Exile,5.0,"['G', 'R', 'W']","['Human', 'Shaman']",Mythic,2,5
+699,Greven Predator Captain,5.0,"['B', 'R']","['Phyrexian', 'Human', 'Warrior']",Mythic,5,5
+700,Grismold the Dreadsower,3.0,"['B', 'G']","['Troll', 'Shaman']",Rare,3,3
+701,Kadena Slinking Sorcerer,4.0,"['B', 'G', 'U']","['Naga', 'Wizard']",Mythic,3,3
+702,Marisi Breaker of the Coil,4.0,"['G', 'R', 'W']","['Cat', 'Warrior']",Mythic,5,4
+703,Pramikon Sky Rampart,3.0,"['R', 'U', 'W']",['Wall'],Mythic,1,5
+704,Rayami First of the Fallen,4.0,"['B', 'G', 'U']",['Vampire'],Mythic,5,4
+705,Sevinne the Chronoclasm,5.0,"['R', 'U', 'W']","['Human', 'Wizard']",Mythic,2,2
+706,Tahngarth First Mate,4.0,"['G', 'R']","['Minotaur', 'Warrior']",Rare,5,5
+707,Volrath the Shapestealer,5.0,"['B', 'G', 'U']","['Phyrexian', 'Shapeshifter']",Mythic,7,5
+708,Zetalpa Primal Dawn,8.0,['W'],"['Elder', 'Dinosaur']",Rare,4,8
+713,Emmara Tandris,7.0,"['G', 'W']","['Elf', 'Shaman']",Rare,5,7
+714,Trostani Selesnya's Voice,4.0,"['G', 'W']",['Dryad'],Mythic,2,5
+715,Trynn Champion of Freedom,4.0,['W'],"['Human', 'Soldier']",Mythic,3,3
+716,Haldan Avid Arcanist,3.0,['U'],"['Human', 'Wizard']",Mythic,1,4
+717,Nikara Lair Scavenger,3.0,['B'],"['Human', 'Cleric']",Mythic,2,2
+718,Brallin Skyshark Rider,4.0,['R'],"['Human', 'Shaman']",Mythic,3,3
+719,Cazur Ruthless Stalker,4.0,['G'],"['Human', 'Warrior']",Mythic,3,3
+720,Akim the Soaring Wind,5.0,"['R', 'U', 'W']","['Bird', 'Dinosaur']",Mythic,3,4
+721,Gavi Nest Warden,5.0,"['R', 'U', 'W']","['Human', 'Shaman']",Mythic,2,5
+722,Jirina Kudro,4.0,"['B', 'R', 'W']","['Human', 'Soldier']",Mythic,3,3
+723,Kalamax the Stormsire,4.0,"['G', 'R', 'U']","['Elemental', 'Dinosaur']",Mythic,4,4
+724,Kathril Aspect Warper,5.0,"['B', 'G', 'W']","['Nightmare', 'Insect']",Mythic,3,3
+725,Kelsien the Plague,3.0,"['B', 'R', 'W']","['Human', 'Assassin']",Mythic,2,2
+726,Otrimi the Ever-Playful,6.0,"['B', 'G', 'U']","['Nightmare', 'Beast']",Mythic,6,6
+727,Pako Arcane Retriever,5.0,"['G', 'R']","['Elemental', 'Dog']",Mythic,3,3
+728,Shabraz the Skyshark,5.0,"['U', 'W']","['Shark', 'Bird']",Mythic,3,3
+729,Silvar Devourer of the Free,5.0,"['B', 'R']","['Cat', 'Nightmare']",Mythic,4,2
+730,Tayam Luminous Enigma,4.0,"['B', 'G', 'W']","['Nightmare', 'Beast']",Mythic,3,3
+731,Ukkima Stalking Shadow,3.0,"['B', 'U']","['Whale', 'Wolf']",Mythic,2,2
+732,Xyris the Writhing Storm,5.0,"['G', 'R', 'U']","['Snake', 'Leviathan']",Mythic,3,5
+733,Yannik Scavenging Sentinel,4.0,"['G', 'W']","['Hyena', 'Beast']",Mythic,3,3
+734,Zaxara the Exemplary,4.0,"['B', 'G', 'U']","['Nightmare', 'Hydra']",Mythic,2,3
+736,Odric Lunarch Marshal,4.0,['W'],"['Human', 'Soldier']",Rare,3,3
+737,Odric Master Tactician,4.0,['W'],"['Human', 'Soldier']",Rare,3,4
+743,Adriana Captain of the Guard,5.0,"['R', 'W']","['Human', 'Knight']",Rare,4,4
+744,Garna the Bloodflame,5.0,"['B', 'R']","['Human', 'Warrior']",Uncommon,3,3
+745,Isperia Supreme Judge,6.0,"['U', 'W']",['Sphinx'],Mythic,6,4
+749,Rashmi Eternities Crafter,4.0,"['G', 'U']","['Elf', 'Druid']",Mythic,2,3
+750,Wort the Raidmother,6.0,"['G', 'R']","['Goblin', 'Shaman']",Rare,3,3
+751,Wydwen the Biting Gale,4.0,"['B', 'U']","['Faerie', 'Wizard']",Rare,3,3
+752,Breena the Demagogue,3.0,"['B', 'W']","['Bird', 'Warlock']",Mythic,1,3
+753,Felisa Fang of Silverquill,4.0,"['B', 'W']","['Vampire', 'Wizard']",Mythic,3,2
+754,Veyran Voice of Duality,3.0,"['R', 'U']","['Efreet', 'Wizard']",Mythic,2,2
+755,Zaffai Thunder Conductor,4.0,"['R', 'U']","['Human', 'Shaman']",Mythic,1,4
+756,Gyome Master Chef,4.0,"['B', 'G']","['Troll', 'Warlock']",Mythic,5,3
+757,Willowdusk Essence Seer,3.0,"['B', 'G']","['Dryad', 'Druid']",Mythic,3,3
+758,Alibou Ancient Witness,5.0,"['R', 'W']",['Golem'],Mythic,4,5
+759,Osgir the Reconstructor,4.0,"['R', 'W']","['Giant', 'Artificer']",Mythic,4,4
+760,Adrix and Nev Twincasters,4.0,"['G', 'U']","['Merfolk', 'Wizard']",Mythic,2,2
+761,Esix Fractal Bloom,6.0,"['G', 'U']",['Fractal'],Mythic,4,4
+763,Nils Discipline Enforcer,3.0,['W'],"['Human', 'Cleric']",Rare,2,2
+764,Deekah Fractal Theorist,5.0,['U'],"['Human', 'Wizard']",Rare,3,3
+765,Octavia Living Thesis,10.0,['U'],"['Elemental', 'Octopus']",Rare,8,8
+767,Tivash Gloom Summoner,5.0,['B'],"['Human', 'Warlock']",Rare,4,4
+768,Laelia the Blade Reforged,3.0,['R'],"['Spirit', 'Warrior']",Rare,2,2
+769,Rionya Fire Dancer,5.0,['R'],"['Human', 'Wizard']",Rare,3,4
+770,Ruxa Patient Professor,4.0,['G'],"['Bear', 'Druid']",Rare,4,4
+771,Yedora Grave Gardener,5.0,['G'],"['Treefolk', 'Druid']",Rare,5,5
+773,Naru Meha Master Wizard,4.0,['U'],"['Human', 'Wizard']",Mythic,3,3
+777,Pia Nalaar,3.0,['R'],"['Human', 'Artificer']",Rare,2,2
+778,Arashi the Sky Asunder,5.0,['G'],['Spirit'],Rare,5,5
+781,Sapling of Colfenor,5.0,"['B', 'G']","['Treefolk', 'Shaman']",Rare,2,5
+804,Omnath Locus of Mana,3.0,['G'],['Elemental'],Mythic,1,1
+805,Liliana Heretical Healer // Liliana Defiant Necromancer,3.0,['B'],"['Human', 'Cleric']",Mythic,2,3
+807,Bushi Tenderfoot // Kenzo the Hardhearted,1.0,['W'],"['Human', 'Samurai']",Uncommon,3,4
+808,Eight-and-a-Half-Tails,2.0,['W'],"['Fox', 'Cleric']",Rare,2,2
+809,Hikari Twilight Guardian,5.0,['W'],['Spirit'],Rare,4,4
+810,Isamaru Hound of Konda,1.0,['W'],['Dog'],Rare,2,2
+811,Kitsune Mystic // Autumn-Tail Kitsune Sage,4.0,['W'],"['Fox', 'Wizard']",Rare,4,5
+812,Konda Lord of Eiganjo,7.0,['W'],"['Human', 'Samurai']",Rare,3,3
+813,Masako the Humorless,3.0,['W'],"['Human', 'Advisor']",Rare,2,1
+814,Myojin of Cleansing Fire,8.0,['W'],['Spirit'],Rare,4,6
+815,Nagao Bound by Honor,4.0,['W'],"['Human', 'Samurai']",Uncommon,3,3
+816,Sensei Golden-Tail,2.0,['W'],"['Fox', 'Samurai']",Rare,2,1
+817,Takeno Samurai General,6.0,['W'],"['Human', 'Samurai']",Rare,3,3
+818,Yosei the Morning Star,6.0,['W'],"['Dragon', 'Spirit']",Rare,5,5
+820,Hisoka Minamo Sensei,4.0,['U'],"['Human', 'Wizard']",Rare,1,3
+821,Jushi Apprentice // Tomoya the Revealer,2.0,['U'],"['Human', 'Wizard']",Rare,2,3
+822,Keiga the Tide Star,6.0,['U'],"['Dragon', 'Spirit']",Rare,5,5
+823,Meloku the Clouded Mirror,5.0,['U'],"['Moonfolk', 'Wizard']",Rare,2,4
+824,Myojin of Seeing Winds,10.0,['U'],['Spirit'],Rare,3,3
+825,Student of Elements // Tobita Master of Winds,2.0,['U'],"['Human', 'Wizard']",Uncommon,3,3
+826,The Unspeakable,9.0,['U'],['Spirit'],Rare,6,7
+828,He Who Hungers,5.0,['B'],['Spirit'],Rare,3,2
+829,Horobi Death's Wail,4.0,['B'],['Spirit'],Rare,4,4
+830,Iname Death Aspect,6.0,['B'],['Spirit'],Rare,4,4
+831,Kiku Night's Flower,2.0,['B'],"['Human', 'Assassin']",Rare,1,1
+832,Kokusho the Evening Star,6.0,['B'],"['Dragon', 'Spirit']",Rare,5,5
+833,Kuro Pitlord,9.0,['B'],"['Demon', 'Spirit']",Rare,9,9
+834,Marrow-Gnawer,5.0,['B'],"['Rat', 'Rogue']",Rare,2,3
+835,Myojin of Night's Reach,8.0,['B'],['Spirit'],Rare,5,2
+836,Nezumi Graverobber // Nighteyes the Desecrator,2.0,['B'],"['Rat', 'Wizard']",Uncommon,4,2
+837,Nezumi Shortfang // Stabwhisker the Odious,2.0,['B'],"['Rat', 'Shaman']",Rare,3,3
+838,Seizan Perverter of Truth,5.0,['B'],"['Demon', 'Spirit']",Rare,6,5
+839,Akki Lavarunner // Tok-Tok Volcano Born,4.0,['R'],"['Goblin', 'Shaman']",Rare,2,2
+840,Ben-Ben Akki Hermit,4.0,['R'],"['Goblin', 'Shaman']",Rare,1,1
+841,Brothers Yamazaki,3.0,['R'],"['Human', 'Samurai']",Uncommon,2,1
+844,Initiate of Blood // Goka the Unjust,4.0,['R'],"['Ogre', 'Shaman']",Uncommon,4,4
+845,Kiki-Jiki Mirror Breaker,5.0,['R'],"['Goblin', 'Shaman']",Rare,2,2
+846,Kumano Master Yamabushi,5.0,['R'],"['Human', 'Shaman']",Rare,4,4
+847,Myojin of Infinite Rage,10.0,['R'],['Spirit'],Rare,7,4
+849,Shimatsu the Bloodcloaked,4.0,['R'],"['Demon', 'Spirit']",Rare,0,0
+850,Zo-Zu the Punisher,3.0,['R'],"['Goblin', 'Warrior']",Rare,2,2
+853,Dosan the Falling Leaf,3.0,['G'],"['Human', 'Monk']",Rare,2,2
+854,Iname Life Aspect,6.0,['G'],['Spirit'],Rare,4,4
+855,Jugan the Rising Star,6.0,['G'],"['Dragon', 'Spirit']",Rare,5,5
+856,Kodama of the North Tree,5.0,['G'],['Spirit'],Rare,6,4
+857,Kodama of the South Tree,4.0,['G'],['Spirit'],Rare,4,4
+858,Myojin of Life's Web,9.0,['G'],['Spirit'],Rare,8,8
+859,Orochi Eggwatcher // Shidako Broodmistress,3.0,['G'],"['Snake', 'Shaman']",Uncommon,3,3
+860,Sachi Daughter of Seshiro,4.0,['G'],"['Snake', 'Shaman']",Uncommon,1,3
+861,Seshiro the Anointed,6.0,['G'],"['Snake', 'Monk']",Rare,3,4
+862,Shisato Whispering Hunter,4.0,['G'],"['Snake', 'Warrior']",Rare,2,2
+863,Sosuke Son of Seshiro,4.0,['G'],"['Snake', 'Warrior']",Uncommon,3,4
+864,Arcades Sabboth,8.0,"['G', 'U', 'W']","['Elder', 'Dragon']",Rare,7,7
+865,Axelrod Gunnarson,8.0,"['B', 'R']",['Giant'],Rare,5,5
+866,Ayesha Tanaka,4.0,"['U', 'W']","['Human', 'Artificer']",Rare,2,2
+867,Chromium,8.0,"['B', 'U', 'W']","['Elder', 'Dragon']",Rare,7,7
+868,Dakkon Blackblade,6.0,"['B', 'U', 'W']","['Human', 'Warrior']",Rare,*,*
+869,Gabriel Angelfire,7.0,"['G', 'W']",['Angel'],Rare,4,4
+870,Johan,6.0,"['G', 'R', 'W']","['Human', 'Wizard']",Rare,5,4
+871,Kei Takahashi,4.0,"['G', 'W']","['Human', 'Cleric']",Uncommon,2,2
+872,Marhault Elsdragon,6.0,"['G', 'R']","['Elf', 'Warrior']",Uncommon,4,6
+873,Nebuchadnezzar,5.0,"['B', 'U']","['Human', 'Wizard']",Rare,3,3
+875,Palladia-Mors,8.0,"['G', 'R', 'W']","['Elder', 'Dragon']",Rare,7,7
+877,Sivitri Scarzam,7.0,"['B', 'U']",['Human'],Uncommon,6,4
+878,Sol'kanar the Swamp King,5.0,"['B', 'R', 'U']",['Demon'],Rare,5,5
+880,Tobias Andrion,5.0,"['U', 'W']","['Human', 'Advisor']",Uncommon,4,4
+881,Tor Wauki,5.0,"['B', 'R']","['Human', 'Archer']",Uncommon,3,3
+882,Vaevictis Asmadi,8.0,"['B', 'G', 'R']","['Elder', 'Dragon']",Rare,7,7
+883,Xira Arien,3.0,"['B', 'G', 'R']","['Insect', 'Wizard']",Rare,1,2
+884,Abdel Adrian Gorion's Ward,5.0,['W'],"['Human', 'Warrior']",Uncommon,4,4
+885,Ellyn Harbreeze Busybody,4.0,['W'],"['Human', 'Peasant']",Uncommon,2,4
+886,Lae'zel Vlaakith's Champion,3.0,['W'],"['Gith', 'Warrior']",Rare,3,3
+887,Lulu Loyal Hollyphant,4.0,['W'],"['Elephant', 'Angel']",Uncommon,3,2
+888,Rasaad yn Bashir,3.0,['W'],"['Human', 'Monk']",Uncommon,0,3
+889,Alora Merry Thief,3.0,['U'],"['Halfling', 'Rogue']",Uncommon,3,2
+890,Gale Waterdeep Prodigy,3.0,['U'],"['Human', 'Wizard']",Rare,1,3
+891,Imoen Mystic Trickster,3.0,['U'],"['Human', 'Rogue', 'Wizard']",Uncommon,2,3
+892,Renari Merchant of Marvels,4.0,['U'],"['Dragon', 'Artificer']",Uncommon,2,4
+893,Vhal Candlekeep Researcher,4.0,['U'],"['Human', 'Wizard']",Uncommon,2,3
+894,Volo Itinerant Scholar,3.0,['U'],"['Human', 'Wizard']",Mythic,2,3
+895,Safana Calimport Cutthroat,3.0,['B'],"['Human', 'Rogue']",Uncommon,3,2
+896,Sarevok Deathbringer,4.0,['B'],"['Human', 'Knight']",Uncommon,3,4
+897,Shadowheart Dark Justiciar,4.0,['B'],"['Human', 'Elf', 'Cleric']",Rare,3,4
+898,Sivriss Nightmare Speaker,4.0,['B'],"['Snake', 'Cleric', 'Warlock']",Uncommon,3,3
+899,Viconia Drow Apostate,3.0,['B'],"['Elf', 'Cleric']",Uncommon,2,3
+900,Amber Gristle O'Maul,4.0,['R'],"['Dwarf', 'Cleric']",Uncommon,3,3
+901,Ganax Astral Hunter,5.0,['R'],['Dragon'],Uncommon,3,4
+902,Gut True Soul Zealot,3.0,['R'],"['Goblin', 'Shaman']",Uncommon,2,2
+903,Karlach Fury of Avernus,5.0,['R'],"['Tiefling', 'Barbarian']",Mythic,5,4
+904,Livaan Cultist of Tiamat,3.0,['R'],"['Dragon', 'Shaman']",Uncommon,1,3
+905,Wyll Blade of Frontiers,2.0,['R'],"['Human', 'Warlock']",Rare,1,1
+906,Erinis Gloom Stalker,3.0,['G'],"['Halfling', 'Ranger']",Uncommon,3,3
+907,Halsin Emerald Archdruid,4.0,['G'],"['Elf', 'Druid']",Uncommon,2,4
+908,Jaheira Friend of the Forest,3.0,['G'],"['Human', 'Elf', 'Druid']",Rare,2,3
+909,Skanos Dragonheart,5.0,['G'],"['Dragon', 'Ranger']",Uncommon,4,4
+910,Wilson Refined Grizzly,2.0,['G'],"['Bear', 'Warrior']",Uncommon,2,2
+911,Alaundo the Seer,4.0,"['G', 'U']","['Human', 'Shaman']",Rare,3,5
+912,Astarion the Decadent,6.0,"['B', 'W']","['Vampire', 'Elf', 'Rogue']",Rare,4,4
+913,Baba Lysaga Night Witch,3.0,"['B', 'G']","['Human', 'Warlock']",Rare,3,3
+914,Bane Lord of Darkness,4.0,"['B', 'U', 'W']",['God'],Rare,5,2
+915,Bhaal Lord of Murder,5.0,"['B', 'G', 'R']",['God'],Rare,4,4
+916,Cadira Caller of the Small,3.0,"['G', 'W']","['Orc', 'Ranger']",Uncommon,3,3
+917,Commander Liara Portyr,5.0,"['R', 'W']","['Human', 'Soldier']",Uncommon,5,3
+918,The Council of Four,5.0,"['U', 'W']","['Human', 'Noble']",Rare,0,8
+919,Duke Ulder Ravengard,6.0,"['R', 'W']","['Human', 'Noble', 'Soldier']",Rare,5,5
+920,Dynaheir Invoker Adept,4.0,"['R', 'U', 'W']","['Human', 'Wizard']",Rare,4,4
+921,Gluntch the Bestower,3.0,"['G', 'W']",['Jellyfish'],Rare,0,5
+922,Gorion Wise Mentor,3.0,"['G', 'U', 'W']","['Human', 'Wizard']",Rare,3,4
+923,Jan Jansen Chaos Crafter,3.0,"['B', 'R', 'W']","['Gnome', 'Artificer']",Rare,3,3
+924,Jon Irenicus Shattered One,4.0,"['B', 'U']","['Elf', 'Wizard']",Rare,3,3
+925,Kagha Shadow Archdruid,4.0,"['B', 'G']","['Elf', 'Druid']",Uncommon,1,4
+926,Korlessa Scale Singer,2.0,"['G', 'U']","['Dragon', 'Bard']",Uncommon,1,4
+927,Lozhan Dragons' Legacy,5.0,"['R', 'U']","['Dragon', 'Shaman']",Uncommon,4,2
+928,Mahadi Emporium Master,3.0,"['B', 'R']","['Cat', 'Devil']",Uncommon,3,3
+929,Mazzy Truesword Paladin,4.0,"['G', 'R', 'W']","['Halfling', 'Knight']",Rare,3,4
+930,Miirym Sentinel Wyrm,6.0,"['G', 'R', 'U']","['Dragon', 'Spirit']",Rare,6,6
+931,Minthara Merciless Soul,4.0,"['B', 'W']","['Elf', 'Cleric']",Uncommon,2,2
+932,Myrkul Lord of Bones,7.0,"['B', 'G', 'W']",['God'],Rare,7,5
+933,Neera Wild Mage,6.0,"['R', 'U']","['Human', 'Elf', 'Shaman']",Rare,2,7
+934,Nine-Fingers Keene,4.0,"['B', 'G', 'U']","['Human', 'Rogue']",Rare,4,4
+935,Oji the Exquisite Blade,4.0,"['U', 'W']","['Human', 'Monk']",Uncommon,2,3
+936,Raggadragga Goreguts Boss,4.0,"['G', 'R']","['Human', 'Boar']",Rare,4,4
+937,Raphael Fiendish Savior,5.0,"['B', 'R']","['Devil', 'Noble']",Rare,4,4
+938,Rilsa Rael Kingpin,5.0,"['B', 'U']","['Human', 'Rogue']",Uncommon,2,5
+939,Thrakkus the Butcher,5.0,"['G', 'R']","['Dragon', 'Peasant']",Uncommon,3,4
+940,Zevlor Elturel Exile,4.0,"['B', 'R', 'U']","['Tiefling', 'Warrior']",Rare,4,2
+1055,Zellix Sanity Flayer,3.0,['U'],['Horror'],Mythic,2,3
+1056,Burakos Party Leader,4.0,['B'],['Orc'],Mythic,2,4
+1057,Baeloth Barrityl Entertainer,5.0,['R'],"['Elf', 'Shaman']",Mythic,2,5
+1058,Durnan of the Yawning Portal,4.0,['G'],"['Human', 'Warrior']",Mythic,3,3
+1059,Captain N'ghathrod,5.0,"['B', 'U']","['Horror', 'Pirate']",Mythic,3,6
+1060,Faldorn Dread Wolf Herald,3.0,"['G', 'R']","['Human', 'Druid']",Mythic,3,3
+1061,Firkraag Cunning Instigator,5.0,"['R', 'U']",['Dragon'],Mythic,3,3
+1062,Nalia de'Arnise,3.0,"['B', 'W']","['Human', 'Rogue']",Mythic,3,3
+1077,Drakuseth Maw of Flames,7.0,['R'],['Dragon'],Rare,7,7
+1082,Urabrask the Hidden,5.0,['R'],"['Phyrexian', 'Praetor']",Mythic,4,4
+1084,Grumgully the Generous,3.0,"['G', 'R']","['Goblin', 'Shaman']",Uncommon,3,3
+1085,Niv-Mizzet Parun,6.0,"['R', 'U']","['Dragon', 'Wizard']",Rare,5,5
+1090,Diaochan Artful Beauty,4.0,['R'],"['Human', 'Advisor']",Rare,1,1
+1093,Maelstrom Wanderer,8.0,"['G', 'R', 'U']",['Elemental'],Mythic,7,5
+1097,Damia Sage of Stone,7.0,"['B', 'G', 'U']","['Gorgon', 'Wizard']",Mythic,4,4
+1098,Vorosh the Hunter,6.0,"['B', 'G', 'U']",['Dragon'],Rare,6,6
+1115,Szadek Lord of Secrets,7.0,"['B', 'U']",['Vampire'],Rare,5,5
+1117,Wrexial the Risen Deep,6.0,"['B', 'U']",['Kraken'],Mythic,5,8
+1123,Basandra Battle Seraph,5.0,"['R', 'W']",['Angel'],Rare,4,4
+1128,Malfegor,6.0,"['B', 'R']","['Demon', 'Dragon']",Mythic,6,6
+1131,Oros the Avenger,6.0,"['B', 'R', 'W']",['Dragon'],Rare,6,6
+1135,Ruff Underdog Champ,4.0,['W'],"['Dog', 'Soldier']",Rare,3,2
+1136,Khod Etlan Shiis Envoy,3.0,['U'],"['Homarid', 'Warrior']",Rare,2,3
+1137,Vazal the Compleat,6.0,['G'],['Phyrexian'],Rare,7,7
+1138,Louvaq the Aberrant,4.0,"['G', 'U']",['Mutant'],Rare,3,4
+1139,Sliv-Mizzet Hivemind,6.0,"['R', 'U']","['Dragon', 'Sliver']",Rare,4,4
+1140,Slivdrazi Monstrosity,6.0,"['B', 'G', 'R', 'U', 'W']","['Sliver', 'Eldrazi']",Rare,8,8
+1141,Zyym Mesmeric Lord,4.0,"['B', 'U']","['Vampire', 'Wizard']",Rare,3,4
+1156,Chorus of the Conclave,8.0,"['G', 'W']",['Dryad'],Rare,3,8
+1166,Numot the Devastator,6.0,"['R', 'U', 'W']",['Dragon'],Rare,6,6
+1169,Ruhan of the Fomori,4.0,"['R', 'U', 'W']","['Giant', 'Warrior']",Mythic,7,7
+1178,The Prismatic Piper,5.0,['UC'],['Shapeshifter'],Special,3,3
+1179,Akroma Vision of Ixidor,7.0,['W'],['Angel'],Mythic,6,6
+1180,Alharu Solemn Ritualist,5.0,['W'],"['Human', 'Monk']",Uncommon,3,3
+1181,Ardenn Intrepid Archaeologist,3.0,['W'],"['Kor', 'Scout']",Uncommon,2,2
+1182,Keleth Sunmane Familiar,2.0,['W'],['Horse'],Uncommon,1,1
+1183,Livio Oathsworn Sentinel,2.0,['W'],"['Human', 'Knight']",Rare,2,2
+1184,Prava of the Steel Legion,3.0,['W'],"['Cat', 'Soldier']",Uncommon,1,4
+1185,Radiant Serra Archangel,7.0,['W'],['Angel'],Uncommon,6,4
+1186,Rebbec Architect of Ascension,4.0,['W'],"['Human', 'Artificer']",Uncommon,3,4
+1187,Brinelin the Moon Kraken,8.0,['U'],['Kraken'],Uncommon,6,8
+1188,Eligeth Crossroads Augur,6.0,['U'],['Sphinx'],Rare,5,6
+1189,Esior Wardwing Familiar,2.0,['U'],['Bird'],Uncommon,1,3
+1190,Ghost of Ramirez DePietro,3.0,['U'],"['Spirit', 'Pirate']",Uncommon,2,3
+1191,Glacian Powerstone Engineer,6.0,['U'],"['Human', 'Artificer']",Uncommon,3,6
+1192,Malcolm Keen-Eyed Navigator,3.0,['U'],"['Siren', 'Pirate']",Uncommon,2,2
+1193,Sakashima of a Thousand Faces,4.0,['U'],"['Human', 'Rogue']",Mythic,3,1
+1194,Siani Eye of the Storm,4.0,['U'],"['Djinn', 'Monk']",Uncommon,3,2
+1196,Falthis Shadowcat Familiar,3.0,['B'],"['Nightmare', 'Cat']",Uncommon,2,2
+1197,Keskit the Flesh Sculptor,3.0,['B'],"['Phyrexian', 'Human', 'Artificer']",Uncommon,1,3
+1198,Miara Thorn of the Glade,2.0,['B'],"['Elf', 'Scout']",Uncommon,1,2
+1199,Nadier Agent of the Duskenel,6.0,['B'],"['Elf', 'Warrior']",Uncommon,3,3
+1200,Sengir the Dark Baron,6.0,['B'],"['Vampire', 'Noble']",Rare,4,4
+1201,Tormod the Desecrator,4.0,['B'],"['Zombie', 'Wizard']",Uncommon,4,2
+1202,Alena Kessig Trapper,5.0,['R'],"['Human', 'Scout']",Uncommon,4,3
+1203,Breeches Brazen Plunderer,4.0,['R'],"['Goblin', 'Pirate']",Uncommon,3,3
+1204,Dargo the Shipwrecker,7.0,['R'],"['Giant', 'Pirate']",Uncommon,7,5
+1205,Kediss Emberclaw Familiar,2.0,['R'],"['Elemental', 'Lizard']",Uncommon,1,1
+1206,Krark the Thumbless,2.0,['R'],"['Goblin', 'Wizard']",Rare,2,2
+1207,Rograkh Son of Rohgahh,0.0,['R'],"['Kobold', 'Warrior']",Uncommon,0,1
+1208,Toggo Goblin Weaponsmith,3.0,['R'],"['Goblin', 'Artificer']",Uncommon,2,2
+1209,Anara Wolvid Familiar,4.0,['G'],"['Wolf', 'Beast']",Uncommon,4,4
+1210,Gilanra Caller of Wirewood,3.0,['G'],"['Elf', 'Druid']",Uncommon,1,2
+1211,Halana Kessig Ranger,4.0,['G'],"['Human', 'Archer', 'Ranger']",Uncommon,3,4
+1212,Ich-Tekik Salvage Splicer,5.0,['G'],"['Phyrexian', 'Human', 'Artificer']",Uncommon,1,1
+1213,Kamahl Heart of Krosa,8.0,['G'],"['Human', 'Druid']",Mythic,5,5
+1214,Kodama of the East Tree,6.0,['G'],['Spirit'],Rare,6,6
+1215,Numa Joraga Chieftain,3.0,['G'],"['Elf', 'Warrior']",Uncommon,2,2
+1216,Slurrk All-Ingesting,6.0,['G'],['Ooze'],Uncommon,0,0
+1217,Abomination of Llanowar,3.0,"['B', 'G']","['Elf', 'Horror']",Uncommon,*,*
+1218,Amareth the Lustrous,6.0,"['G', 'U', 'W']",['Dragon'],Rare,6,6
+1219,Araumi of the Dead Tide,3.0,"['B', 'U']","['Merfolk', 'Wizard']",Uncommon,1,4
+1220,Archelos Lagoon Mystic,4.0,"['B', 'G', 'U']","['Turtle', 'Shaman']",Rare,2,4
+1221,Averna the Chaos Bloom,3.0,"['G', 'R', 'U']","['Elemental', 'Shaman']",Rare,4,2
+1222,Belbe Corrupted Observer,2.0,"['B', 'G']","['Phyrexian', 'Zombie', 'Elf']",Rare,2,2
+1223,Bell Borca Spectral Sergeant,4.0,"['R', 'W']","['Spirit', 'Soldier']",Rare,*,5
+1224,Blim Comedic Genius,4.0,"['B', 'R']",['Imp'],Rare,4,3
+1225,Captain Vargus Wrath,2.0,"['R', 'U']","['Orc', 'Pirate']",Uncommon,1,1
+1226,Colfenor the Last Yew,6.0,"['B', 'G', 'W']","['Treefolk', 'Shaman']",Rare,3,7
+1227,Ghen Arcanum Weaver,3.0,"['B', 'R', 'W']","['Human', 'Wizard']",Rare,2,3
+1228,Gnostro Voice of the Crags,4.0,"['R', 'U', 'W']",['Chimera'],Rare,3,3
+1229,Gor Muldrak Amphinologist,3.0,"['G', 'U']","['Human', 'Scout']",Rare,3,2
+1230,Hamza Guardian of Arashin,6.0,"['G', 'W']","['Elephant', 'Warrior']",Uncommon,5,5
+1231,Hans Eriksson,4.0,"['G', 'R']","['Human', 'Scout']",Rare,1,4
+1232,Imoti Celebrant of Bounty,5.0,"['G', 'U']","['Naga', 'Druid']",Uncommon,3,1
+1233,Jared Carthalion True Heir,3.0,"['G', 'R', 'W']","['Human', 'Warrior']",Rare,3,3
+1234,Juri Master of the Revue,2.0,"['B', 'R']","['Human', 'Shaman']",Uncommon,1,1
+1235,Kangee Sky Warden,5.0,"['U', 'W']","['Bird', 'Wizard']",Uncommon,3,3
+1236,Kwain Itinerant Meddler,2.0,"['U', 'W']","['Rabbit', 'Wizard']",Rare,1,3
+1237,Lathiel the Bounteous Dawn,4.0,"['G', 'W']",['Unicorn'],Rare,2,2
+1238,Liesa Shroud of Dusk,5.0,"['B', 'W']",['Angel'],Rare,5,5
+1239,Nevinyrral Urborg Tyrant,6.0,"['B', 'U', 'W']","['Zombie', 'Wizard']",Rare,3,6
+1240,Nymris Oona's Trickster,5.0,"['B', 'U']","['Faerie', 'Knight']",Rare,1,6
+1241,Obeka Brute Chronologist,4.0,"['B', 'R', 'U']","['Ogre', 'Wizard']",Rare,3,4
+1242,Reyav Master Smith,2.0,"['R', 'W']","['Dwarf', 'Artificer']",Uncommon,2,2
+1243,Thalisse Reverent Medium,5.0,"['B', 'W']","['Human', 'Cleric']",Uncommon,3,4
+1244,Tuya Bearclaw,3.0,"['G', 'R']","['Human', 'Warrior']",Uncommon,2,2
+1245,Yurlok of Scorch Thrash,4.0,"['B', 'G', 'R']","['Viashino', 'Shaman']",Rare,4,4
+1246,Zara Renegade Recruiter,5.0,"['R', 'U']","['Human', 'Pirate']",Rare,4,3
+1247,Wyleth Soul of Steel,3.0,"['R', 'W']","['Human', 'Warrior']",Mythic,2,2
+1248,Aesi Tyrant of Gyre Strait,6.0,"['G', 'U']",['Serpent'],Mythic,5,5
+1249,Danitha Capashen Paragon,3.0,['W'],"['Human', 'Knight']",Uncommon,2,2
+1253,Nezahal Primal Tide,7.0,['U'],"['Elder', 'Dinosaur']",Rare,7,7
+1254,Slinn Voda the Rising Deep,8.0,['U'],['Leviathan'],Uncommon,8,8
+1257,Tiana Ship's Caretaker,5.0,"['R', 'W']","['Angel', 'Artificer']",Uncommon,3,3
+1260,Brago King Eternal,4.0,"['U', 'W']","['Spirit', 'Noble']",Mythic,2,4
+1274,Queen Marchesa,4.0,"['B', 'R', 'W']","['Human', 'Assassin']",Mythic,3,3
+1275,Rakdos Lord of Riots,4.0,"['B', 'R']",['Demon'],Mythic,6,6
+1358,Grenzo Havoc Raiser,2.0,['R'],"['Goblin', 'Rogue']",Rare,2,2
+1359,Selvala Heart of the Wilds,3.0,['G'],"['Elf', 'Scout']",Mythic,2,3
+1361,Leovold Emissary of Trest,3.0,"['B', 'G', 'U']","['Elf', 'Advisor']",Mythic,3,3
+1363,Kami of the Crescent Moon,2.0,['U'],['Spirit'],Rare,1,3
+1374,Rakka Mar,4.0,['R'],"['Human', 'Shaman']",Rare,2,2
+1378,Progenitus,10.0,"['B', 'G', 'R', 'U', 'W']","['Hydra', 'Avatar']",Mythic,10,10
+1382,Heidar Rimewind Master,5.0,['U'],"['Human', 'Wizard']",Rare,3,3
+1383,Haakon Stromgald Scourge,3.0,['B'],"['Zombie', 'Knight']",Rare,3,3
+1384,Lovisa Coldeyes,5.0,['R'],['Human'],Rare,3,3
+1385,Garza Zol Plague Queen,7.0,"['B', 'R', 'U']","['Vampire', 'Noble']",Rare,5,5
+1388,Adeline Resplendent Cathar,3.0,['W'],"['Human', 'Knight']",Rare,*,4
+1389,Lier Disciple of the Drowned,5.0,['U'],"['Human', 'Wizard']",Mythic,3,4
+1390,Gisa Glorious Resurrector,4.0,['B'],"['Human', 'Wizard']",Rare,4,4
+1391,Jadar Ghoulcaller of Nephalia,2.0,['B'],"['Human', 'Wizard']",Rare,1,1
+1392,Jerren Corrupted Bishop // Ormendahl the Corrupter,3.0,['B'],"['Human', 'Cleric']",Mythic,2,3
+1394,Saryth the Viper's Fang,4.0,['G'],"['Human', 'Warlock']",Rare,3,4
+1395,Dennick Pious Apprentice // Dennick Pious Apparition,2.0,"['U', 'W']","['Human', 'Soldier']",Rare,2,3
+1397,Florian Voldaren Scion,3.0,"['B', 'R']","['Vampire', 'Noble']",Rare,3,3
+1398,Katilda Dawnhart Prime,2.0,"['G', 'W']","['Human', 'Warlock']",Rare,1,1
+1399,Liesa Forgotten Archangel,5.0,"['B', 'W']",['Angel'],Rare,4,5
+1400,Ludevic Necrogenius // Olag Ludevic's Hubris,2.0,"['B', 'U']","['Human', 'Wizard']",Rare,2,3
+1402,Old Stickfingers,2.0,"['B', 'G']",['Horror'],Rare,*,*
+1403,Rem Karolus Stalwart Slayer,3.0,"['R', 'W']","['Human', 'Knight']",Rare,2,3
+1404,Sigarda Champion of Light,4.0,"['G', 'W']",['Angel'],Mythic,4,4
+1405,Slogurk the Overslime,3.0,"['G', 'U']",['Ooze'],Rare,3,3
+1406,Tovolar Dire Overlord // Tovolar the Midnight Scourge,3.0,"['G', 'R']","['Human', 'Werewolf']",Rare,3,3
+1408,Vadrik Astral Archmage,3.0,"['R', 'U']","['Human', 'Wizard']",Rare,1,2
+1409,Katilda Dawnhart Martyr // Katilda's Rising Dawn,3.0,['W'],"['Spirit', 'Warlock']",Rare,*,*
+1411,Geralf Visionary Stitcher,3.0,['U'],"['Human', 'Wizard']",Rare,1,4
+1412,Jacob Hauken Inspector // Hauken's Insight,2.0,['U'],"['Human', 'Advisor']",Mythic,0,2
+1413,Henrika Domnathi // Henrika Infernal Seer,4.0,['B'],['Vampire'],Mythic,1,3
+1415,Toxrill the Corrosive,7.0,['B'],"['Slug', 'Horror']",Mythic,7,7
+1416,Anje Maid of Dishonor,4.0,"['B', 'R']",['Vampire'],Rare,4,5
+1417,Dorothea Vengeful Victim // Dorothea's Retribution,2.0,"['U', 'W']",['Spirit'],Rare,4,4
+1418,Edgar Charmed Groom // Edgar Markov's Coffin,4.0,"['B', 'W']","['Vampire', 'Noble']",Rare,4,4
+1419,Eruth Tormented Prophet,3.0,"['R', 'U']","['Human', 'Wizard']",Rare,2,4
+1420,Grolnok the Omnivore,4.0,"['G', 'U']",['Frog'],Rare,3,3
+1421,Halana and Alena Partners,4.0,"['G', 'R']","['Human', 'Ranger']",Rare,2,3
+1422,Odric Blood-Cursed,3.0,"['R', 'W']","['Vampire', 'Soldier']",Rare,3,3
+1423,Old Rutstein,3.0,"['B', 'G']","['Human', 'Peasant']",Rare,1,4
+1424,Olivia Crimson Bride,6.0,"['B', 'R']","['Vampire', 'Noble']",Mythic,3,4
+1425,Runo Stromkirk // Krothuss Lord of the Deep,3.0,"['B', 'U']","['Vampire', 'Cleric']",Rare,1,4
+1427,Torens Fist of the Angels,3.0,"['G', 'W']","['Human', 'Cleric']",Rare,2,2
+1428,Ib Halfheart Goblin Tactician,4.0,['R'],"['Goblin', 'Advisor']",Rare,3,2
+1433,Darigaaz the Igniter,6.0,"['B', 'G', 'R']",['Dragon'],Rare,6,6
+1434,Rith the Awakener,6.0,"['G', 'R', 'W']",['Dragon'],Rare,6,6
+1435,Treva the Renewer,6.0,"['G', 'U', 'W']",['Dragon'],Rare,6,6
+1438,Anax and Cymede,3.0,"['R', 'W']","['Human', 'Soldier']",Rare,3,2
+1440,Polukranos World Eater,4.0,['G'],['Hydra'],Mythic,5,5
+1441,Zurgo Helmsmasher,5.0,"['B', 'R', 'W']","['Orc', 'Warrior']",Mythic,7,2
+1442,Krenko Mob Boss,4.0,['R'],"['Goblin', 'Warrior']",Rare,3,3
+1445,Jhoira of the Ghitu,3.0,"['R', 'U']","['Human', 'Wizard']",Mythic,2,2
+1448,Jori En Ruin Diver,3.0,"['R', 'U']","['Merfolk', 'Wizard']",Rare,2,3
+1452,Radha Heir to Keld,2.0,"['G', 'R']","['Elf', 'Warrior']",Rare,2,2
+1455,Dwynen Gilt-Leaf Daen,4.0,['G'],"['Elf', 'Warrior']",Rare,3,4
+1456,Yeva Nature's Herald,4.0,['G'],"['Elf', 'Shaman']",Rare,4,4
+1457,Pia and Kiran Nalaar,4.0,['R'],"['Human', 'Artificer']",Rare,2,2
+1459,Exava Rakdos Blood Witch,4.0,"['B', 'R']","['Human', 'Cleric']",Rare,3,3
+1460,Lavinia of the Tenth,5.0,"['U', 'W']","['Human', 'Soldier']",Rare,4,4
+1462,Mirko Vosk Mind Drinker,5.0,"['B', 'U']",['Vampire'],Rare,2,4
+1464,Tajic Blade of the Legion,4.0,"['R', 'W']","['Human', 'Soldier']",Rare,2,2
+1466,Varolz the Scar-Striped,3.0,"['B', 'G']","['Troll', 'Warrior']",Rare,2,2
+1468,Experiment Kraj,6.0,"['G', 'U']","['Ooze', 'Mutant']",Rare,4,6
+1470,Isperia the Inscrutable,5.0,"['U', 'W']",['Sphinx'],Rare,3,6
+1471,Lyzolda the Blood Witch,3.0,"['B', 'R']","['Human', 'Cleric']",Rare,3,1
+1472,Momir Vig Simic Visionary,5.0,"['G', 'U']","['Elf', 'Wizard']",Rare,2,2
+1473,Rakdos the Defiler,6.0,"['B', 'R']",['Demon'],Rare,7,6
+1475,Mikaeus the Unhallowed,6.0,['B'],"['Zombie', 'Cleric']",Mythic,5,5
+1476,Elbrus the Binding Blade // Withengar Unbound,7.0,['B'],['Demon'],Mythic,13,13
+1477,Jenson Carthalion Druid Exile,2.0,"['G', 'W']","['Human', 'Druid']",Mythic,2,2
+1478,Shanid Sleepers' Scourge,4.0,"['B', 'R', 'W']","['Human', 'Knight']",Mythic,2,4
+1479,Zeriam Golden Wind,4.0,['W'],['Griffin'],Rare,3,4
+1480,Moira Urborg Haunt,3.0,['B'],"['Spirit', 'Wizard']",Rare,3,2
+1481,Bladewing Deathless Tyrant,7.0,"['B', 'R']","['Dragon', 'Skeleton']",Rare,6,6
+1482,Cadric Soul Kindler,4.0,"['R', 'W']","['Dwarf', 'Wizard']",Rare,4,3
+1483,Verrak Warped Sengir,3.0,"['B', 'W']",['Vampire'],Rare,2,2
+1484,The Peregrine Dynamo,3.0,['UC'],['Construct'],Rare,1,5
+1485,Emperor Mihail II,3.0,['U'],"['Merfolk', 'Noble']",Rare,3,3
+1486,Rosnakht Heir of Rohgahh,1.0,['R'],"['Kobold', 'Warrior']",Rare,0,1
+1487,Baru Wurmspeaker,4.0,['G'],"['Human', 'Druid']",Rare,3,3
+1488,Greensleeves Maro-Sorcerer,5.0,['G'],['Elemental'],Mythic,*,*
+1489,Ayesha Tanaka Armorer,5.0,"['U', 'W']","['Human', 'Artificer']",Rare,2,4
+1490,The Ever-Changing 'Dane,3.0,"['B', 'U', 'W']",['Shapeshifter'],Rare,3,3
+1491,General Marhault Elsdragon,4.0,"['G', 'R']","['Elf', 'Warrior']",Uncommon,4,4
+1492,Hazezon Shaper of Sand,3.0,"['G', 'R', 'W']","['Human', 'Warrior']",Rare,3,3
+1493,Jasmine Boreal of the Seven,3.0,"['G', 'W']","['Human', 'Druid']",Uncommon,2,4
+1494,Jedit Ojanen Mercenary,3.0,"['U', 'W']","['Cat', 'Mercenary']",Mythic,3,3
+1495,The Lady of Otaria,5.0,"['G', 'R']",['Avatar'],Mythic,5,5
+1496,Ohabi Caleria,3.0,"['G', 'W']","['Elf', 'Archer']",Rare,1,3
+1497,Orca Siege Demon,7.0,"['B', 'R']",['Demon'],Rare,5,5
+1498,Ramirez DePietro Pillager,4.0,"['B', 'U']","['Human', 'Pirate']",Uncommon,4,3
+1499,Ramses Assassin Lord,4.0,"['B', 'U']","['Human', 'Assassin']",Rare,4,4
+1500,Rasputin the Oneiromancer,3.0,"['U', 'W']","['Human', 'Wizard']",Rare,4,1
+1501,Rohgahh Kher Keep Overlord,5.0,"['B', 'R']","['Kobold', 'Warrior']",Rare,4,4
+1502,Stangg Echo Warrior,4.0,"['G', 'R']","['Human', 'Warrior']",Rare,3,4
+1503,Tetsuo Imperial Champion,3.0,"['B', 'R', 'U']","['Human', 'Samurai']",Mythic,3,3
+1504,Tobias Doomed Conqueror,4.0,"['U', 'W']","['Human', 'Soldier']",Uncommon,3,2
+1505,Tor Wauki the Younger,5.0,"['B', 'R']","['Human', 'Archer']",Uncommon,3,3
+1506,Torsten Founder of Benalia,7.0,"['G', 'W']","['Human', 'Soldier']",Mythic,7,7
+1507,Xira the Golden Sting,4.0,"['B', 'G', 'R']","['Insect', 'Assassin']",Rare,3,3
+1539,Anafenza Kin-Tree Spirit,2.0,['W'],"['Spirit', 'Soldier']",Rare,2,2
+1545,Josu Vess Lich Knight,4.0,['B'],"['Zombie', 'Knight']",Rare,4,5
+1546,Kothophed Soul Hoarder,6.0,['B'],['Demon'],Rare,6,6
+1548,Ashling the Pilgrim,2.0,['R'],"['Elemental', 'Shaman']",Rare,1,1
+1549,Captain Lannery Storm,3.0,['R'],"['Human', 'Pirate']",Rare,2,2
+1552,Krenko Tin Street Kingpin,3.0,['R'],['Goblin'],Rare,1,2
+1553,Neheb Dreadhorde Champion,4.0,['R'],"['Zombie', 'Minotaur', 'Warrior']",Rare,5,4
+1556,Arvad the Cursed,5.0,"['B', 'W']","['Vampire', 'Knight']",Uncommon,3,3
+1560,Illuna Apex of Wishes,5.0,"['G', 'R', 'U']","['Beast', 'Elemental', 'Dinosaur']",Mythic,6,6
+1561,Nethroi Apex of Death,5.0,"['B', 'G', 'W']","['Cat', 'Nightmare', 'Beast']",Mythic,5,5
+1563,Rienne Angel of Rebirth,5.0,"['G', 'R', 'W']",['Angel'],Mythic,5,4
+1565,Surrak Dragonclaw,5.0,"['G', 'R', 'U']","['Human', 'Warrior']",Mythic,6,6
+1570,Lieutenant Kirtar,3.0,['W'],"['Bird', 'Soldier']",Rare,2,2
+1571,Lyra Dawnbringer,5.0,['W'],['Angel'],Mythic,5,5
+1573,Urza Lord High Artificer,4.0,['U'],"['Human', 'Artificer']",Mythic,1,4
+1574,Chainer Dementia Master,5.0,['B'],"['Human', 'Minion']",Rare,3,3
+1575,Yawgmoth Thran Physician,4.0,['B'],"['Human', 'Cleric']",Mythic,2,4
+1576,Pashalik Mons,3.0,['R'],"['Goblin', 'Warrior']",Rare,2,2
+1577,Valduk Keeper of the Flame,3.0,['R'],"['Human', 'Shaman']",Uncommon,3,2
+1578,Jolrael Mwonvuli Recluse,2.0,['G'],"['Human', 'Druid']",Rare,1,2
+1584,Tatyova Benthic Druid,5.0,"['G', 'U']","['Merfolk', 'Druid']",Uncommon,3,3
+1611,Danitha Benalia's Hope,5.0,['W'],"['Human', 'Knight']",Rare,4,4
+1612,Braids Arisen Nightmare,3.0,['B'],['Nightmare'],Rare,3,3
+1613,The Raven Man,2.0,['B'],"['Human', 'Wizard']",Rare,2,1
+1614,Sheoldred the Apocalypse,4.0,['B'],"['Phyrexian', 'Praetor']",Mythic,4,5
+1615,Squee Dubious Monarch,3.0,['R'],"['Goblin', 'Noble']",Rare,2,2
+1616,Aron Benalia's Ruin,3.0,"['B', 'W']","['Phyrexian', 'Human']",Uncommon,3,3
+1617,Astor Bearer of Blades,4.0,"['R', 'W']","['Human', 'Warrior']",Rare,4,4
+1618,Baird Argivian Recruiter,2.0,"['R', 'W']","['Human', 'Soldier']",Uncommon,2,2
+1619,Balmor Battlemage Captain,2.0,"['R', 'U']","['Bird', 'Wizard']",Uncommon,1,3
+1620,Bortuk Bonerattle,6.0,"['B', 'G']","['Troll', 'Shaman']",Uncommon,4,4
+1621,Elas il-Kor Sadistic Pilgrim,2.0,"['B', 'W']","['Phyrexian', 'Kor', 'Cleric']",Uncommon,2,2
+1622,Ertai Resurrected,4.0,"['B', 'U']","['Phyrexian', 'Human', 'Wizard']",Rare,3,2
+1623,Garna Bloodfist of Keld,4.0,"['B', 'R']","['Human', 'Berserker']",Uncommon,4,3
+1624,Ivy Gleeful Spellthief,2.0,"['G', 'U']","['Faerie', 'Rogue']",Rare,2,1
+1625,Jhoira Ageless Innovator,2.0,"['R', 'U']","['Human', 'Artificer']",Rare,2,3
+1626,Jodah the Unifier,5.0,"['B', 'G', 'R', 'U', 'W']","['Human', 'Wizard']",Mythic,5,5
+1627,King Darien XLVIII,3.0,"['G', 'W']","['Human', 'Soldier']",Rare,2,3
+1628,Lagomos Hand of Hatred,3.0,"['B', 'R']","['Human', 'Shaman']",Uncommon,1,3
+1629,Meria Scholar of Antiquity,3.0,"['G', 'R']","['Elf', 'Artificer']",Rare,3,3
+1630,Nael Avizoa Aeronaut,4.0,"['G', 'U']","['Elf', 'Scout']",Uncommon,2,4
+1631,Najal the Storm Runner,5.0,"['R', 'U']","['Efreet', 'Wizard']",Uncommon,5,4
+1632,Nemata Primeval Warden,4.0,"['B', 'G']",['Treefolk'],Rare,3,4
+1633,Queen Allenal of Ruadach,3.0,"['G', 'W']","['Elf', 'Noble']",Uncommon,*,*
+1634,Radha Coalition Warlord,4.0,"['G', 'R']","['Elf', 'Warrior']",Uncommon,3,3
+1635,Raff Weatherlight Stalwart,2.0,"['U', 'W']","['Human', 'Wizard']",Uncommon,1,3
+1636,Ratadrabik of Urborg,4.0,"['B', 'W']","['Zombie', 'Wizard']",Rare,3,3
+1637,Rith Liberated Primeval,5.0,"['G', 'R', 'W']",['Dragon'],Mythic,5,5
+1638,Rivaz of the Claw,3.0,"['B', 'R']","['Viashino', 'Warlock']",Rare,3,3
+1639,Rona Sheoldred's Faithful,4.0,"['B', 'U']","['Human', 'Wizard']",Uncommon,3,4
+1640,Rulik Mons Warren Chief,4.0,"['G', 'R']",['Goblin'],Uncommon,3,3
+1641,Shanna Purifying Blade,3.0,"['G', 'U', 'W']","['Human', 'Warrior']",Mythic,3,3
+1642,Sol'Kanar the Tainted,5.0,"['B', 'R', 'U']","['Elemental', 'Demon']",Mythic,5,5
+1643,Soul of Windgrace,4.0,"['B', 'G', 'R']","['Cat', 'Avatar']",Mythic,5,4
+1644,Stenn Paranoid Partisan,2.0,"['U', 'W']","['Human', 'Wizard']",Rare,2,2
+1645,Tatyova Steward of Tides,3.0,"['G', 'U']","['Merfolk', 'Druid']",Uncommon,3,3
+1646,Tori D'Avenant Fury Rider,4.0,"['R', 'W']","['Human', 'Knight']",Uncommon,3,3
+1647,Tura Kennerüd Skyknight,5.0,"['U', 'W']","['Human', 'Knight']",Uncommon,3,3
+1648,Uurg Spawn of Turg,3.0,"['B', 'G']","['Frog', 'Beast']",Uncommon,*,5
+1649,Vohar Vodalian Desecrator,2.0,"['B', 'U']","['Phyrexian', 'Merfolk', 'Wizard']",Uncommon,1,2
+1650,Zar Ojanen Scion of Efrava,5.0,"['G', 'W']","['Cat', 'Warrior']",Uncommon,4,4
+1651,Zur Eternal Schemer,3.0,"['B', 'U', 'W']","['Human', 'Wizard']",Mythic,1,4
+1737,Baird Steward of Argive,4.0,['W'],"['Human', 'Soldier']",Uncommon,2,4
+1739,Evra Halcyon Witness,6.0,['W'],['Avatar'],Rare,4,4
+1740,Kwende Pride of Femeref,4.0,['W'],"['Human', 'Knight']",Uncommon,2,2
+1742,Shalai Voice of Plenty,4.0,['W'],['Angel'],Rare,3,4
+1744,Naban Dean of Iteration,2.0,['U'],"['Human', 'Wizard']",Rare,2,1
+1747,Tetsuko Umezawa Fugitive,2.0,['U'],"['Human', 'Rogue']",Uncommon,1,3
+1748,Zahid Djinn of the Lamp,6.0,['U'],['Djinn'],Rare,5,6
+1749,Demonlord Belzenlok,6.0,['B'],"['Elder', 'Demon']",Mythic,6,6
+1751,Kazarov Sengir Pureblood,7.0,['B'],['Vampire'],Rare,4,4
+1752,Torgaar Famine Incarnate,8.0,['B'],['Avatar'],Rare,7,6
+1753,Urgoros the Empty One,6.0,['B'],['Specter'],Uncommon,4,3
+1754,Whisper Blood Liturgist,4.0,['B'],"['Human', 'Cleric']",Uncommon,2,2
+1755,Yargle Glutton of Urborg,5.0,['B'],"['Frog', 'Spirit']",Uncommon,9,3
+1756,Squee the Immortal,3.0,['R'],['Goblin'],Rare,2,1
+1758,Verix Bladewing,4.0,['R'],['Dragon'],Mythic,4,4
+1759,Grunn the Lonely King,6.0,['G'],"['Ape', 'Warrior']",Uncommon,5,5
+1760,Marwyn the Nurturer,3.0,['G'],"['Elf', 'Druid']",Rare,1,1
+1761,Multani Yavimaya's Avatar,6.0,['G'],"['Elemental', 'Avatar']",Mythic,0,0
+1762,Adeliz the Cinder Wind,3.0,"['R', 'U']","['Human', 'Wizard']",Uncommon,2,2
+1764,Aryel Knight of Windgrace,4.0,"['B', 'W']","['Human', 'Knight']",Rare,4,4
+1765,Darigaaz Reincarnated,7.0,"['B', 'G', 'R']",['Dragon'],Mythic,7,7
+1767,Grand Warlord Radha,4.0,"['G', 'R']","['Elf', 'Warrior']",Rare,3,4
+1768,Hallar the Firefletcher,3.0,"['G', 'R']","['Elf', 'Archer']",Uncommon,3,3
+1772,Raff Capashen Ship's Mage,4.0,"['U', 'W']","['Human', 'Wizard']",Uncommon,3,3
+1773,Rona Disciple of Gix,3.0,"['B', 'U']","['Human', 'Artificer']",Uncommon,2,2
+1774,Shanna Sisay's Legacy,2.0,"['G', 'W']","['Human', 'Warrior']",Uncommon,0,0
+1775,Slimefoot the Stowaway,3.0,"['B', 'G']",['Fungus'],Uncommon,2,3
+1779,Niambi Faithful Healer,3.0,"['U', 'W']","['Human', 'Cleric']",Rare,2,2
+1792,Sidisi Undead Vizier,5.0,['B'],"['Zombie', 'Naga']",Rare,4,6
+1793,Zurgo Bellstriker,1.0,['R'],"['Orc', 'Warrior']",Rare,2,2
+1794,Surrak the Hunt Caller,4.0,['G'],"['Human', 'Warrior']",Rare,5,4
+1795,Dragonlord Atarka,7.0,"['G', 'R']","['Elder', 'Dragon']",Mythic,8,8
+1797,Dragonlord Kolaghan,6.0,"['B', 'R']","['Elder', 'Dragon']",Mythic,6,5
+1798,Dragonlord Ojutai,5.0,"['U', 'W']","['Elder', 'Dragon']",Mythic,5,4
+1804,Kalitas Traitor of Ghet,4.0,['B'],"['Vampire', 'Warrior']",Mythic,3,4
+1806,Kozilek the Great Distortion,10.0,['UC'],['Eldrazi'],Mythic,12,12
+1807,Sliver Hivelord,5.0,"['B', 'G', 'R', 'U', 'W']",['Sliver'],Mythic,5,5
+1808,Linden the Steadfast Queen,3.0,['W'],"['Human', 'Noble']",Rare,3,3
+1809,Syr Alin the Lion's Claw,5.0,['W'],"['Human', 'Knight']",Uncommon,4,4
+1812,Syr Elenora the Discerning,5.0,['U'],"['Human', 'Knight']",Uncommon,*,4
+1813,Ayara First of Locthwain,3.0,['B'],"['Elf', 'Noble']",Rare,2,3
+1814,Rankle Master of Pranks,4.0,['B'],"['Faerie', 'Rogue']",Mythic,3,3
+1815,Syr Konrad the Grim,5.0,['B'],"['Human', 'Knight']",Uncommon,5,4
+1816,Syr Carah the Bold,5.0,['R'],"['Human', 'Knight']",Uncommon,3,3
+1817,Torbran Thane of Red Fell,4.0,['R'],"['Dwarf', 'Noble']",Rare,2,4
+1818,Questing Beast,4.0,['G'],['Beast'],Mythic,4,4
+1819,Syr Faren the Hengehammer,2.0,['G'],"['Human', 'Knight']",Uncommon,2,2
+1820,Yorvo Lord of Garenbrig,3.0,['G'],"['Giant', 'Noble']",Rare,0,0
+1822,Kenrith the Returned King,5.0,['W'],"['Human', 'Noble']",Mythic,5,5
+1824,Chulane Teller of Tales,5.0,"['G', 'U', 'W']","['Human', 'Druid']",Mythic,2,4
+1825,Korvold Fae-Cursed King,5.0,"['B', 'G', 'R']","['Dragon', 'Noble']",Mythic,4,4
+1826,Syr Gwyn Hero of Ashvale,6.0,"['B', 'R', 'W']","['Human', 'Knight']",Mythic,5,5
+1838,Braids Cabal Minion,4.0,['B'],"['Human', 'Minion']",Rare,2,2
+1839,Visara the Dreadful,6.0,['B'],['Gorgon'],Rare,5,5
+1840,Rorix Bladewing,6.0,['R'],['Dragon'],Rare,6,5
+1841,Silvos Rogue Elemental,6.0,['G'],['Elemental'],Rare,8,5
+1844,Emrakul the Promised End,13.0,['UC'],['Eldrazi'],Mythic,13,13
+1845,Bruna the Fading Light // Brisela Voice of Nightmares,7.0,['W'],"['Angel', 'Horror']",Rare,5,7
+1846,Brisela Voice of Nightmares,11.0,['UC'],"['Eldrazi', 'Angel']",Mythic,9,10
+1847,Gisela the Broken Blade // Brisela Voice of Nightmares,4.0,['W'],"['Angel', 'Horror']",Mythic,4,3
+1848,Thalia Heretic Cathar,3.0,['W'],"['Human', 'Soldier']",Rare,3,2
+1849,Hanweir the Writhing Township,3.0,['UC'],"['Eldrazi', 'Ooze']",Rare,7,4
+1850,Ishkanah Grafwidow,5.0,['G'],['Spider'],Mythic,3,5
+1851,Gisa and Geralf,4.0,"['B', 'U']","['Human', 'Wizard']",Mythic,4,4
+1852,Ulrich of the Krallenhorde // Ulrich Uncontested Alpha,5.0,"['G', 'R']","['Human', 'Werewolf']",Mythic,4,4
+1854,Ashling the Extinguisher,4.0,['B'],"['Elemental', 'Shaman']",Rare,4,4
+1857,Ertai Wizard Adept,3.0,['U'],"['Human', 'Wizard']",Rare,1,1
+1859,Celestial Kirin,4.0,['W'],"['Kirin', 'Spirit']",Rare,3,3
+1861,Rune-Tail Kitsune Ascendant // Rune-Tail's Essence,3.0,['W'],"['Fox', 'Monk']",Rare,2,2
+1865,Norin the Wary,1.0,['R'],"['Human', 'Warrior']",Rare,2,1
+1867,Reki the History of Kamigawa,3.0,['G'],"['Human', 'Shaman']",Rare,1,2
+1871,Reaper King,10.0,"['B', 'G', 'R', 'U', 'W']",['Scarecrow'],Rare,6,6
+1872,Daghatar the Adamant,4.0,['W'],"['Human', 'Warrior']",Rare,0,0
+1873,Shu Yun the Silent Tempest,3.0,['U'],"['Human', 'Monk']",Rare,3,2
+1874,Tasigur the Golden Fang,6.0,['B'],"['Human', 'Shaman']",Rare,4,5
+1876,Yasova Dragonclaw,3.0,['G'],"['Human', 'Warrior']",Rare,4,2
+1882,Oriss Samite Guardian,3.0,['W'],"['Human', 'Cleric']",Rare,1,3
+1884,Linessa Zephyr Mage,4.0,['U'],"['Human', 'Wizard']",Rare,3,3
+1885,Korlash Heir to Blackblade,4.0,['B'],"['Zombie', 'Warrior']",Rare,*,*
+1886,Tarox Bladewing,5.0,['R'],['Dragon'],Rare,4,3
+1887,Baru Fist of Krosa,5.0,['G'],"['Human', 'Druid']",Rare,4,4
+1889,Sliver Legion,5.0,"['B', 'G', 'R', 'U', 'W']",['Sliver'],Rare,7,7
+1892,Etrata the Silencer,4.0,"['B', 'U']","['Vampire', 'Assassin']",Rare,3,5
+1893,Circu Dimir Lobotomist,4.0,"['B', 'U']","['Human', 'Wizard']",Rare,2,3
+1894,Lazav Dimir Mastermind,4.0,"['B', 'U']",['Shapeshifter'],Mythic,3,3
+1898,Tibor and Lumia,4.0,"['R', 'U']","['Human', 'Wizard']",Rare,3,3
+1899,Izoni Thousand-Eyed,6.0,"['B', 'G']","['Elf', 'Shaman']",Rare,2,3
+1901,Savra Queen of the Golgari,4.0,"['B', 'G']","['Elf', 'Shaman']",Rare,2,2
+1902,Sisters of Stone Death,8.0,"['B', 'G']",['Gorgon'],Rare,7,5
+1904,Agrus Kos Wojek Veteran,5.0,"['R', 'W']","['Human', 'Soldier']",Rare,3,3
+1905,Razia Boros Archangel,8.0,"['R', 'W']",['Angel'],Rare,6,3
+1907,Tolsimir Wolfblood,6.0,"['G', 'W']","['Elf', 'Warrior']",Rare,3,4
+1911,Teysa Orzhov Scion,3.0,"['B', 'W']","['Human', 'Advisor']",Rare,2,3
+1912,Ghost Council of Orzhova,4.0,"['B', 'W']",['Spirit'],Rare,4,4
+1917,Borborygmos,7.0,"['G', 'R']",['Cyclops'],Rare,6,7
+1919,Zegana Utopian Speaker,4.0,"['G', 'U']","['Merfolk', 'Wizard']",Rare,4,4
+1925,Lathliss Dragon Queen,6.0,['R'],['Dragon'],Rare,6,6
+1926,Ghalta Primal Hunger,12.0,['G'],"['Elder', 'Dinosaur']",Rare,12,12
+1927,Zamriel Seraph of Steel,4.0,['W'],['Angel'],Mythic,3,4
+1928,Maeve Insidious Singer,4.0,['U'],['Siren'],Mythic,3,4
+1929,Vogar Necropolis Tyrant,5.0,['B'],"['Zombie', 'Giant']",Mythic,4,4
+1930,Nogi Draco-Zealot,3.0,['R'],"['Kobold', 'Shaman']",Mythic,3,3
+1931,Imaryll Elfhame Elite,4.0,['G'],"['Elf', 'Warrior']",Mythic,3,3
+1933,Vilis Broker of Blood,8.0,['B'],['Demon'],Rare,8,8
+1943,Aurelia Exemplar of Justice,4.0,"['R', 'W']",['Angel'],Mythic,2,5
+1944,Emmara Soul of the Accord,2.0,"['G', 'W']","['Elf', 'Cleric']",Rare,2,2
+1947,Lazav the Multifarious,2.0,"['B', 'U']",['Shapeshifter'],Mythic,1,3
+1949,Tajic Legion's Edge,3.0,"['R', 'W']","['Human', 'Soldier']",Rare,3,2
+1950,Trostani Discordant,5.0,"['G', 'W']",['Dryad'],Mythic,1,4
+1952,Borborygmos Enraged,8.0,"['G', 'R']",['Cyclops'],Mythic,7,6
+1954,Obzedat Ghost Council,5.0,"['B', 'W']","['Spirit', 'Advisor']",Mythic,5,5
+1956,Sliver Overlord,5.0,"['B', 'G', 'R', 'U', 'W']","['Sliver', 'Mutant']",Mythic,7,7
+1957,Grimlock Dinobot Leader // Grimlock Ferocious King,4.0,"['G', 'R', 'W']",['Autobot'],Mythic,4,4
+1959,Sisay Weatherlight Captain,3.0,['W'],"['Human', 'Soldier']",Rare,2,2
+1961,Ayula Queen Among Bears,2.0,['G'],['Bear'],Rare,2,2
+1962,The First Sliver,5.0,"['B', 'G', 'R', 'U', 'W']",['Sliver'],Mythic,7,7
+1963,Captain Sisay,4.0,"['G', 'W']","['Human', 'Soldier']",Rare,2,2
+1968,Elesh Norn Grand Cenobite,7.0,['W'],"['Phyrexian', 'Praetor']",Mythic,4,7
+1969,Jin-Gitaxias Core Augur,10.0,['U'],"['Phyrexian', 'Praetor']",Mythic,5,4
+1970,Sheoldred Whispering One,7.0,['B'],"['Phyrexian', 'Praetor']",Mythic,6,6
+1972,Vorinclex Voice of Hunger,8.0,['G'],"['Phyrexian', 'Praetor']",Mythic,7,6
+1975,Klement Novice Acolyte,2.0,['W'],"['Tiefling', 'Cleric']",Rare,2,2
+1976,Klement Death Acolyte,3.0,"['B', 'W']","['Tiefling', 'Cleric']",Rare,3,3
+1977,Klement Knowledge Acolyte,3.0,"['U', 'W']","['Tiefling', 'Cleric']",Rare,3,4
+1978,Klement Life Acolyte,3.0,['W'],"['Tiefling', 'Cleric']",Rare,3,3
+1979,Klement Nature Acolyte,3.0,"['G', 'W']","['Tiefling', 'Cleric']",Rare,4,4
+1980,Klement Tempest Acolyte,3.0,"['R', 'W']","['Tiefling', 'Cleric']",Rare,2,3
+1981,Lae'zel Githyanki Warrior,4.0,['W'],"['Gith', 'Warrior']",Rare,2,4
+1982,Lae'zel Blessed Warrior,5.0,['W'],"['Gith', 'Warrior']",Rare,3,6
+1983,Lae'zel Callous Warrior,5.0,"['B', 'W']","['Gith', 'Warrior']",Rare,3,6
+1984,Lae'zel Illithid Thrall,5.0,"['U', 'W']","['Gith', 'Horror', 'Warrior']",Rare,3,6
+1985,Lae'zel Primal Warrior,5.0,"['G', 'W']","['Gith', 'Warrior']",Rare,3,6
+1986,Lae'zel Wrathful Warrior,5.0,"['R', 'W']","['Gith', 'Warrior']",Rare,3,6
+1987,Lulu Forgetful Hollyphant,3.0,['W'],"['Elephant', 'Angel']",Uncommon,1,3
+1988,Lulu Curious Hollyphant,4.0,"['U', 'W']","['Elephant', 'Angel']",Uncommon,2,4
+1989,Lulu Helpful Hollyphant,4.0,['W'],"['Elephant', 'Angel']",Uncommon,2,4
+1990,Lulu Inspiring Hollyphant,4.0,"['R', 'W']","['Elephant', 'Angel']",Uncommon,2,4
+1991,Lulu Vengeful Hollyphant,4.0,"['B', 'W']","['Elephant', 'Angel']",Uncommon,2,4
+1992,Lulu Wild Hollyphant,4.0,"['G', 'W']","['Elephant', 'Angel']",Uncommon,2,4
+1993,Rasaad Monk of Selûne,3.0,['W'],"['Human', 'Monk']",Uncommon,2,2
+1994,Rasaad Dragon Monk,4.0,"['U', 'W']","['Human', 'Monk']",Uncommon,4,4
+1995,Rasaad Radiant Monk,4.0,['W'],"['Human', 'Monk']",Uncommon,4,4
+1996,Rasaad Shadow Monk,4.0,"['B', 'W']","['Human', 'Monk']",Uncommon,4,4
+1997,Rasaad Sylvan Monk,4.0,"['G', 'W']","['Human', 'Monk']",Uncommon,4,4
+1998,Rasaad Warrior Monk,4.0,"['R', 'W']","['Human', 'Monk']",Uncommon,4,4
+1999,Alora Rogue Companion,4.0,['U'],"['Halfling', 'Rogue']",Uncommon,3,3
+2000,Alora Cheerful Assassin,5.0,"['B', 'U']","['Halfling', 'Rogue', 'Assassin']",Uncommon,4,4
+2001,Alora Cheerful Mastermind,5.0,"['U', 'W']","['Halfling', 'Rogue']",Uncommon,4,4
+2002,Alora Cheerful Scout,5.0,"['G', 'U']","['Halfling', 'Rogue', 'Scout']",Uncommon,4,4
+2003,Alora Cheerful Swashbuckler,5.0,"['R', 'U']","['Halfling', 'Rogue']",Uncommon,4,4
+2004,Alora Cheerful Thief,5.0,['U'],"['Halfling', 'Rogue']",Uncommon,4,4
+2005,Gale Conduit of the Arcane,4.0,['U'],"['Human', 'Wizard']",Mythic,2,3
+2006,Gale Abyssal Conduit,5.0,"['B', 'U']","['Human', 'Wizard']",Mythic,4,5
+2007,Gale Holy Conduit,5.0,"['U', 'W']","['Human', 'Wizard']",Mythic,4,5
+2008,Gale Primeval Conduit,5.0,"['G', 'U']","['Human', 'Wizard']",Mythic,4,5
+2009,Gale Storm Conduit,5.0,"['R', 'U']","['Human', 'Wizard']",Mythic,4,5
+2010,Gale Temporal Conduit,5.0,['U'],"['Human', 'Wizard']",Mythic,4,5
+2011,Imoen Trickster Friend,2.0,['U'],"['Human', 'Rogue', 'Wizard']",Rare,2,1
+2012,Imoen Chaotic Trickster,3.0,"['R', 'U']","['Human', 'Rogue', 'Wizard']",Rare,3,2
+2013,Imoen Honorable Trickster,3.0,"['U', 'W']","['Human', 'Rogue', 'Wizard']",Rare,3,2
+2014,Imoen Occult Trickster,3.0,"['B', 'U']","['Human', 'Rogue', 'Wizard']",Rare,3,2
+2015,Imoen Wily Trickster,3.0,['U'],"['Human', 'Rogue', 'Wizard']",Rare,3,2
+2016,Imoen Wise Trickster,3.0,"['G', 'U']","['Human', 'Rogue', 'Wizard']",Rare,3,2
+2017,Vhal Eager Scholar,3.0,['U'],"['Human', 'Wizard']",Uncommon,2,2
+2018,Vhal Scholar of Creation,4.0,"['G', 'U']","['Human', 'Wizard']",Uncommon,4,4
+2019,Vhal Scholar of Elements,4.0,"['R', 'U']","['Human', 'Wizard']",Uncommon,4,4
+2020,Vhal Scholar of Mortality,4.0,"['B', 'U']","['Human', 'Wizard']",Uncommon,4,4
+2021,Vhal Scholar of Prophecy,4.0,['U'],"['Human', 'Wizard']",Uncommon,4,4
+2022,Vhal Scholar of Tactics,4.0,"['U', 'W']","['Human', 'Wizard']",Uncommon,4,4
+2023,Sarevok the Usurper,4.0,['B'],"['Human', 'Knight']",Uncommon,3,3
+2024,Sarevok Deadly Usurper,5.0,['B'],"['Human', 'Knight']",Uncommon,4,4
+2025,Sarevok Deceitful Usurper,5.0,"['B', 'U']","['Human', 'Knight']",Uncommon,4,4
+2026,Sarevok Divine Usurper,5.0,"['B', 'W']","['Human', 'Knight']",Uncommon,4,4
+2027,Sarevok Ferocious Usurper,5.0,"['B', 'R']","['Human', 'Knight']",Uncommon,4,4
+2028,Sarevok Mighty Usurper,5.0,"['B', 'G']","['Human', 'Knight']",Uncommon,4,4
+2029,Shadowheart Sharran Cleric,2.0,['B'],"['Human', 'Elf', 'Cleric']",Rare,2,2
+2030,Shadowheart Cleric of Graves,3.0,['B'],"['Human', 'Elf', 'Cleric']",Rare,4,4
+2031,Shadowheart Cleric of Order,3.0,"['B', 'W']","['Human', 'Elf', 'Cleric']",Rare,4,4
+2032,Shadowheart Cleric of Trickery,3.0,"['B', 'U']","['Human', 'Elf', 'Cleric']",Rare,4,4
+2033,Shadowheart Cleric of Twilight,3.0,"['B', 'G']","['Human', 'Elf', 'Cleric']",Rare,4,4
+2034,Shadowheart Cleric of War,3.0,"['B', 'R']","['Human', 'Elf', 'Cleric']",Rare,4,4
+2035,Viconia Nightsinger's Disciple,2.0,['B'],"['Elf', 'Cleric']",Uncommon,2,3
+2036,Viconia Disciple of Arcana,3.0,"['B', 'U']","['Elf', 'Cleric']",Uncommon,3,4
+2037,Viconia Disciple of Blood,3.0,['B'],"['Elf', 'Cleric']",Uncommon,3,4
+2038,Viconia Disciple of Rebirth,3.0,"['B', 'W']","['Elf', 'Cleric']",Uncommon,3,4
+2039,Viconia Disciple of Strength,3.0,"['B', 'G']","['Elf', 'Cleric']",Uncommon,3,4
+2040,Viconia Disciple of Violence,3.0,"['B', 'R']","['Elf', 'Cleric']",Uncommon,3,4
+2041,Ambergris Citadel Agent,3.0,['R'],"['Dwarf', 'Cleric']",Uncommon,3,2
+2042,Ambergris Agent of Balance,4.0,"['G', 'R']","['Dwarf', 'Cleric']",Uncommon,4,3
+2043,Ambergris Agent of Destruction,4.0,['R'],"['Dwarf', 'Cleric']",Uncommon,4,3
+2044,Ambergris Agent of Law,4.0,"['R', 'W']","['Dwarf', 'Cleric']",Uncommon,4,3
+2045,Ambergris Agent of Progress,4.0,"['R', 'U']","['Dwarf', 'Cleric']",Uncommon,4,3
+2046,Ambergris Agent of Tyranny,4.0,"['B', 'R']","['Dwarf', 'Cleric']",Uncommon,4,3
+2047,Gut Fanatical Priestess,6.0,['R'],"['Goblin', 'Shaman']",Uncommon,4,3
+2048,Gut Bestial Fanatic,7.0,"['G', 'R']","['Goblin', 'Shaman']",Uncommon,5,4
+2049,Gut Brutal Fanatic,7.0,"['B', 'R']","['Goblin', 'Shaman']",Uncommon,5,4
+2050,Gut Devious Fanatic,7.0,"['R', 'U']","['Goblin', 'Shaman']",Uncommon,5,4
+2051,Gut Furious Fanatic,7.0,['R'],"['Goblin', 'Shaman']",Uncommon,5,4
+2052,Gut Zealous Fanatic,7.0,"['R', 'W']","['Goblin', 'Shaman']",Uncommon,5,4
+2053,Karlach Raging Tiefling,2.0,['R'],"['Tiefling', 'Barbarian']",Rare,2,2
+2054,Karlach Tiefling Berserker,3.0,['R'],"['Tiefling', 'Barbarian']",Rare,4,4
+2055,Karlach Tiefling Guardian,3.0,"['G', 'R']","['Tiefling', 'Barbarian']",Rare,4,4
+2056,Karlach Tiefling Punisher,3.0,"['B', 'R']","['Tiefling', 'Barbarian']",Rare,4,4
+2057,Karlach Tiefling Spellrager,3.0,"['R', 'U']","['Tiefling', 'Barbarian']",Rare,4,4
+2058,Karlach Tiefling Zealot,3.0,"['R', 'W']","['Tiefling', 'Barbarian']",Rare,4,4
+2059,Wyll Pact-Bound Duelist,5.0,['R'],"['Human', 'Warlock']",Mythic,4,4
+2060,Wyll of the Blade Pact,6.0,['R'],"['Human', 'Warlock']",Mythic,5,5
+2061,Wyll of the Celestial Pact,6.0,"['R', 'W']","['Human', 'Warlock']",Mythic,5,5
+2062,Wyll of the Elder Pact,6.0,"['R', 'U']","['Human', 'Warlock']",Mythic,5,5
+2063,Wyll of the Fey Pact,6.0,"['G', 'R']","['Human', 'Warlock']",Mythic,5,5
+2064,Wyll of the Fiend Pact,6.0,"['B', 'R']","['Human', 'Warlock']",Mythic,5,5
+2065,Jaheira Harper Emissary,2.0,['G'],"['Human', 'Elf', 'Druid']",Uncommon,2,3
+2066,Jaheira Heroic Harper,3.0,"['G', 'W']","['Human', 'Elf', 'Druid']",Uncommon,3,4
+2067,Jaheira Insightful Harper,3.0,"['G', 'U']","['Human', 'Elf', 'Druid']",Uncommon,3,4
+2068,Jaheira Merciful Harper,3.0,['G'],"['Human', 'Elf', 'Druid']",Uncommon,3,4
+2069,Jaheira Ruthless Harper,3.0,"['B', 'G']","['Human', 'Elf', 'Druid']",Uncommon,3,4
+2070,Jaheira Stirring Harper,3.0,"['G', 'R']","['Human', 'Elf', 'Druid']",Uncommon,3,4
+2071,Lukamina Moon Druid,3.0,['G'],"['Human', 'Druid']",Mythic,2,2
+2072,Lukamina Bear Form,4.0,['G'],"['Bear', 'Druid']",Mythic,4,4
+2073,Lukamina Crocodile Form,4.0,"['G', 'U']","['Crocodile', 'Druid']",Mythic,4,4
+2074,Lukamina Hawk Form,4.0,"['G', 'W']","['Bird', 'Druid']",Mythic,4,4
+2075,Lukamina Scorpion Form,4.0,"['B', 'G']","['Scorpion', 'Druid']",Mythic,4,4
+2076,Lukamina Wolf Form,4.0,"['G', 'R']","['Wolf', 'Druid']",Mythic,4,4
+2077,Skanos Dragon Vassal,5.0,['G'],"['Dragon', 'Ranger']",Uncommon,4,4
+2078,Skanos Black Dragon Vassal,6.0,"['B', 'G']","['Dragon', 'Ranger']",Uncommon,5,5
+2079,Skanos Blue Dragon Vassal,6.0,"['G', 'U']","['Dragon', 'Ranger']",Uncommon,4,4
+2080,Skanos Green Dragon Vassal,6.0,['G'],"['Dragon', 'Ranger']",Uncommon,6,6
+2081,Skanos Red Dragon Vassal,6.0,"['G', 'R']","['Dragon', 'Ranger']",Uncommon,5,5
+2082,Skanos White Dragon Vassal,6.0,"['G', 'W']","['Dragon', 'Ranger']",Uncommon,4,4
+2083,Wilson Bear Comrade,2.0,['G'],"['Bear', 'Warrior']",Rare,2,2
+2084,Wilson Ardent Bear,3.0,"['G', 'R']","['Bear', 'Warrior']",Rare,2,3
+2085,Wilson Fearsome Bear,3.0,"['B', 'G']","['Bear', 'Warrior']",Rare,4,4
+2086,Wilson Majestic Bear,3.0,['G'],"['Bear', 'Warrior']",Rare,5,5
+2087,Wilson Subtle Bear,3.0,"['G', 'U']","['Bear', 'Warrior']",Rare,3,3
+2088,Wilson Urbane Bear,3.0,"['G', 'W']","['Bear', 'Warrior']",Rare,3,4
+2089,Vladimir and Godfrey,3.0,['W'],"['Zombie', 'Knight']",Rare,3,2
+2090,Calim Djinn Emperor,6.0,['U'],"['Djinn', 'Noble']",Rare,5,6
+2091,The Hourglass Coven,6.0,['B'],"['Hag', 'Warlock']",Rare,3,3
+2092,Kardum Patron of Flames,4.0,['R'],['Demon'],Rare,4,3
+2093,Oyaminartok Polar Werebear,4.0,['G'],"['Giant', 'Bear']",Rare,4,5
+2094,Jon Irenicus the Exile,4.0,"['B', 'U']","['Elf', 'Wizard']",Rare,3,5
+2095,Liara of the Flaming Fist,2.0,"['R', 'W']","['Human', 'Soldier']",Uncommon,2,2
+2096,Minthara of the Absolute,4.0,"['B', 'W']","['Elf', 'Cleric']",Uncommon,2,4
+2097,Ulder Ravengard Marshal,3.0,"['R', 'W']","['Human', 'Noble', 'Soldier']",Rare,3,3
+2101,A-Baba Lysaga Night Witch,4.0,"['B', 'G']","['Human', 'Warlock']",Rare,4,4
+2121,Hazduhr the Abbot,5.0,['W'],"['Human', 'Cleric']",Rare,2,5
+2122,Rashka the Slayer,5.0,['W'],"['Human', 'Archer']",Uncommon,3,3
+2123,Soraya the Falconer,3.0,['W'],['Human'],Rare,2,2
+2124,Reveka Wizard Savant,4.0,['U'],"['Dwarf', 'Wizard']",Rare,0,1
+2125,Baron Sengir,8.0,['B'],"['Vampire', 'Noble']",Rare,5,5
+2126,Grandmother Sengir,5.0,['B'],"['Human', 'Wizard']",Rare,3,3
+2128,Irini Sengir,4.0,['B'],"['Vampire', 'Dwarf']",Uncommon,2,2
+2129,Veldrane of Sengir,7.0,['B'],"['Human', 'Rogue']",Rare,5,5
+2130,Chandler,5.0,['R'],"['Human', 'Rogue']",Common,3,3
+2131,Eron the Relentless,5.0,['R'],"['Human', 'Rogue']",Uncommon,5,2
+2132,Joven,5.0,['R'],"['Human', 'Rogue']",Common,3,3
+2133,Autumn Willow,6.0,['G'],['Avatar'],Rare,4,4
+2134,Daughter of Autumn,4.0,['G'],['Avatar'],Rare,2,4
+2139,Djeru With Eyes Open,5.0,['W'],"['Human', 'Warrior']",Rare,4,3
+2146,Nira Hellkite Duelist,5.0,"['B', 'G', 'R', 'U', 'W']",['Dragon'],Mythic,6,6
+2147,M'Odo the Gnarled Oracle,3.0,"['B', 'G', 'U']","['Zombie', 'Elf', 'Wizard']",Mythic,0,3
+2148,Kharis & The Beholder,5.0,"['G', 'W']","['Dragon', 'Eye', 'Wizard']",Mythic,1,20
+2149,Optimus Prime Inspiring Leader,5.0,"['R', 'W']",['Autobot'],Mythic,4,5
+2150,Sol Advocate Eternal,4.0,"['B', 'G', 'U', 'W']","['Dragon', 'Angel']",Mythic,4,4
+2151,Keeper of the Secret Lair,2.0,['U'],"['Merfolk', 'Rogue']",Mythic,2,1
+2152,Champions of Archery // Join the Group,4.0,['R'],"['Human', 'Archer']",Mythic,1,4
+2153,The Cinematic Phoenix,5.0,"['B', 'R']",['Phoenix'],Mythic,4,4
+2154,Euroakus,6.0,['G'],"['Treefolk', 'Wizard']",Mythic,6,6
+2155,General Jarkeld,4.0,['W'],"['Human', 'Soldier']",Rare,1,2
+2156,Márton Stromgald,4.0,['R'],"['Human', 'Knight']",Rare,1,1
+2157,Merieke Ri Berit,3.0,"['B', 'U', 'W']",['Human'],Rare,1,1
+2158,Skeleton Ship,5.0,"['B', 'U']",['Skeleton'],Rare,0,3
+2159,Yidaro Wandering Monster,7.0,['R'],"['Dinosaur', 'Turtle']",Rare,8,8
+2160,Kogla the Titan Ape,6.0,['G'],['Ape'],Rare,7,6
+2161,Brokkos Apex of Forever,5.0,"['B', 'G', 'U']","['Nightmare', 'Beast', 'Elemental']",Mythic,6,6
+2162,Chevill Bane of Monsters,2.0,"['B', 'G']","['Human', 'Rogue']",Mythic,1,3
+2163,General Kudro of Drannith,3.0,"['B', 'W']","['Human', 'Soldier']",Mythic,3,3
+2165,Kinnan Bonder Prodigy,2.0,"['G', 'U']","['Human', 'Druid']",Mythic,2,2
+2167,Rielle the Everwise,3.0,"['R', 'U']","['Human', 'Wizard']",Mythic,0,3
+2168,Snapdax Apex of the Hunt,4.0,"['B', 'R', 'W']","['Dinosaur', 'Cat', 'Nightmare']",Mythic,3,5
+2169,Vadrok Apex of Thunder,3.0,"['R', 'U', 'W']","['Elemental', 'Dinosaur', 'Cat']",Mythic,3,3
+2170,Winota Joiner of Forces,4.0,"['R', 'W']","['Human', 'Warrior']",Mythic,4,4
+2171,A-Winota Joiner of Forces,4.0,"['R', 'W']","['Human', 'Warrior']",Mythic,4,4
+2172,Gyruda Doom of Depths,6.0,"['B', 'U']","['Demon', 'Kraken']",Rare,6,6
+2173,Jegantha the Wellspring,5.0,"['G', 'R']","['Elemental', 'Elk']",Rare,5,5
+2174,Kaheera the Orphanguard,3.0,"['G', 'W']","['Cat', 'Beast']",Rare,3,2
+2175,Keruga the Macrosage,5.0,"['G', 'U']","['Dinosaur', 'Hippo']",Rare,5,4
+2176,Lurrus of the Dream-Den,3.0,"['B', 'W']","['Cat', 'Nightmare']",Rare,3,2
+2177,Lutri the Spellchaser,3.0,"['R', 'U']","['Elemental', 'Otter']",Rare,3,2
+2178,Obosh the Preypiercer,5.0,"['B', 'R']","['Hellion', 'Horror']",Rare,3,5
+2179,Umori the Collector,4.0,"['B', 'G']",['Ooze'],Rare,4,5
+2180,Yorion Sky Nomad,5.0,"['U', 'W']","['Bird', 'Serpent']",Rare,4,5
+2181,Zirda the Dawnwaker,3.0,"['R', 'W']","['Elemental', 'Fox']",Rare,3,3
+2182,Zilortha Strength Incarnate,5.0,"['G', 'R']",['Dinosaur'],Mythic,7,3
+2218,Teferi Mage of Zhalfir,5.0,['U'],"['Human', 'Wizard']",Rare,3,4
+2220,Ob Nixilis the Fallen,5.0,['B'],['Demon'],Mythic,3,3
+2229,Rosheen Meanderer,4.0,"['G', 'R']","['Giant', 'Shaman']",Uncommon,4,4
+2230,Atalya Samite Master,5.0,['W'],"['Human', 'Cleric']",Rare,2,3
+2232,Blind Seer,4.0,['U'],"['Human', 'Wizard']",Rare,3,3
+2233,Empress Galina,5.0,['U'],"['Merfolk', 'Noble']",Rare,1,3
+2239,Dromar the Banisher,6.0,"['B', 'U', 'W']",['Dragon'],Rare,6,6
+2241,Kangee Aerie Keeper,4.0,"['U', 'W']","['Bird', 'Wizard']",Rare,2,2
+2244,Tsabo Tavoc,7.0,"['B', 'R']","['Phyrexian', 'Horror']",Rare,7,4
+2247,Grimgrin Corpse-Born,5.0,"['B', 'U']","['Zombie', 'Warrior']",Mythic,5,5
+2248,Olivia Voldaren,4.0,"['B', 'R']",['Vampire'],Mythic,3,3
+2249,Xiahou Dun the One-Eyed,4.0,['B'],"['Human', 'Soldier']",Rare,3,2
+2260,Gaddock Teeg,2.0,"['G', 'W']","['Kithkin', 'Advisor']",Rare,2,2
+2265,Svyelun of Sea and Sky,3.0,['U'],"['Merfolk', 'God']",Mythic,3,4
+2268,Captain Ripley Vance,3.0,['R'],"['Human', 'Pirate']",Uncommon,3,2
+2270,Aeve Progenitor Ooze,5.0,['G'],['Ooze'],Rare,2,2
+2272,Chatterfang Squirrel General,3.0,['G'],"['Squirrel', 'Warrior']",Mythic,3,3
+2275,Lonis Cryptozoologist,2.0,"['G', 'U']","['Snake', 'Elf', 'Scout']",Rare,1,2
+2276,Zabaz the Glimmerwasp,1.0,['UC'],['Insect'],Rare,0,0
+2277,Agrus Kos Eternal Soldier,4.0,['W'],"['Spirit', 'Soldier']",Rare,3,4
+2278,Lita Mechanical Engineer,3.0,['W'],['Artificer'],Mythic,3,3
+2279,Preston the Vanisher,4.0,['W'],"['Rabbit', 'Wizard']",Rare,2,5
+2280,Alandra Sky Dreamer,4.0,['U'],"['Merfolk', 'Wizard']",Rare,2,4
+2281,Kenessos Priest of Thassa,2.0,['U'],"['Merfolk', 'Cleric']",Rare,1,3
+2282,Ashcoat of the Shadow Swarm,4.0,['B'],"['Rat', 'Warlock']",Mythic,3,4
+2283,Rodolf Duskbringer,6.0,['B'],"['Vampire', 'Angel']",Rare,4,4
+2284,Ardoz Cobbler of War,2.0,['R'],"['Goblin', 'Shaman']",Rare,1,1
+2285,Auntie Blyte Bad Influence,3.0,['R'],"['Devil', 'Advisor']",Mythic,2,2
+2286,Mizzix Replica Rider,5.0,['R'],"['Goblin', 'Wizard']",Rare,4,5
+2287,Kibo Uktabi Prince,3.0,['G'],"['Monkey', 'Noble']",Mythic,2,2
+2288,Runadi Behemoth Caller,3.0,['G'],"['Cat', 'Shaman']",Rare,1,3
+2289,Zask Skittering Swarmlord,5.0,['G'],['Insect'],Rare,5,5
+2297,Michiko Konda Truth Seeker,4.0,['W'],"['Human', 'Advisor']",Rare,2,2
+2299,Taranika Akroan Veteran,3.0,['W'],"['Human', 'Soldier']",Rare,3,3
+2300,Barrin Tolarian Archmage,3.0,['U'],"['Human', 'Wizard']",Rare,2,2
+2308,Vito Thorn of the Dusk Rose,3.0,['B'],"['Vampire', 'Cleric']",Rare,1,3
+2311,Gadrak the Crown-Scourge,3.0,['R'],['Dragon'],Rare,5,4
+2316,Muxus Goblin Grandee,6.0,['R'],"['Goblin', 'Noble']",Rare,4,4
+2318,Goreclaw Terror of Qal Sisma,4.0,['G'],['Bear'],Rare,4,3
+2322,Bruvac the Grandiloquent,3.0,['U'],"['Human', 'Advisor']",Mythic,1,4
+2323,Inniaz the Gale Force,5.0,['U'],['Djinn'],Rare,4,4
+2324,Ormos Archive Keeper,6.0,['U'],['Sphinx'],Rare,5,5
+2325,Kels Fight Fixer,4.0,['B'],"['Azra', 'Warlock']",Rare,4,3
+2326,Tinybones Trinket Thief,2.0,['B'],"['Skeleton', 'Rogue']",Mythic,1,2
+2328,Sethron Hurloon General,5.0,['R'],"['Minotaur', 'Warrior']",Rare,4,4
+2329,Zurzoth Chaos Rider,3.0,['R'],['Devil'],Rare,2,3
+2330,Neyith of the Dire Hunt,4.0,['G'],"['Human', 'Warrior']",Rare,3,3
+2332,Lena Selfless Champion,6.0,['W'],"['Human', 'Knight']",Rare,3,3
+2333,Linvala Keeper of Silence,4.0,['W'],['Angel'],Mythic,3,4
+2347,King Macar the Gold-Cursed,4.0,['B'],"['Human', 'Noble']",Rare,2,3
+2348,Commander Eesha,4.0,['W'],"['Bird', 'Soldier']",Rare,2,4
+2349,Balthor the Defiled,4.0,['B'],"['Zombie', 'Dwarf']",Rare,2,2
+2350,Jeska Warrior Adept,4.0,['R'],"['Human', 'Barbarian', 'Warrior']",Rare,3,1
+2351,Thriss Nantuko Primus,7.0,['G'],"['Insect', 'Druid']",Rare,5,5
+2352,Lathril Blade of the Elves,4.0,"['B', 'G']","['Elf', 'Noble']",Mythic,2,3
+2353,Ranar the Ever-Watchful,4.0,"['U', 'W']","['Spirit', 'Warrior']",Mythic,2,3
+2358,Rhys the Exiled,3.0,['G'],"['Elf', 'Warrior']",Rare,3,2
+2361,Halvar God of Battle // Sword of the Realms,4.0,['W'],['God'],Mythic,4,4
+2362,Reidane God of the Worthy // Valkmira Protector's Shield,3.0,['W'],['God'],Rare,2,3
+2363,Sigrid God-Favored,3.0,['W'],"['Human', 'Warrior']",Rare,2,2
+2364,Alrund God of the Cosmos // Hakka Whispering Raven,5.0,['U'],['God'],Mythic,1,1
+2366,A-Alrund God of the Cosmos // A-Hakka Whispering Raven,5.0,['U'],['God'],Mythic,1,1
+2368,Cosima God of the Voyage // The Omenkeel,3.0,['U'],['God'],Rare,2,4
+2369,Inga Rune-Eyes,4.0,['U'],"['Human', 'Wizard']",Uncommon,3,3
+2370,Orvar the All-Form,4.0,['U'],['Shapeshifter'],Mythic,3,3
+2371,Egon God of Death // Throne of Death,3.0,['B'],['God'],Rare,6,6
+2372,Tergrid God of Fright // Tergrid's Lantern,5.0,['B'],['God'],Rare,4,5
+2373,Valki God of Lies // Tibalt Cosmic Impostor,2.0,['B'],['God'],Mythic,2,1
+2374,Varragoth Bloodsky Sire,3.0,['B'],"['Demon', 'Rogue']",Rare,2,3
+2375,Arni Brokenbrow,3.0,['R'],"['Human', 'Berserker']",Rare,3,3
+2376,Birgi God of Storytelling // Harnfel Horn of Bounty,3.0,['R'],['God'],Rare,3,3
+2377,Magda Brazen Outlaw,2.0,['R'],"['Dwarf', 'Berserker']",Rare,2,1
+2378,Toralf God of Fury // Toralf's Hammer,4.0,['R'],['God'],Mythic,5,4
+2379,Esika God of the Tree // The Prismatic Bridge,3.0,['G'],['God'],Mythic,1,4
+2380,Fynn the Fangbearer,2.0,['G'],"['Human', 'Warrior']",Uncommon,1,3
+2381,Kolvori God of Kinship // The Ringhart Crest,4.0,['G'],['God'],Rare,2,4
+2382,Toski Bearer of Secrets,4.0,['G'],['Squirrel'],Rare,1,1
+2383,Vorinclex Monstrous Raider,6.0,['G'],"['Phyrexian', 'Praetor']",Mythic,6,6
+2384,Aegar the Freezing Flame,3.0,"['R', 'U']","['Giant', 'Wizard']",Uncommon,3,3
+2385,Firja Judge of Valor,5.0,"['B', 'W']","['Angel', 'Cleric']",Uncommon,2,4
+2386,Harald King of Skemfar,3.0,"['B', 'G']","['Elf', 'Warrior']",Uncommon,3,2
+2387,A-Harald King of Skemfar,3.0,"['B', 'G']","['Elf', 'Warrior']",Uncommon,3,2
+2388,Kardur Doomscourge,4.0,"['B', 'R']","['Demon', 'Berserker']",Uncommon,4,3
+2389,Koll the Forgemaster,2.0,"['R', 'W']","['Dwarf', 'Warrior']",Uncommon,2,2
+2390,Koma Cosmos Serpent,7.0,"['G', 'U']",['Serpent'],Mythic,6,6
+2391,Maja Bretagard Protector,5.0,"['G', 'W']","['Human', 'Warrior']",Uncommon,2,3
+2392,Sarulf Realm Eater,3.0,"['B', 'G']",['Wolf'],Rare,3,3
+2393,Vega the Watcher,3.0,"['U', 'W']","['Bird', 'Spirit']",Uncommon,2,2
+2394,A-Vega the Watcher,3.0,"['U', 'W']","['Bird', 'Spirit']",Uncommon,2,2
+2432,Oviya Pashiri Sage Lifecrafter,1.0,['G'],"['Human', 'Artificer']",Rare,1,2
+2433,Depala Pilot Exemplar,3.0,"['R', 'W']","['Dwarf', 'Pilot']",Rare,3,3
+2449,Anafenza the Foremost,3.0,"['B', 'G', 'W']","['Human', 'Soldier']",Mythic,4,4
+2450,Narset Enlightened Master,6.0,"['R', 'U', 'W']","['Human', 'Monk']",Mythic,3,2
+2454,Adun Oakenshield,3.0,"['B', 'G', 'R']","['Human', 'Knight']",Rare,1,2
+2455,Angus Mackenzie,3.0,"['G', 'U', 'W']","['Human', 'Cleric']",Rare,2,2
+2459,Barktooth Warbeard,7.0,"['B', 'R']","['Human', 'Warrior']",Uncommon,6,5
+2460,Bartel Runeaxe,6.0,"['B', 'G', 'R']","['Giant', 'Warrior']",Rare,6,5
+2461,Boris Devilboon,5.0,"['B', 'R']","['Zombie', 'Wizard']",Rare,2,2
+2465,Gosta Dirk,7.0,"['U', 'W']","['Human', 'Warrior']",Rare,4,4
+2466,Gwendlyn Di Corci,4.0,"['B', 'R', 'U']","['Human', 'Rogue']",Rare,3,5
+2467,Halfdane,4.0,"['B', 'U', 'W']",['Shapeshifter'],Rare,3,3
+2468,Hazezon Tamar,7.0,"['G', 'R', 'W']","['Human', 'Warrior']",Rare,2,4
+2469,Hunding Gjornersen,6.0,"['U', 'W']","['Human', 'Warrior']",Uncommon,5,4
+2470,Jacques le Vert,4.0,"['G', 'R', 'W']","['Human', 'Warrior']",Rare,3,2
+2471,Jasmine Boreal,5.0,"['G', 'W']",['Human'],Uncommon,4,5
+2472,Jedit Ojanen,7.0,"['U', 'W']","['Cat', 'Warrior']",Uncommon,5,5
+2473,Jerrard of the Closed Fist,6.0,"['G', 'R']","['Human', 'Knight']",Uncommon,6,5
+2475,Kasimir the Lone Wolf,6.0,"['U', 'W']","['Human', 'Warrior']",Uncommon,5,3
+2477,Lady Caleria,7.0,"['G', 'W']","['Elf', 'Archer']",Rare,3,6
+2478,Lady Evangela,3.0,"['B', 'U', 'W']","['Human', 'Cleric']",Rare,1,2
+2480,Livonya Silone,6.0,"['G', 'R']","['Human', 'Warrior']",Rare,4,4
+2481,Lord Magnus,6.0,"['G', 'W']","['Human', 'Druid']",Uncommon,4,3
+2486,Pavel Maliki,6.0,"['B', 'R']",['Human'],Uncommon,5,3
+2487,Princess Lucrezia,6.0,"['B', 'U']","['Human', 'Wizard']",Uncommon,5,4
+2488,Ragnar,3.0,"['G', 'U', 'W']","['Human', 'Cleric']",Rare,2,2
+2489,Ramirez DePietro,6.0,"['B', 'U']","['Human', 'Pirate']",Uncommon,4,3
+2490,Ramses Overdark,6.0,"['B', 'U']","['Human', 'Assassin']",Rare,4,3
+2491,Rasputin Dreamweaver,6.0,"['U', 'W']","['Human', 'Wizard']",Rare,4,1
+2492,Riven Turnbull,7.0,"['B', 'U']","['Human', 'Advisor']",Uncommon,5,7
+2493,Rohgahh of Kher Keep,6.0,"['B', 'R']",['Kobold'],Rare,5,5
+2495,Sir Shandlar of Eberyn,6.0,"['G', 'W']","['Human', 'Knight']",Uncommon,4,7
+2499,Sunastian Falconer,5.0,"['G', 'R']","['Human', 'Shaman']",Uncommon,4,4
+2500,Tetsuo Umezawa,3.0,"['B', 'R', 'U']","['Human', 'Archer']",Rare,3,3
+2501,The Lady of the Mountain,6.0,"['G', 'R']",['Giant'],Uncommon,5,5
+2504,Torsten Von Ursus,6.0,"['G', 'W']","['Human', 'Soldier']",Uncommon,5,5
+2505,Tuknir Deathlock,4.0,"['G', 'R']","['Human', 'Wizard']",Rare,2,2
+2506,Ur-Drago,7.0,"['B', 'U']",['Elemental'],Rare,4,4
+2510,Mistform Ultimus,4.0,['U'],['Illusion'],Rare,3,3
+2512,Brigid Hero of Kinsbaile,4.0,['W'],"['Kithkin', 'Archer']",Rare,2,3
+2517,Horde of Notions,5.0,"['B', 'G', 'R', 'U', 'W']",['Elemental'],Rare,5,5
+2519,Sygg River Guide,2.0,"['U', 'W']","['Merfolk', 'Wizard']",Rare,2,2
+2520,Wort Boggart Auntie,4.0,"['B', 'R']","['Goblin', 'Shaman']",Rare,3,3
+2524,Nefarox Overlord of Grixis,6.0,['B'],['Demon'],Rare,5,5
+2527,Avacyn Guardian Angel,5.0,['W'],['Angel'],Rare,5,4
+2530,Kurkesh Onakke Ancient,4.0,['R'],"['Ogre', 'Spirit']",Rare,4,3
+2531,Yisan the Wanderer Bard,3.0,['G'],"['Human', 'Rogue', 'Bard']",Rare,2,3
+2535,Isareth the Awakener,3.0,['B'],"['Human', 'Wizard']",Rare,3,3
+2538,Arcades the Strategist,4.0,"['G', 'U', 'W']","['Elder', 'Dragon']",Mythic,3,5
+2539,Chromium the Mutable,7.0,"['B', 'U', 'W']","['Elder', 'Dragon']",Mythic,7,7
+2540,Nicol Bolas the Ravager // Nicol Bolas the Arisen,4.0,"['B', 'R', 'U']","['Elder', 'Dragon']",Mythic,4,4
+2541,Palladia-Mors the Ruiner,6.0,"['G', 'R', 'W']","['Elder', 'Dragon']",Mythic,6,6
+2542,Vaevictis Asmadi the Dire,6.0,"['B', 'G', 'R']","['Elder', 'Dragon']",Mythic,6,6
+2543,Sephara Sky's Blade,7.0,['W'],['Angel'],Rare,7,7
+2544,Atemsis All-Seeing,6.0,['U'],['Sphinx'],Rare,4,5
+2547,Gargos Vicious Watcher,6.0,['G'],['Hydra'],Rare,8,7
+2548,Kaalia Zenith Seeker,3.0,"['B', 'R', 'W']","['Human', 'Cleric']",Mythic,3,3
+2549,Kethis the Hidden Hand,3.0,"['B', 'G', 'W']","['Elf', 'Advisor']",Mythic,3,4
+2550,Kykar Wind's Fury,4.0,"['R', 'U', 'W']","['Bird', 'Wizard']",Mythic,3,3
+2551,Omnath Locus of the Roil,4.0,"['G', 'R', 'U']",['Elemental'],Mythic,3,3
+2552,Yarok the Desecrated,5.0,"['B', 'G', 'U']","['Elemental', 'Horror']",Mythic,3,5
+2553,Golos Tireless Pilgrim,5.0,['UC'],['Scout'],Rare,3,5
+2555,Mangara the Diplomat,4.0,['W'],"['Human', 'Cleric']",Mythic,2,4
+2557,Kaervek the Spiteful,4.0,['B'],"['Human', 'Warlock']",Rare,3,2
+2560,Subira Tulzidi Caravanner,3.0,['R'],"['Human', 'Shaman']",Rare,2,3
+2563,Niambi Esteemed Speaker,2.0,"['U', 'W']","['Human', 'Cleric']",Rare,2,1
+2564,Radha Heart of Keld,3.0,"['G', 'R']","['Elf', 'Warrior']",Rare,3,3
+2565,Rin and Seri Inseparable,4.0,"['G', 'R', 'W']","['Dog', 'Cat']",Mythic,4,4
+2580,Fblthp the Lost,2.0,['U'],['Homunculus'],Rare,1,1
+2582,Sakashima the Impostor,4.0,['U'],"['Human', 'Rogue']",Rare,3,1
+2593,Thrun the Last Troll,4.0,['G'],"['Troll', 'Shaman']",Mythic,4,4
+2597,The Gitrog Monster,5.0,"['B', 'G']","['Frog', 'Horror']",Mythic,6,6
+2609,Glissa the Traitor,3.0,"['B', 'G']","['Phyrexian', 'Zombie', 'Elf']",Mythic,3,3
+2610,Kataki War's Wage,2.0,['W'],['Spirit'],Rare,2,1
+2623,Guan Yu Sainted Warrior,5.0,['W'],"['Human', 'Soldier', 'Warrior']",Uncommon,3,5
+2625,Liu Bei Lord of Shu,5.0,['W'],"['Human', 'Soldier']",Rare,2,4
+2626,Zhang Fei Fierce Warrior,6.0,['W'],"['Human', 'Soldier', 'Warrior']",Uncommon,4,4
+2627,Lu Meng Wu General,5.0,['U'],"['Human', 'Soldier']",Uncommon,4,4
+2630,Sun Ce Young Conquerer,5.0,['U'],"['Human', 'Soldier']",Uncommon,3,3
+2631,Sun Quan Lord of Wu,6.0,['U'],"['Human', 'Soldier']",Rare,4,4
+2633,Dong Zhou the Tyrant,5.0,['R'],"['Human', 'Soldier']",Rare,3,3
+2634,Lu Bu Master-at-Arms,6.0,['R'],"['Human', 'Soldier', 'Warrior']",Rare,4,3
+2636,Meng Huo Barbarian King,5.0,['G'],"['Human', 'Barbarian', 'Soldier']",Rare,4,4
+2681,Morophon the Boundless,7.0,['UC'],['Shapeshifter'],Mythic,6,6
+2688,Hogaak Arisen Necropolis,7.0,"['B', 'G']",['Avatar'],Rare,8,8
+2691,Tourach Dread Cantor,2.0,['B'],"['Human', 'Cleric']",Mythic,2,1
+2693,Ragavan Nimble Pilferer,1.0,['R'],"['Monkey', 'Pirate']",Mythic,2,1
+2696,Thrasta Tempest's Roar,12.0,['G'],['Dinosaur'],Mythic,7,7
+2697,Asmoranomardicadaistinaculdacar,0.0,"['B', 'R']","['Human', 'Wizard']",Rare,3,3
+2698,Carth the Lion,4.0,"['B', 'G']","['Human', 'Warrior']",Rare,3,5
+2699,Garth One-Eye,5.0,"['B', 'G', 'R', 'U', 'W']","['Human', 'Wizard']",Mythic,5,5
+2700,General Ferrous Rokiric,3.0,"['R', 'W']","['Human', 'Soldier']",Rare,3,1
+2702,Piru the Volatile,8.0,"['B', 'R', 'W']","['Elder', 'Dragon']",Rare,7,7
+2703,Yusri Fortune's Flame,3.0,"['R', 'U']",['Efreet'],Rare,2,3
+2734,Leinore Autumn Sovereign,4.0,"['G', 'W']","['Human', 'Noble']",Mythic,0,4
+2735,Wilhelt the Rotcleaver,4.0,"['B', 'U']","['Zombie', 'Warrior']",Mythic,3,3
+2736,Eloise Nephalia Sleuth,5.0,"['B', 'U']","['Human', 'Rogue']",Mythic,4,4
+2737,Kyler Sigardian Emissary,5.0,"['G', 'W']","['Human', 'Cleric']",Mythic,2,2
+2738,Gorex the Tombshell,8.0,['B'],"['Zombie', 'Turtle']",Rare,4,4
+2739,Kurbis Harvest Celebrant,2.0,['G'],['Treefolk'],Rare,0,0
+2740,Lynde Cheerful Tormentor,4.0,"['B', 'R', 'U']","['Human', 'Warlock']",Mythic,2,4
+2752,Sigarda Heron's Grace,5.0,"['G', 'W']",['Angel'],Mythic,4,5
+2755,A-Lier Disciple of the Drowned,5.0,['U'],"['Human', 'Wizard']",Mythic,3,4
+2796,Rashida Scalebane,5.0,['W'],"['Human', 'Soldier']",Rare,3,4
+2797,Sidar Jabari,4.0,['W'],"['Human', 'Knight']",Rare,2,2
+2798,Zuberi Golden Feather,5.0,['W'],['Griffin'],Rare,3,3
+2799,Hakim Loreweaver,5.0,['U'],"['Human', 'Wizard']",Rare,2,4
+2800,Taniwha,5.0,['U'],['Serpent'],Rare,7,7
+2801,Purraj of Urborg,5.0,['B'],"['Cat', 'Warrior']",Rare,2,3
+2802,Shauku Endbringer,7.0,['B'],['Vampire'],Rare,5,5
+2803,Spirit of the Night,9.0,['B'],"['Demon', 'Spirit']",Rare,6,5
+2804,Hivis of the Scale,5.0,['R'],"['Viashino', 'Shaman']",Rare,3,4
+2805,Telim'Tor,5.0,['R'],"['Human', 'Knight']",Rare,2,2
+2806,Zirilan of the Claw,5.0,['R'],"['Viashino', 'Shaman']",Rare,3,4
+2807,Asmira Holy Avenger,4.0,"['G', 'W']","['Human', 'Cleric']",Rare,2,3
+2813,Iona Shield of Emeria,9.0,['W'],['Angel'],Mythic,7,7
+2843,Oona Queen of the Fae,6.0,"['B', 'U']","['Faerie', 'Wizard']",Rare,5,5
+2847,Maralen of the Mornsong,3.0,['B'],"['Elf', 'Wizard']",Rare,2,3
+2857,Glissa Sunseeker,4.0,['G'],"['Elf', 'Warrior']",Rare,3,2
+2859,Anhelo the Painter,3.0,"['B', 'R', 'U']","['Vampire', 'Assassin']",Mythic,1,3
+2860,"Henzie ""Toolbox"" Torre",3.0,"['B', 'G', 'R']","['Devil', 'Rogue']",Mythic,3,3
+2861,Kamiz Obscura Oculus,4.0,"['B', 'U', 'W']","['Cephalid', 'Rogue']",Mythic,2,4
+2862,Kitt Kanto Mayhem Diva,4.0,"['G', 'R', 'W']","['Cat', 'Bard', 'Druid']",Mythic,3,3
+2863,Perrie the Pulverizer,4.0,"['G', 'U', 'W']","['Rhino', 'Soldier']",Mythic,3,3
+2864,The Beamtown Bullies,4.0,"['B', 'G', 'R']","['Ogre', 'Devil', 'Warrior']",Mythic,4,4
+2865,Kros Defense Contractor,4.0,"['G', 'U', 'W']","['Cat', 'Advisor']",Mythic,2,4
+2866,Parnesse the Subtle Brush,5.0,"['B', 'R', 'U']","['Vampire', 'Wizard']",Mythic,4,4
+2867,Phabine Boss's Confidant,6.0,"['G', 'R', 'W']","['Cat', 'Advisor']",Mythic,3,6
+2868,Tivit Seller of Secrets,6.0,"['B', 'U', 'W']","['Sphinx', 'Rogue']",Mythic,6,6
+2869,Bess Soul Nourisher,3.0,"['G', 'W']","['Human', 'Citizen']",Rare,1,1
+2870,Denry Klin Editor in Chief,4.0,"['U', 'W']","['Cat', 'Advisor']",Rare,2,2
+2871,Jolene the Plunder Queen,4.0,"['G', 'R']","['Human', 'Warrior']",Rare,2,2
+2872,Oskar Rubbish Reclaimer,5.0,"['B', 'U']","['Human', 'Wizard']",Rare,3,3
+2873,Syrix Carrier of the Flame,4.0,"['B', 'R']",['Phoenix'],Rare,3,3
+2874,Bennie Bracks Zoologist,4.0,['W'],"['Elf', 'Druid']",Mythic,3,2
+2875,Mari the Killing Quill,3.0,['B'],"['Vampire', 'Assassin']",Rare,3,2
+2876,Vazi Keen Negotiator,5.0,"['B', 'G', 'R']","['Human', 'Advisor']",Rare,3,3
+2913,Roalesk Apex Hybrid,5.0,"['G', 'U']","['Human', 'Mutant']",Mythic,4,5
+2917,Chishiro the Shattered Blade,4.0,"['G', 'R']","['Snake', 'Samurai']",Mythic,4,4
+2918,Kotori Pilot Prodigy,3.0,"['U', 'W']","['Moonfolk', 'Pilot']",Mythic,2,4
+2919,Kaima the Fractured Calm,4.0,"['G', 'R']",['Spirit'],Mythic,3,3
+2920,Katsumasa the Animator,4.0,['U'],"['Moonfolk', 'Artificer']",Rare,3,3
+2921,Kosei Penitent Warlord,3.0,['G'],"['Ogre', 'Samurai']",Rare,0,5
+2922,Myojin of Blooming Dawn,8.0,['W'],['Spirit'],Rare,4,6
+2923,Yoshimaru Ever Faithful,1.0,['W'],['Dog'],Mythic,1,1
+2924,Myojin of Cryptic Dreams,8.0,['U'],['Spirit'],Rare,3,3
+2925,Myojin of Grim Betrayal,8.0,['B'],['Spirit'],Rare,5,2
+2926,Myojin of Roaring Blades,8.0,['R'],['Spirit'],Rare,7,4
+2927,Myojin of Towering Might,8.0,['G'],['Spirit'],Rare,8,8
+2951,Lin Sivvi Defiant Hero,3.0,['W'],"['Human', 'Rebel']",Rare,1,3
+2953,Volrath the Fallen,6.0,['B'],"['Phyrexian', 'Shapeshifter']",Rare,6,4
+2954,Ao the Dawn Sky,5.0,['W'],"['Dragon', 'Spirit']",Mythic,5,4
+2955,Kyodai Soul of Kamigawa,4.0,['W'],"['Dragon', 'Spirit']",Rare,3,3
+2956,Light-Paws Emperor's Voice,2.0,['W'],"['Fox', 'Advisor']",Rare,2,2
+2957,Norika Yamazaki the Poet,3.0,['W'],"['Human', 'Samurai']",Uncommon,3,2
+2958,Jin-Gitaxias Progress Tyrant,7.0,['U'],"['Phyrexian', 'Praetor']",Mythic,5,5
+2959,Kairi the Swirling Sky,6.0,['U'],"['Dragon', 'Spirit']",Mythic,6,6
+2960,The Reality Chip,2.0,['U'],"['Equipment', 'Jellyfish']",Rare,0,4
+2961,Tameshi Reality Architect,3.0,['U'],"['Moonfolk', 'Wizard']",Rare,2,3
+2962,Hidetsugu Devouring Chaos,4.0,['B'],"['Ogre', 'Demon']",Rare,4,4
+2963,Junji the Midnight Sky,5.0,['B'],"['Dragon', 'Spirit']",Mythic,5,5
+2964,Nashi Moon Sage's Scion,3.0,['B'],"['Rat', 'Ninja']",Mythic,3,2
+2965,Tatsunari Toad Rider,3.0,['B'],"['Human', 'Ninja']",Rare,3,3
+2966,Atsushi the Blazing Sky,4.0,['R'],"['Dragon', 'Spirit']",Mythic,4,4
+2967,Goro-Goro Disciple of Ryusei,2.0,['R'],"['Goblin', 'Samurai']",Rare,2,2
+2968,Heiko Yamazaki the General,4.0,['R'],"['Human', 'Samurai']",Uncommon,3,3
+2969,Kodama of the West Tree,3.0,['G'],['Spirit'],Mythic,3,3
+2970,Kura the Boundless Sky,5.0,['G'],"['Dragon', 'Spirit']",Mythic,4,4
+2971,Greasefang Okiba Boss,3.0,"['B', 'W']","['Rat', 'Pilot']",Rare,4,3
+2972,Hinata Dawn-Crowned,4.0,"['R', 'U', 'W']","['Kirin', 'Spirit']",Rare,4,4
+2973,Isshin Two Heavens as One,3.0,"['B', 'R', 'W']","['Human', 'Samurai']",Rare,3,4
+2974,Kotose the Silent Spider,5.0,"['B', 'U']","['Human', 'Ninja']",Rare,4,4
+2975,Naomi Pillar of Order,5.0,"['B', 'W']","['Human', 'Advisor']",Uncommon,4,4
+2976,Raiyuu Storm's Edge,4.0,"['R', 'W']","['Human', 'Samurai']",Rare,3,3
+2977,Risona Asari Commander,3.0,"['R', 'W']","['Human', 'Samurai']",Rare,3,3
+2978,Satoru Umezawa,3.0,"['B', 'U']","['Human', 'Ninja']",Rare,2,4
+2979,Satsuki the Living Lore,2.0,"['G', 'W']","['Human', 'Druid']",Rare,1,3
+3045,Melira Sylvok Outcast,2.0,['G'],"['Human', 'Scout']",Rare,2,2
+3100,Karn Silver Golem,5.0,['UC'],['Golem'],Rare,4,4
+3103,Sliver Queen,5.0,"['B', 'G', 'R', 'U', 'W']",['Sliver'],Rare,7,7
+3121,Pianna Nomad Captain,3.0,['W'],"['Human', 'Nomad']",Rare,2,2
+3122,Aboshan Cephalid Emperor,6.0,['U'],"['Cephalid', 'Noble']",Rare,3,3
+3124,Cabal Patriarch,6.0,['B'],"['Human', 'Wizard']",Rare,5,5
+3126,Seton Krosan Protector,3.0,['G'],"['Centaur', 'Druid']",Rare,2,2
+3127,Atogatog,5.0,"['B', 'G', 'R', 'U', 'W']",['Atog'],Rare,5,5
+3129,General Tazri,5.0,['W'],"['Human', 'Ally']",Mythic,3,4
+3130,Linvala the Preserver,6.0,['W'],['Angel'],Mythic,5,5
+3132,Ayli Eternal Pilgrim,2.0,"['B', 'W']","['Kor', 'Cleric']",Rare,2,3
+3134,Mina and Denn Wildborn,4.0,"['G', 'R']","['Elf', 'Ally']",Rare,4,4
+3140,Elesh Norn Mother of Machines,5.0,['W'],"['Phyrexian', 'Praetor']",Mythic,4,7
+3141,Slobad Iron Goblin,3.0,['R'],"['Phyrexian', 'Goblin', 'Artificer']",Rare,3,3
+3142,Jor Kadeen First Goldwarden,2.0,"['R', 'W']","['Human', 'Rebel']",Rare,2,2
+3158,Ixidor Reality Sculptor,5.0,['U'],"['Human', 'Wizard']",Rare,3,4
+3163,Hixus Prison Warden,5.0,['W'],"['Human', 'Soldier']",Rare,4,4
+3164,Kytheon Hero of Akros // Gideon Battle-Forged,1.0,['W'],"['Human', 'Soldier']",Mythic,2,1
+3165,Alhammarret High Arbiter,7.0,['U'],['Sphinx'],Rare,5,5
+3166,Jace Vryn's Prodigy // Jace Telepath Unbound,2.0,['U'],"['Human', 'Wizard']",Mythic,0,2
+3169,Chandra Fire of Kaladesh // Chandra Roaring Flame,3.0,['R'],"['Human', 'Shaman']",Mythic,2,2
+3172,Nissa Vastwood Seer // Nissa Sage Animist,3.0,['G'],"['Elf', 'Scout']",Mythic,2,2
+3173,Millicent Restless Revenant,7.0,"['U', 'W']","['Spirit', 'Soldier']",Mythic,4,4
+3174,Strefan Maurer Progenitor,4.0,"['B', 'R']","['Vampire', 'Noble']",Mythic,3,2
+3177,Richard Garfield Ph.D.,5.0,['U'],"['Human', 'Designer']",Rare,2,2
+3330,Krond the Dawn-Clad,6.0,"['G', 'W']",['Archon'],Mythic,6,6
+3332,Thromok the Insatiable,5.0,"['G', 'R']",['Hellion'],Mythic,0,0
+3377,Mageta the Lion,5.0,['W'],"['Human', 'Spellshaper']",Rare,3,3
+3378,Alexi Zephyr Mage,5.0,['U'],"['Human', 'Spellshaper']",Rare,3,3
+3379,Greel Mind Raker,5.0,['B'],"['Horror', 'Spellshaper']",Rare,3,3
+3380,Latulla Keldon Overseer,5.0,['R'],"['Human', 'Spellshaper']",Rare,3,3
+3381,Jolrael Empress of Beasts,5.0,['G'],"['Human', 'Spellshaper']",Rare,3,3
+3382,Jaya Ballard Task Mage,3.0,['R'],"['Human', 'Spellshaper']",Rare,2,2
+3622,Zacama Primal Calamity,9.0,"['G', 'R', 'W']","['Elder', 'Dinosaur']",Mythic,9,9
+3668,Moraug Fury of Akoum,6.0,['R'],"['Minotaur', 'Warrior']",Mythic,6,6
+3674,Crovax Ascendant Hero,6.0,['W'],"['Human', 'Noble']",Rare,4,4
+3676,Mirri the Cursed,4.0,['B'],"['Vampire', 'Cat']",Rare,3,2
+3705,Ith High Arcanist,7.0,"['U', 'W']","['Human', 'Wizard']",Rare,3,5
+3724,Niv-Mizzet Reborn,5.0,"['B', 'G', 'R', 'U', 'W']","['Dragon', 'Avatar']",Mythic,6,6
+3726,Uro Titan of Nature's Wrath,3.0,"['G', 'U']","['Elder', 'Giant']",Mythic,6,6
+3732,Olivia Mobilized for War,3.0,"['B', 'R']","['Vampire', 'Knight']",Mythic,3,3
+3739,Llawan Cephalid Empress,4.0,['U'],"['Cephalid', 'Noble']",Rare,2,3
+3762,Starke of Rath,3.0,['R'],"['Human', 'Rogue']",Rare,2,2
+3772,Admiral Beckett Brass,4.0,"['B', 'R', 'U']","['Human', 'Pirate']",Mythic,3,3
+3782,Linvala Shield of Sea Gate,3.0,"['U', 'W']","['Angel', 'Wizard']",Rare,3,3
+3793,Ertai the Corrupted,5.0,"['B', 'U', 'W']","['Phyrexian', 'Human', 'Wizard']",Rare,3,4
+3804,Mishra Artificer Prodigy,4.0,"['B', 'R', 'U']","['Human', 'Artificer']",Rare,4,4
+3806,Tahngarth Talruum Hero,5.0,['R'],"['Minotaur', 'Warrior']",Rare,4,4
+3808,Nemata Grove Guardian,6.0,['G'],['Treefolk'],Rare,4,5
+4017,Tetzimoc Primal Death,6.0,['B'],"['Elder', 'Dinosaur']",Rare,6,6
+4024,Azor the Lawbringer,6.0,"['U', 'W']",['Sphinx'],Mythic,6,6
+4026,Kumena Tyrant of Orazca,3.0,"['G', 'U']","['Merfolk', 'Shaman']",Mythic,2,4
+4038,Kiyomaro First to Stand,5.0,['W'],['Spirit'],Rare,*,*
+4055,Anthousa Setessan Hero,5.0,['G'],"['Human', 'Warrior']",Rare,4,5
+4089,Lavinia Azorius Renegade,2.0,"['U', 'W']","['Human', 'Soldier']",Rare,2,2
+4090,Thryx the Sudden Storm,5.0,['U'],"['Elemental', 'Giant']",Rare,4,5
+4091,Kunoros Hound of Athreos,3.0,"['B', 'W']",['Dog'],Rare,3,3
+4092,Gallia of the Endless Dance,2.0,"['G', 'R']",['Satyr'],Rare,2,2
+4093,Polukranos Unchained,4.0,"['B', 'G']","['Zombie', 'Hydra']",Mythic,0,0
+4094,Haktos the Unscarred,4.0,"['R', 'W']","['Human', 'Warrior']",Rare,6,1
+4095,Atris Oracle of Half-Truths,4.0,"['B', 'U']","['Human', 'Advisor']",Rare,3,2
+4096,Dalakos Crafter of Wonders,3.0,"['R', 'U']","['Merfolk', 'Artificer']",Rare,2,4
+4097,Kroxa Titan of Death's Hunger,2.0,"['B', 'R']","['Elder', 'Giant']",Mythic,6,6
+4143,Omnath Locus of Creation,4.0,"['G', 'R', 'U', 'W']",['Elemental'],Mythic,4,4
+4144,Phylath World Sculptor,6.0,"['G', 'R']",['Elemental'],Rare,5,5
+4145,Orah Skyclave Hierophant,4.0,"['B', 'W']","['Kor', 'Cleric']",Rare,3,3
+4146,Charix the Raging Isle,4.0,['U'],"['Leviathan', 'Crab']",Rare,0,17
+4147,Drana the Last Bloodchief,5.0,['B'],"['Vampire', 'Cleric']",Mythic,4,4
+4148,Taborax Hope's Demise,3.0,['B'],"['Demon', 'Cleric']",Rare,2,2
+4149,Ashaya Soul of the Wild,5.0,['G'],['Elemental'],Mythic,*,*
+4150,Tazri Beacon of Unity,5.0,['W'],"['Human', 'Warrior']",Mythic,4,6
+4151,Kaza Roil Chaser,2.0,"['R', 'U']","['Human', 'Wizard']",Rare,1,2
+4152,Akiri Fearless Voyager,3.0,"['R', 'W']","['Kor', 'Warrior']",Rare,3,3
+4153,Zareth San the Trickster,5.0,"['B', 'U']","['Merfolk', 'Rogue']",Rare,4,4
+4155,Zagras Thief of Heartbeats,6.0,"['B', 'R']","['Vampire', 'Rogue']",Rare,4,4
+4156,Yasharn Implacable Earth,4.0,"['G', 'W']","['Elemental', 'Boar']",Rare,4,4
+4157,Verazol the Split Current,2.0,"['G', 'U']",['Serpent'],Rare,0,0
+4158,Grakmaw Skyclave Ravager,3.0,"['B', 'G']","['Hydra', 'Horror']",Rare,0,0
+4159,Obuun Mul Daya Ancestor,4.0,"['G', 'R', 'W']","['Elf', 'Spirit']",Mythic,3,3
+4160,Anowon the Ruin Thief,4.0,"['B', 'U']","['Vampire', 'Rogue']",Mythic,2,4
+4294,Mavinda Students' Advocate,3.0,['W'],"['Bird', 'Advisor']",Mythic,2,3
+4303,Shaile Dean of Radiance // Embrose Dean of Shadow,2.0,['W'],"['Bird', 'Cleric']",Rare,1,1
+4305,Valentin Dean of the Vein // Lisette Dean of the Root,1.0,['B'],"['Vampire', 'Warlock']",Rare,1,1
+4307,Kianne Dean of Substance // Imbraham Dean of Theory,3.0,['G'],"['Elf', 'Druid']",Rare,2,2
+4309,Uvilda Dean of Perfection // Nassari Dean of Expression,3.0,['U'],"['Djinn', 'Wizard']",Rare,2,2
+4311,Plargg Dean of Chaos // Augusta Dean of Order,2.0,['R'],"['Orc', 'Shaman']",Rare,2,2
+4315,Hofri Ghostforge,5.0,"['R', 'W']","['Dwarf', 'Cleric']",Mythic,4,5
+4323,Extus Oriq Overlord // Awaken the Blood Avatar,4.0,"['B', 'W']","['Human', 'Warlock']",Mythic,2,4
+4325,Blex Vexing Pest // Search for Blex,3.0,['G'],['Pest'],Mythic,3,2
+4326,Jadzi Oracle of Arcavios // Journey to the Oracle,8.0,['U'],"['Human', 'Wizard']",Mythic,5,5
+4327,Mila Crafty Companion // Lukka Wayward Bonder,3.0,['W'],['Fox'],Mythic,2,3
+4328,Shadrix Silverquill,5.0,"['B', 'W']","['Elder', 'Dragon']",Mythic,2,5
+4329,Beledros Witherbloom,7.0,"['B', 'G']","['Elder', 'Dragon']",Mythic,4,4
+4330,Tanazir Quandrix,5.0,"['G', 'U']","['Elder', 'Dragon']",Mythic,4,4
+4331,Galazeth Prismari,4.0,"['R', 'U']","['Elder', 'Dragon']",Mythic,3,4
+4332,Velomachus Lorehold,7.0,"['R', 'W']","['Elder', 'Dragon']",Mythic,5,5
+4333,Codie Vociferous Codex,3.0,['UC'],['Construct'],Rare,1,4
+4365,Rhoda Geist Avenger,4.0,['W'],"['Human', 'Soldier']",Rare,3,3
+4366,Timin Youthful Geist,5.0,['U'],['Spirit'],Rare,3,4
+4404,Jaxis the Troublemaker,4.0,['R'],"['Human', 'Warrior']",Rare,2,3
+4444,Nikya of the Old Ways,5.0,"['G', 'R']","['Centaur', 'Druid']",Rare,5,5
+4445,Rakdos the Showstopper,6.0,"['B', 'R']",['Demon'],Mythic,6,6
+4446,Teysa Karlov,4.0,"['B', 'W']","['Human', 'Advisor']",Rare,2,4
+4457,Stonebrow Krosan Hero,5.0,"['G', 'R']","['Centaur', 'Warrior']",Rare,4,4
+4463,God-Eternal Oketra,5.0,['W'],"['Zombie', 'God']",Mythic,3,6
+4464,God-Eternal Kefnet,4.0,['U'],"['Zombie', 'God']",Mythic,4,5
+4465,God-Eternal Bontu,5.0,['B'],"['Zombie', 'God']",Mythic,5,6
+4466,God-Eternal Rhonas,5.0,['G'],"['Zombie', 'God']",Mythic,5,5
+4482,Giada Font of Hope,2.0,['W'],['Angel'],Rare,2,2
+4484,Errant Street Artist,1.0,['U'],"['Human', 'Rogue']",Rare,0,3
+4488,Urabrask Heretic Praetor,5.0,['R'],"['Phyrexian', 'Praetor']",Mythic,4,4
+4490,Evelyn the Covetous,5.0,"['B', 'R', 'U']","['Vampire', 'Rogue']",Rare,2,5
+4492,Falco Spara Pactweaver,4.0,"['G', 'U', 'W']","['Bird', 'Demon']",Mythic,3,3
+4494,Jetmir Nexus of Revels,4.0,"['G', 'R', 'W']","['Cat', 'Demon']",Mythic,5,4
+4496,Jinnie Fay Jetmir's Second,3.0,"['G', 'R', 'W']","['Elf', 'Druid']",Rare,3,3
+4498,Lord Xander the Collector,7.0,"['B', 'R', 'U']","['Vampire', 'Demon', 'Noble']",Mythic,6,6
+4500,Ognis the Dragon's Lash,4.0,"['B', 'G', 'R']","['Viashino', 'Warrior']",Rare,3,3
+4502,Raffine Scheming Seer,3.0,"['B', 'U', 'W']","['Sphinx', 'Demon']",Mythic,1,4
+4504,Rigo Streetwise Mentor,3.0,"['G', 'U', 'W']","['Cat', 'Citizen']",Rare,2,2
+4506,Toluz Clever Conductor,3.0,"['B', 'U', 'W']","['Human', 'Rogue']",Rare,3,1
+4508,Ziatora the Incinerator,6.0,"['B', 'G', 'R']","['Demon', 'Dragon']",Mythic,6,6
+4510,Archangel Avacyn // Avacyn the Purifier,5.0,['W'],['Angel'],Mythic,4,4
+4516,Westvale Abbey // Ormendahl Profane Prince,0.0,['B'],['Demon'],Rare,9,7
+4556,Nightmare Moon // Princess Luna,6.0,['B'],['Alicorn'],Mythic,6,6
+4558,Princess Twilight Sparkle,2.0,"['U', 'W']",['Alicorn'],Mythic,2,2
+4559,Rarity,3.0,"['U', 'W']",['Unicorn'],Mythic,2,2
+4582,Huang Zhong Shu General,4.0,['W'],"['Human', 'Soldier']",Rare,2,3
+4585,"Pang Tong ""Young Phoenix""",3.0,['W'],"['Human', 'Advisor']",Rare,1,2
+4587,Zhao Zilong Tiger General,5.0,['W'],"['Human', 'Soldier', 'Warrior']",Rare,3,3
+4588,Lady Sun,3.0,['U'],"['Human', 'Advisor']",Rare,1,1
+4590,Lu Su Wu Advisor,5.0,['U'],"['Human', 'Advisor']",Rare,1,2
+4594,Zhou Yu Chief Commander,7.0,['U'],"['Human', 'Soldier']",Rare,8,8
+4595,Zhuge Jin Wu Strategist,3.0,['U'],"['Human', 'Advisor']",Rare,1,1
+4596,Cao Cao Lord of Wei,5.0,['B'],"['Human', 'Soldier']",Rare,3,3
+4597,Cao Ren Wei Commander,4.0,['B'],"['Human', 'Soldier', 'Warrior']",Rare,3,3
+4598,Sima Yi Wei Field Marshal,6.0,['B'],"['Human', 'Soldier']",Rare,*,4
+4600,Xun Yu Wei Advisor,3.0,['B'],"['Human', 'Advisor']",Rare,1,1
+4601,Zhang He Wei General,5.0,['B'],"['Human', 'Soldier']",Rare,4,2
+4602,Zhang Liao Hero of Hefei,6.0,['B'],"['Human', 'Soldier']",Rare,3,3
+4606,Ma Chao Western Warrior,5.0,['R'],"['Human', 'Soldier', 'Warrior']",Rare,3,3
+4607,Yuan Shao the Indecisive,5.0,['R'],"['Human', 'Soldier']",Rare,2,3
+4609,Lady Zhurong Warrior Queen,5.0,['G'],"['Human', 'Soldier', 'Warrior']",Rare,4,3
+4611,Zuo Ci the Mocking Sage,3.0,['G'],"['Human', 'Advisor']",Rare,1,2
+4644,Tomik Distinguished Advokist,2.0,['W'],"['Human', 'Advisor']",Rare,2,3
+4650,Massacre Girl,5.0,['B'],"['Human', 'Assassin']",Rare,4,4
+4651,Ilharg the Raze-Boar,5.0,['R'],"['Boar', 'God']",Mythic,6,6
+4656,Feather the Redeemed,3.0,"['R', 'W']",['Angel'],Rare,3,4
+4660,Storrev Devkarin Lich,4.0,"['B', 'G']","['Zombie', 'Elf', 'Wizard']",Rare,5,4
+4662,Tolsimir Friend to Wolves,5.0,"['G', 'W']","['Elf', 'Scout']",Rare,3,3
+4666,Mavren Fein Dusk Apostle,3.0,['W'],"['Vampire', 'Cleric']",Rare,2,2
+4668,Kopala Warden of Waves,3.0,['U'],"['Merfolk', 'Wizard']",Rare,2,2
+4673,Gishath Sun's Avatar,8.0,"['G', 'R', 'W']","['Dinosaur', 'Avatar']",Mythic,7,6
+4674,Tishana Voice of Thunder,7.0,"['G', 'U']","['Merfolk', 'Shaman']",Mythic,*,*
+4675,Vona Butcher of Magan,5.0,"['B', 'W']","['Vampire', 'Knight']",Mythic,4,4
+4819,Prime Speaker Vannifar,4.0,"['G', 'U']","['Elf', 'Ooze', 'Wizard']",Mythic,2,4
+4823,The Haunt of Hightower,6.0,['B'],['Vampire'],Mythic,3,3
+4852,Karona False God,6.0,"['B', 'G', 'R', 'U', 'W']",['Avatar'],Rare,5,5
+4856,Sygg River Cutthroat,2.0,"['B', 'U']","['Merfolk', 'Rogue']",Rare,1,3
+4886,Rick Steadfast Leader,4.0,['W'],"['Human', 'Soldier']",Mythic,3,4
+4887,Daryl Hunter of Walkers,4.0,"['G', 'R']","['Human', 'Archer']",Mythic,4,4
+4888,Glenn the Voice of Calm,3.0,"['U', 'W']","['Human', 'Advisor']",Mythic,1,3
+4889,Michonne Ruthless Survivor,5.0,"['B', 'G']","['Human', 'Warrior']",Mythic,3,3
+4890,Negan the Cold-Blooded,5.0,"['B', 'R', 'W']","['Human', 'Rogue']",Mythic,4,3
+4916,Sophina Spearsage Deserter,4.0,"['R', 'W']","['Human', 'Soldier']",Rare,4,4
+4917,Hargilde Kindly Runechanter,4.0,"['U', 'W']",['Human'],Rare,2,3
+4918,Cecily Haunted Mage,4.0,"['B', 'R', 'U']","['Human', 'Wizard']",Rare,3,5
+4919,Bjorna Nightfall Alchemist,2.0,"['R', 'U']",['Human'],Rare,1,3
+4920,Elmar Ulvenwald Informant,3.0,"['G', 'R']",['Human'],Rare,3,2
+4921,Othelm Sigardian Outcast,3.0,"['G', 'W']",['Human'],Rare,2,2
+4922,Wernog Rider's Chaplain,2.0,"['B', 'W']",['Human'],Rare,1,2
+4923,Zndrsplt Eye of Wisdom // Zndrsplt Eye of Wisdom,5.0,['U'],['Homunculus'],Rare,1,4
+4927,Okaun Eye of Chaos // Okaun Eye of Chaos,5.0,['R'],"['Cyclops', 'Berserker']",Rare,3,3
+4933,Baldin Century Herdmaster,6.0,['W'],"['Human', 'Warrior']",Rare,0,7
+4934,Vikya Scorching Stalwart,3.0,['W'],"['Human', 'Warrior']",Rare,2,4
+4935,Aisha of Sparks and Smoke,3.0,['R'],"['Human', 'Warrior']",Rare,4,2
+4936,The Howling Abomination,5.0,"['G', 'R']","['Human', 'Beast', 'Warrior']",Rare,5,5
+4937,Zethi Arcane Blademaster,3.0,"['U', 'W']","['Human', 'Soldier']",Rare,3,3
+4938,Tadeas Juniper Ascendant,4.0,"['G', 'W']","['Human', 'Monk']",Rare,1,3
+4939,Immard the Stormcleaver,4.0,"['R', 'U', 'W']","['Human', 'Soldier']",Rare,4,4
+4940,Maarika Brutal Gladiator,5.0,"['B', 'G', 'R']","['Human', 'Warrior']",Rare,7,4
+4984,Ulamog the Ceaseless Hunger // Ulamog the Ceaseless Hunger,10.0,['UC'],['Eldrazi'],Mythic,10,10
+4986,Etali Primal Storm // Etali Primal Storm,6.0,['R'],"['Elder', 'Dinosaur']",Rare,6,6
+4988,Ghalta Primal Hunger // Ghalta Primal Hunger,12.0,['G'],"['Elder', 'Dinosaur']",Rare,12,12
+5022,Cormela Glamour Thief,4.0,"['B', 'R', 'U']","['Vampire', 'Rogue']",Uncommon,2,4
+5027,Lagrella the Magpie,3.0,"['G', 'U', 'W']","['Human', 'Soldier']",Uncommon,2,3
+5029,Mr. Orfeo the Boulder,4.0,"['B', 'G', 'R']","['Rhino', 'Warrior']",Uncommon,2,4
+5030,A-Mr. Orfeo the Boulder,4.0,"['B', 'G', 'R']","['Rhino', 'Warrior']",Uncommon,3,4
+5032,Queza Augur of Agonies,4.0,"['B', 'U', 'W']","['Cephalid', 'Advisor']",Uncommon,3,4
+5033,A-Queza Augur of Agonies,4.0,"['B', 'U', 'W']","['Cephalid', 'Advisor']",Uncommon,3,4
+5036,Rocco Cabaretti Caterer,3.0,"['G', 'R', 'W']","['Elf', 'Druid']",Uncommon,3,1
+5092,Cloudhoof Kirin,5.0,['U'],"['Kirin', 'Spirit']",Rare,4,4
+5093,Erayo Soratami Ascendant // Erayo's Essence,2.0,['U'],"['Moonfolk', 'Monk']",Rare,1,1
+5094,Kaho Minamo Historian,4.0,['U'],"['Human', 'Wizard']",Rare,2,2
+5097,Soramaro First to Dream,6.0,['U'],['Spirit'],Rare,*,*
+5098,Akuta Born of Ash,4.0,['B'],['Spirit'],Rare,3,2
+5099,Infernal Kirin,4.0,['B'],"['Kirin', 'Spirit']",Rare,3,3
+5100,Kagemaro First to Suffer,5.0,['B'],"['Demon', 'Spirit']",Rare,*,*
+5101,Kuon Ogre Ascendant // Kuon's Essence,3.0,['B'],"['Ogre', 'Monk']",Rare,2,4
+5102,Maga Traitor to Mortals,3.0,['B'],"['Human', 'Wizard']",Rare,0,0
+5103,Adamaro First to Desire,3.0,['R'],['Spirit'],Rare,*,*
+5104,Homura Human Ascendant // Homura's Essence,6.0,['R'],"['Human', 'Monk']",Rare,4,4
+5105,Iizuka the Ruthless,5.0,['R'],"['Human', 'Samurai']",Rare,3,3
+5106,Jiwari the Earth Aflame,5.0,['R'],['Spirit'],Rare,3,3
+5107,Skyfire Kirin,4.0,['R'],"['Kirin', 'Spirit']",Rare,3,3
+5109,Ayumi the Last Visitor,5.0,['G'],['Spirit'],Rare,7,3
+5110,Bounteous Kirin,7.0,['G'],"['Kirin', 'Spirit']",Rare,4,4
+5111,Masumaro First to Live,6.0,['G'],['Spirit'],Rare,*,*
+5113,Sasaya Orochi Ascendant // Sasaya's Essence,3.0,['G'],"['Snake', 'Monk']",Rare,2,3
+5114,Sekki Seasons' Guide,8.0,['G'],['Spirit'],Rare,0,0
+5115,Iname as One,12.0,"['B', 'G']",['Spirit'],Rare,8,8
+5120,Crovax the Cursed,4.0,['B'],"['Vampire', 'Noble']",Rare,0,0
+5138,Dina Soul Steeper,2.0,"['B', 'G']","['Dryad', 'Druid']",Uncommon,1,3
+5141,Killian Ink Duelist,2.0,"['B', 'W']","['Human', 'Warlock']",Uncommon,2,2
+5142,Quintorius Field Historian,5.0,"['R', 'W']","['Elephant', 'Cleric']",Uncommon,2,4
+5143,Rootha Mercurial Artist,3.0,"['R', 'U']","['Orc', 'Shaman']",Uncommon,1,4
+5146,A-Tanazir Quandrix,5.0,"['G', 'U']","['Elder', 'Dragon']",Mythic,5,5
+5148,Zimone Quandrix Prodigy,2.0,"['G', 'U']","['Human', 'Wizard']",Uncommon,1,2
+5177,Alirios Enraptured,3.0,['U'],['Human'],Uncommon,2,3
+5181,Eutropia the Twice-Favored,3.0,"['G', 'U']","['Human', 'Wizard']",Uncommon,2,2
+5187,Siona Captain of the Pyleas,3.0,"['G', 'W']","['Human', 'Soldier']",Uncommon,2,2
+5199,Hythonia the Cruel,6.0,['B'],['Gorgon'],Mythic,4,6
+5204,Medomai the Ageless,6.0,"['U', 'W']",['Sphinx'],Mythic,4,4
+5205,Triad of Fates,4.0,"['B', 'W']","['Human', 'Wizard']",Rare,3,3
+5206,Tymaret the Murder King,2.0,"['B', 'R']","['Zombie', 'Warrior']",Rare,2,2
+5207,Orim Samite Healer,3.0,['W'],"['Human', 'Cleric']",Rare,1,3
+5208,Commander Greven il-Vec,6.0,['B'],"['Phyrexian', 'Human', 'Warrior']",Rare,7,5
+5210,Eladamri Lord of Leaves,2.0,['G'],"['Elf', 'Warrior']",Rare,2,2
+5211,Selenia Dark Angel,5.0,"['B', 'W']","['Phyrexian', 'Angel']",Rare,3,3
+5212,Vhati il-Dal,4.0,"['B', 'G']","['Human', 'Warrior']",Rare,3,3
+5213,Major Teroh,4.0,['W'],"['Bird', 'Soldier']",Rare,2,3
+5217,Balthor the Stout,3.0,['R'],"['Dwarf', 'Barbarian']",Rare,2,2
+5237,Tivadar of Thorn,3.0,['W'],"['Human', 'Knight']",Rare,2,2
+5240,Lim-Dûl the Necromancer,7.0,['B'],"['Human', 'Wizard']",Rare,4,4
+5244,Thelon of Havenwood,2.0,['G'],"['Elf', 'Druid']",Rare,2,2
+5245,Dralnu Lich Lord,5.0,"['B', 'U']","['Zombie', 'Wizard']",Rare,3,3
+5249,Saffi Eriksdotter,2.0,"['G', 'W']","['Human', 'Scout']",Rare,2,2
+5282,Rayne Academy Chancellor,3.0,['U'],"['Human', 'Wizard']",Rare,1,1
+5283,Rofellos Llanowar Emissary,2.0,['G'],"['Elf', 'Druid']",Rare,2,1
+5284,Jalum Grifter,5.0,['R'],['Devil'],Rare,3,5
+5285,Timmy Power Gamer,4.0,['G'],"['Human', 'Gamer']",Rare,1,1
+5286,Radiant Archangel,5.0,['W'],['Angel'],Rare,3,3
+5287,Multani Maro-Sorcerer,6.0,['G'],['Elemental'],Rare,*,*
+5301,Frankie Peanuts,4.0,['W'],"['Elephant', 'Rogue']",Rare,2,3
+5302,Syr Cadian Knight Owl,5.0,['W'],"['Bird', 'Knight']",Rare,4,4
+5303,Alexander Clamilton,3.0,['U'],"['Clamfolk', 'Advisor', 'Rebel']",Rare,0,4
+5304,Johnny Combo Player,4.0,['U'],"['Human', 'Gamer']",Rare,1,1
+5306,Acornelia Fashionable Filcher,4.0,['B'],['Squirrel'],Rare,3,3
+5307,Stet Draconic Proofreader,6.0,['R'],"['Dragon', 'Bureaucrat']",Rare,4,4
+5308,Pippa Duchess of Dice,3.0,['G'],"['Human', 'Noble']",Rare,2,2
+5309,Surgeon General Commander,4.0,['G'],"['Wombat', 'Bat', 'Chameleon']",Mythic,3,3
+5311,Katerina of Myra's Marvels,4.0,['W'],"['Human', 'Performer']",Rare,3,3
+5312,Solaflora Intergalactic Icon,5.0,['W'],"['Human', 'Guest']",Rare,3,3
+5313,Fluros of Myra's Marvels,4.0,['U'],"['Merfolk', 'Performer']",Rare,3,4
+5314,Nocturno of Myra's Marvels,4.0,['B'],"['Vampire', 'Performer']",Rare,2,2
+5315,Devil K. Nevil,3.0,['R'],"['Devil', 'Performer']",Rare,2,1
+5316,Ignacio of Myra's Marvels,4.0,['R'],"['Lizard', 'Performer']",Rare,4,3
+5317,Vorthos Steward of Myth,2.0,['R'],"['Human', 'Gamer']",Mythic,1,3
+5318,Hardy of Myra's Marvels,4.0,['G'],"['Elf', 'Performer']",Rare,4,4
+5319,Jermane Pride of the Circus,2.0,['G'],"['Cat', 'Performer']",Rare,2,3
+5320,Ambassador Blorpityblorpboop,5.0,"['G', 'U']","['Alien', 'Advisor', 'Guest']",Uncommon,3,3
+5321,Angelic Harold,3.0,"['U', 'W']","['Angel', 'Performer']",Uncommon,2,2
+5322,"""Brims"" Barone Midway Mobster",5.0,"['B', 'W']","['Human', 'Rogue']",Uncommon,5,4
+5323,Captain Rex Nebula,3.0,"['R', 'W']","['Human', 'Pilot', 'Employee']",Rare,2,2
+5324,Claire D'Loon Joy Sculptor,2.0,"['U', 'W']","['Human', 'Performer']",Rare,2,3
+5325,Dee Kay Finder of the Lost,3.0,"['B', 'U']","['Zombie', 'Employee']",Uncommon,1,4
+5326,Grand Marshal Macie,3.0,"['B', 'W']","['Human', 'Performer']",Mythic,2,2
+5327,It Came from Planet Glurg,2.0,"['G', 'U']","['Alien', 'Ooze']",Mythic,0,0
+5328,Lila Hospitality Hostess,4.0,"['G', 'W']","['Elf', 'Employee']",Mythic,3,3
+5329,Magar of the Magic Strings,3.0,"['B', 'R']","['Minotaur', 'Performer']",Mythic,3,3
+5330,"Meet and Greet ""Sisay""",2.0,"['G', 'R']","['Elf', 'Performer']",Rare,1,1
+5331,Monoxa Midway Manager,4.0,"['B', 'R']","['Vampire', 'Employee']",Uncommon,3,3
+5332,The Most Dangerous Gamer,4.0,"['B', 'G']","['Human', 'Gamer', 'Guest']",Rare,2,2
+5333,Myra the Magnificent,4.0,"['R', 'U']","['Human', 'Performer']",Mythic,2,4
+5334,Pietra Crafter of Clowns,3.0,"['R', 'W']","['Human', 'Clown', 'Artificer']",Uncommon,3,2
+5335,Roxi Publicist to the Stars,4.0,"['R', 'U']","['Human', 'Employee']",Uncommon,*,4
+5336,The Space Family Goblinson,4.0,"['G', 'R']","['Goblin', 'Guest']",Uncommon,1,1
+5337,Spinnerette Arachnobat,5.0,"['B', 'G']","['Spider', 'Performer']",Uncommon,2,4
+5338,Truss Chief Engineer,2.0,"['B', 'U']","['Vedalken', 'Rogue', 'Employee']",Rare,1,3
+5339,Tusk and Whiskers,5.0,"['G', 'W']","['Elephant', 'Mouse', 'Performer']",Uncommon,4,4
+5340,D00-DL Caricaturist,6.0,['UC'],['Robot'],Rare,1,1
+5440,Spike Tournament Grinder,4.0,['B'],"['Human', 'Gamer']",Rare,1,1
+5441,The Big Idea,6.0,['R'],"['Brainiac', 'Villain']",Rare,4,4
+5444,Baron Von Count,3.0,"['B', 'R']","['Human', 'Villain']",Mythic,3,3
+5445,Dr. Julius Jumblemorph,4.0,"['G', 'W']",,Mythic,4,4
+5446,Grusilda Monster Masher,5.0,"['B', 'R']","['Zombie', 'Villain']",Rare,4,4
+5447,Mary O'Kill,6.0,"['B', 'R']","['Human', 'Villain']",Rare,5,5
+5448,Ol' Buzzbark,2.0,"['G', 'R']","['Goblin', 'Warrior']",Mythic,3,3
+5449,Phoebe Head of S.N.E.A.K.,3.0,"['B', 'U']","['Human', 'Spy']",Mythic,2,3
+5450,X,2.0,"['B', 'U']","['Human', 'Spy']",Rare,2,2
+5451,Barrin Master Wizard,3.0,['U'],"['Human', 'Wizard']",Rare,1,1
+5522,Donal Herald of Wings,4.0,['U'],"['Human', 'Wizard']",Mythic,3,3
+5523,Timothar Baron of Bats,6.0,['B'],"['Vampire', 'Noble']",Mythic,4,4
+5526,Kamber the Plunderer,4.0,['B'],"['Vampire', 'Rogue']",Rare,3,4
+5527,Laurine the Diversion,3.0,['R'],"['Human', 'Rogue']",Rare,3,3
+5528,Umbris Fear Manifest,5.0,"['B', 'U']","['Nightmare', 'Horror']",Mythic,1,1
+5600,Mowu Loyal Companion,4.0,['G'],['Dog'],Uncommon,3,3
+5612,Gallowbraid,5.0,['B'],"['Phyrexian', 'Horror']",Rare,5,5
+5613,Morinfen,5.0,['B'],"['Phyrexian', 'Horror']",Rare,5,4
+5614,Maraxus of Keld,6.0,['R'],"['Human', 'Warrior']",Rare,*,*
+5615,Thada Adel Acquisitor,3.0,['U'],"['Merfolk', 'Rogue']",Rare,2,2
+5627,Crucias Titan of the Waves,3.0,"['B', 'R']","['Human', 'Pirate']",Mythic,3,3
+5628,Jarsyl Dark Age Scion,3.0,"['G', 'R']","['Human', 'Wizard']",Mythic,3,3
+5629,Raddic Tal Zealot,4.0,"['B', 'W']","['Human', 'Knight']",Rare,4,4
+5630,Richlau Headmaster,3.0,"['U', 'W']","['Human', 'Advisor']",Mythic,2,4
+5631,Rusko Clockmaker,4.0,"['B', 'U']","['Human', 'Artificer']",Rare,3,3
+5632,Reezug the Bonecobbler,2.0,['B'],"['Spirit', 'Artificer']",Mythic,1,3
+5633,Arvad Weatherlight Smuggler,2.0,"['B', 'W']","['Vampire', 'Knight']",Rare,1,1
+5634,Darigaaz Shivan Champion,5.0,"['B', 'G', 'R']",['Dragon'],Mythic,5,5
+5635,Niambi Beloved Protector,2.0,"['U', 'W']","['Human', 'Cleric']",Rare,2,2
+5636,Slimefoot Thallid Transplant,2.0,"['B', 'G']",['Fungus'],Rare,2,2
+5637,Tiana Angelic Mechanic,3.0,"['R', 'W']","['Angel', 'Artificer']",Rare,3,2
+5638,Captain Eberhart,2.0,['W'],"['Human', 'Soldier']",Mythic,1,2
+5639,Oglor Devoted Assistant,2.0,['U'],['Homunculus'],Mythic,1,1
+5640,Gutmorn Pactbound Servant,3.0,['B'],['Demon'],Mythic,1,3
+5641,Rahilda Wanted Cutthroat // Rahilda Feral Outlaw,2.0,['R'],"['Human', 'Werewolf']",Mythic,2,2
+5643,Ishkanah Broodmother,4.0,['G'],['Spider'],Mythic,3,5
+5644,Gitrog Horror of Zhava,4.0,"['B', 'G']","['Frog', 'Horror']",Rare,6,6
+5647,Kalitas Bloodchief of Ghet,7.0,['B'],"['Vampire', 'Warrior']",Mythic,5,5
+5672,A-Omnath Locus of Creation,5.0,"['G', 'R', 'U', 'W']",['Elemental'],Mythic,4,4
+5675,A-Phylath World Sculptor,6.0,"['G', 'R']",['Elemental'],Rare,5,5
