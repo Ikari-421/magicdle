@@ -150,24 +150,24 @@ else:
 #               AFFICHAGE DES INDICES
 # ----------------------------------------------------
 
-# if len(df_zip_result) >= 1 :
-#     st.write(df_todays_legend['name'])
-# # Indice donné a partir d'un certain nombre d'essai
-# if len(df_zip_result) >= 2 :
-#     if st.button('Découvrir le coût Mana'):
-#         st.warning(f'Le coût Mana est : {df_todays_legend['cmc']} ', icon="⚠️")
+if len(df_zip_result) >= 1 :
+    st.write(df_todays_legend['name'])
+# Indice donné a partir d'un certain nombre d'essai
+if len(df_zip_result) >= 2 :
+    if st.button('Découvrir le coût Mana'):
+        st.warning(f'Le coût Mana est : {df_todays_legend['cmc']} ', icon="⚠️")
 
-# if len(df_zip_result) >= 4 :
-#     if st.button('Découvrir le Terrain'):
-#         st.warning(f'Le Terrain est : {df_todays_legend['colors']} ', icon="⚠️")
+if len(df_zip_result) >= 4 :
+    if st.button('Découvrir le Terrain'):
+        st.warning(f'Le Terrain est : {df_todays_legend['colors']} ', icon="⚠️")
 
-# if len(df_zip_result) >= 6 :
-#     if st.button('Découvrir le Sous Type'):
-#         st.warning(f'Le Sous Type est : {df_todays_legend['subtype']} ', icon="⚠️")
+if len(df_zip_result) >= 6 :
+    if st.button('Découvrir le Sous Type'):
+        st.warning(f'Le Sous Type est : {df_todays_legend['subtype']} ', icon="⚠️")
 
-# if len(df_zip_result) >= 8 :
-#     if st.button('Découvrir le Légendaire'):
-#         st.warning(f'Le legendaire est : {df_todays_legend['name']} ', icon="⚠️")
+if len(df_zip_result) >= 8 :
+    if st.button('Découvrir le Légendaire'):
+        st.warning(f'Le legendaire est : {df_todays_legend['name']} ', icon="⚠️")
 
 # On verifie si un nom a été entré
 if submitted:
