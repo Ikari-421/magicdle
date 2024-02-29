@@ -31,10 +31,74 @@ url_img = "https://media.wizards.com/images/magic/daily/wallpapers/Rakdos_Wallpa
 style_css = '''
 <style>
 [data-testid="stAppViewContainer"] {
-background-color:#fff;
-opacity: 0.6;
+background-color:#000;
 background-image: url("https://media.wizards.com/images/magic/daily/wallpapers/Rakdos_Wallpaper_1920x1080.jpg?_gl=1*irug3u*_ga*MjA1NDMyNTExOS4xNzA5MTMyNzEw*_ga_X145Z177LS*MTcwOTEzMjcxMC4xLjEuMTcwOTEzMjcyMi40OC4wLjA.");
 background-size: cover;
+background-repeat: no-repeat;
+margin: 0;
+padding: 0;
+height: 100%;
+}
+.main{
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    color: bisque;
+}
+.logo_entry{
+    display: flex;
+    justify-content: center;
+}
+.logo_entry img{
+    width: 450px;
+}
+.research{
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    border: silver solid 1px;
+}
+.header_table{
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    gap: 5px;
+    margin-bottom: 5px;
+}
+.row_table{
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    gap: 5px;
+    margin-bottom: 5px;
+}
+.row_table .item{
+    border: bisque solid 1px;
+}
+.item{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    width: 100px;
+    height: 100%;
+}
+.TRUE{
+    background-color: green;
+}
+.FALSE, .LESS, .MORE, OTHER{
+    background-color: darkred;
+}
+.ALMOST{
+    background-color: orangered;
 }
 </style>
 '''
@@ -43,8 +107,8 @@ st.markdown(style_css, unsafe_allow_html=True)
 
 header_html = '''
 <div class="main" >
-    <div class=logo_img>
-        <img src=""/>
+    <div class="logo_entry">
+        <img src="https://github.com/Ikari-421/magicdle/blob/master/magidle_logo.png?raw=true">
     </div>
 '''
 st.markdown(header_html, unsafe_allow_html=True)
@@ -62,30 +126,36 @@ with st.form("my_form"):
 # df_result vide où on incrementera nos données
 df_comparaison = pd.DataFrame(columns = df_game.columns)
 
-if 'df_result' in st.session_state:
-    df_result = st.session_state['df_result']
+# Creation d'une liste pour le Df de comparaison
+col_list = []
+for col in df_game.columns:
+    col_list.append(col)
+    col_list.append(col+'_test')
+
+# Test de l'existence dans la session
+if 'df_zip_result' in st.session_state:
+    df_zip_result = st.session_state['df_zip_result']
 else:
-    df_result = pd.DataFrame(columns = df_game.columns)
+    df_zip_result = pd.DataFrame(columns = col_list)
 
 
-
-# CREATION DATASET COMPARAISON
-today_creature = df_game.loc[df_game['name'] == todays_legend]
-attempt_creature = df_game.loc[df_game['name'] == attempt_legend]
-
-df_comparaison = pd.concat([today_creature, attempt_creature], ignore_index=True)
-
-# Fonction pour bien évaluer les données de ces colonnes = liste
-from ast import literal_eval
-df_comparaison['subtypes'] = df_comparaison['subtypes'].apply(literal_eval)
-df_comparaison['colors'] = df_comparaison['colors'].apply(literal_eval)
-
-# NOUVELLE LIGNE TRUE/ALMOST/FALSE CARACTERISTIQUES
-
-new_row = []
-
+# On verifie si un nom a été entré
 if submitted:
     if  attempt_legend:
+        # CREATION DATASET COMPARAISON
+        today_creature = df_game.loc[df_game['name'] == todays_legend]
+        attempt_creature = df_game.loc[df_game['name'] == attempt_legend]
+
+        df_comparaison = pd.concat([today_creature, attempt_creature], ignore_index=True)
+
+        # Fonction pour bien évaluer les données de ces colonnes = liste
+        from ast import literal_eval
+        df_comparaison['subtypes'] = df_comparaison['subtypes'].apply(literal_eval)
+        df_comparaison['colors'] = df_comparaison['colors'].apply(literal_eval)
+
+        # NOUVELLE LIGNE TRUE/ALMOST/FALSE CARACTERISTIQUES
+        new_row = []
+
         for colonne in df_comparaison.columns :
             info1 = df_comparaison.loc[:, colonne][0]
             info2 = df_comparaison.loc[:, colonne][1]
@@ -109,92 +179,123 @@ if submitted:
 
             elif colonne == 'cmc' or colonne == 'power' or colonne == 'toughness' :
 
-                if info1 < info2 :
-                    new_row.append("LESS")
-                else :
-                    new_row.append("MORE")
+                if info1 == '*' or info2 == '*':
+                    if info1 == info2 :
+                        new_row.append("TRUE")
+                    else :
+                        new_row.append("OTHER")
+                else:
+                    info1 = int(info1)
+                    info2 = int(info2)
+
+                    if info1 < info2 :
+                        new_row.append("LESS")
+                    else :
+                        new_row.append("MORE")
             else:
                 new_row.append("FALSE")
 
+        # Intercalage des deux liste
+        list_attempt = pd.Series(attempt_creature.iloc[0])
+        list_attempt = list_attempt.to_list()
 
-        # CONVERTIR LISTE EN DF
-        df_features = pd.DataFrame(new_row)
-        df_features = df_features.T
-        df_features.columns = df_game.columns
+        zip_result = []
+        for element1, element2 in zip(list_attempt, new_row):
+            zip_result.append(element1)
+            zip_result.append(element2)
 
-        if todays_legend != attempt_legend :
+        zip_result = pd.DataFrame(zip_result)
+        zip_result = zip_result.T
+        zip_result.columns = col_list
 
-            # AJOUT LIGNE DE NOTRE ATTEMPT
-            df_result = pd.concat([df_result, attempt_creature], ignore_index=True)
+        # On concat la nouvelle ligne avec les autres lignes
+        df_zip_result = pd.concat([df_zip_result, zip_result], ignore_index=True)
 
-            # AJOUT LIGNE DE RESULTAT
-            df_result = pd.concat([df_result, df_features], ignore_index=True)
 
-        else :
+        if todays_legend == attempt_legend :
             st.success('FELICITATION TU AS TROUVE', icon="✅")
+
+        # ----------------------------------------------------
+        #               AFFICHAGE DU TABLEAU
+        # ----------------------------------------------------
+
+        head_table_html = f'''
+            <div class="result_table">
+                <div class="header_table">
+                    <div class="item">Légendaire</div>
+                    <div class="item">Coût Mana</div>
+                    <div class="item">Terrains</div>
+                    <div class="item">Sous Type</div>
+                    <div class="item">Rareté</div>
+                    <div class="item">Force</div>
+                    <div class="item">Endurance</div>
+                </div>
+            </div>
+        '''
+        st.markdown(head_table_html, unsafe_allow_html=True)
+
+        # ----------------------------------------------------
+        #                   LES LIGNES
+        # ----------------------------------------------------
+
+        st.session_state['df_zip_result'] = df_zip_result
+        
+        # Boucle de récupération des infos
+        for index in reversed(df_zip_result.index):
+
+            # index = len(df_zip_result) - index
+            # Les infos du légendaire selectionné
+            name = df_zip_result.iloc[index]['name']
+            cmc = df_zip_result.iloc[index]['cmc']
+            colors = df_zip_result.iloc[index]['colors']
+            subtypes = df_zip_result.iloc[index]['subtypes']
+            rarity = df_zip_result.iloc[index]['rarity']
+            power = df_zip_result.iloc[index]['power']
+            toughness = df_zip_result.iloc[index]['toughness']
+            # Liste de résultat
+            name_value = df_zip_result.iloc[index]['name_test']
+            cmc_value = df_zip_result.iloc[index]['cmc_test']
+            colors_value = df_zip_result.iloc[index]['colors_test']
+            subtypes_value = df_zip_result.iloc[index]['subtypes_test']
+            rarity_value = df_zip_result.iloc[index]['rarity_test']
+            power_value = df_zip_result.iloc[index]['power_test']
+            toughness_value = df_zip_result.iloc[index]['toughness_test']
+
+            result_table_html = f'''
+                <div class="result_table">
+                    <div class="row_table">
+                        <div class="item">{name}</div>
+                        <div class="item {cmc_value}">{cmc, cmc_value}</div>
+                        <div class="item {colors_value}">{colors}</div>
+                        <div class="item {subtypes_value}">{subtypes}</div>
+                        <div class="item {rarity_value}">{rarity}</div>
+                        <div class="item {power_value}">{power, power_value}</div>
+                        <div class="item {toughness_value}">{toughness, toughness_value}</div>
+                    </div>
+                </div>
+            '''
+            st.markdown(result_table_html, unsafe_allow_html=True)
+
 
     else:
         st.warning('ENTRER UN LEGENDAIRE', icon="⚠️")
 
-st.session_state['df_result'] = df_result
-st.dataframe(df_result, use_container_width=True)
+# Indice donné a partir d'un certain nombre d'essai
+if len(df_zip_result) >= 2 :
+    if st.button('Découvrir le coût Mana'):
+        st.warning(f'Le legendaire est : {df_comparaison[0,1]} ', icon="⚠️")
 
-if len(df_result) > 6 :
-    if st.button('Découvrir le légendaire'):
-        st.warning(f'Le legendaire est : {todays_legend} ', icon="⚠️") 
+if len(df_zip_result) >= 4 :
+    if st.button('Découvrir le Terrain'):
+        st.warning(f'Le legendaire est : {df_comparaison[0,2]} ', icon="⚠️")
 
-# # df_result.iloc[0]
-attempt_name = 'df_result["name"].iloc[0]'
-attr_val_1 = 'df_result["cmc"].iloc[0]'
-attr_val_2 = 'df_result["colors"].iloc[0]'
-attr_val_3 ='df_result["subtypes"].iloc[0]'
-attr_val_4 = 'df_result["rarity"].iloc[0]'
-attr_val_5 = 'df_result["power"].iloc[0]'
-attr_val_6 = 'df_result["toughness"].iloc[0]'
+if len(df_zip_result) >= 6 :
+    if st.button('Découvrir le Sous Type'):
+        st.warning(f'Le legendaire est : {df_comparaison[0,3]} ', icon="⚠️")
 
-src_img = ""
-bg_color_attr_1 = ""
-bg_color_attr_2 = ""
-bg_color_attr_3 = ""
-bg_color_attr_4 = ""
-bg_color_attr_5 = ""
-bg_color_attr_6 = ""
-
-style_css = '''
-<style>
-.game_display{
-    display:flex;
-    width:100%;
-    border: darkred solid 1px;
-}
-.item_img{
-    height:100px;
-    width:100px;
-}
-.item_attr{
-    height:100px;
-    width:100px;
-    border: silver solid 1px;
-}
-</style>
-'''
-
-st.markdown(style_css, unsafe_allow_html=True)
-
-# footer_html = f'''
-# <div class="game_display">
-#     <div class="item_img"><img src="{src_img}"/></div>
-#     <div class="item_attr">{attempt_name}</div>
-#     <div class="item_attr {bg_color_attr_1}">{attr_val_1}</div>
-#     <div class="item_attr {bg_color_attr_2}">{attr_val_2}</div>
-#     <div class="item_attr {bg_color_attr_3}">{attr_val_3}</div>
-#     <div class="item_attr {bg_color_attr_4}">{attr_val_4}</div>
-#     <div class="item_attr {bg_color_attr_5}">{attr_val_5}</div>
-#     <div class="item_attr {bg_color_attr_6}">{attr_val_6}</div>
-# </div> <!-- close game display -->
-# '''
-# st.markdown(footer_html, unsafe_allow_html=True)
-
+if len(df_zip_result) >= 8 :
+    if st.button('Découvrir le Légendaire'):
+        st.warning(f'Le legendaire est : {df_comparaison[0,3]} ', icon="⚠️")
 
 footer_html = '''
 </div> <!-- close main -->
