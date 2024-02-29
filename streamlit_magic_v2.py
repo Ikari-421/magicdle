@@ -150,8 +150,8 @@ else:
 #               AFFICHAGE DES INDICES
 # ----------------------------------------------------
 
-if len(df_zip_result) >= 1 :
-    st.write(df_todays_legend['name'])
+# if len(df_zip_result) >= 1 :
+#     st.write(df_todays_legend['name'])
 # Indice donné a partir d'un certain nombre d'essai
 if len(df_zip_result) >= 2 :
     if st.button('Découvrir le coût Mana'):
