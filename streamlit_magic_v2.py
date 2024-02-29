@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 # Pour avoir le Layout en wide d'office
-st.set_page_config(layout="centered", page_width=950)
+st.set_page_config(layout="wide")
 
 # Mise en cache du dataframe
 if 'df_game' not in st.session_state:
