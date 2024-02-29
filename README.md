@@ -1,0 +1,2 @@
+# magicdle
+Mission data MagicDle
