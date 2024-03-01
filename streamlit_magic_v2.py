@@ -165,7 +165,7 @@ if len(df_zip_result) >= 4 :
 
 if len(df_zip_result) >= 6 :
     if st.button('Découvrir le Sous Type'):
-        legend_subtype = df_todays_legend['subtype']
+        legend_subtype = df_todays_legend['subtypes']
         st.warning(f'Le Sous Type est : {legend_subtype} ', icon="⚠️")
 
 if len(df_zip_result) >= 8 :
